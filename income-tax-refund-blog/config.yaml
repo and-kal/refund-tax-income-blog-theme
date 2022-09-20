@@ -1,10 +1,10 @@
-baseURL: https://example.com
+baseURL: https://refundtaxincome.net
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Income Tax Refund
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
+# googleAnalytics: UA-123456789-1
+# disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -17,37 +17,35 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
+  homeMetaContent: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  codePenUser: someUser
+  codePenUser: and-kal
   katex: true
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  # navTitleText: Income Tax Refund
+  logoAlt: Bill Murray SNL-era photo
   customCss:
-    - css/custom_01.css
-    - css/custom_02.css
+    - css/custom.css
   customJs:
-    - js/custom_01.js
-    - js/custom_02.js
+    - js/custom.js
 
 menu:
   nav:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Upcoming
+      url: /upcoming/
       weight: 2
-    - name: Tags
-      url: /tags/
+    - name: Archive
+      url: /archive/
       weight: 3
     - name: About
       url: /about/
