@@ -1,4 +1,4 @@
-run dev server with `
+run dev server with 
 
 ```
 cd ./themes/cupper-hugo-theme/income-tax-refund-blog
@@ -10,7 +10,7 @@ build /public/ folder with
 
 ```
 cd ./themes/cupper-hugo-theme/income-tax-refund-blog
-hugo --minify --destination ../../../public --themesDir ../..
+hugo --minify --destination ./public --themesDir ../..
 ```
 
 ##### hints on the setup

@@ -1,0 +1,210 @@
+{
+  "2022": [{ "date": "", "bands": "" }],
+  "2021": [
+    { "date": "AUG25", "bands": "Talibam!" },
+    { "date": "JUL5", "bands": "Somaticae | Kacktuss | Eyal Talmor" },
+    {
+      "date": "NOV6",
+      "bands": "Clear History | Snitch Pitch | Cesar Palace | Staxl"
+    }
+  ],
+  "2020": [
+    { "date": "MAR11", "bands": "Emma Grace | Kacktuss" },
+    { "date": "JAN24", "bands": "Oba Boba & die Abgründe | Doc Flippers" }
+  ],
+  "2019": [
+    { "date": "DEC02", "bands": "Nina Harker | Carton | Teubé" },
+    { "date": "NOV27", "bands": "Sajjra | chance to tliwosc" },
+    {
+      "date": "NOV11",
+      "bands": "Tropical Trash | State Champion | Ned Colette | Rastrejo"
+    },
+    { "date": "OCT23", "bands": "Slumb Party | Moron" },
+    { "date": "OCT21", "bands": "Pauwels | Cesar Palace | jeffk" },
+    { "date": "OCT20", "bands": "Lassie | Dog Dimension | Purpur Spytt" },
+    { "date": "SEP13", "bands": "Ryskinder | Ricarda Cometa" },
+    {
+      "date": "SEP11",
+      "bands": "Landowner | One Room Hotel | Planets are on it"
+    },
+    { "date": "SEP01", "bands": "Cuntroaches | B'schissn | Staxl Oll" },
+    {
+      "date": "AUG08",
+      "bands": "Neon Lies | The Rainbows | Invisible Popcorn"
+    },
+    {
+      "date": "JUL18",
+      "bands": "Juicebumps | Empty Bones | Lassie VS Doc Flippers | Eazy"
+    },
+    { "date": "JUN23", "bands": "Warm Swords | Erasers | Carbon Hysteria" },
+    {
+      "date": "JUN10",
+      "bands": "Marbled Eye | Tanning Bats | Geyer Inferno & King Kolba"
+    },
+    { "date": "MAY31", "bands": "Cagette & Jealous & Avishag Cohen Rodrigues" },
+    { "date": "MAY26", "bands": "Zad Kokar & Les Combi Beyaz | YOR" },
+    {
+      "date": "MAY24",
+      "bands": "Bunte Truppe (Adam/Fuchs/Oliveras/Schick) | Deliluh | OKGB"
+    },
+    { "date": "MAY22", "bands": "Attic Ted | De Klumb | Püppi Galore" },
+    { "date": "MAY14", "bands": "Vaguess | Lassie | Warm Swords" },
+    { "date": "MAY8", "bands": "Guttersnipe | Gud Er Kvinde" },
+    { "date": "APR28", "bands": "AG Form | mOck" },
+    { "date": "APR22", "bands": "The Staches + Knickers" },
+    { "date": "MAR30", "bands": "Nichtseattle" },
+    { "date": "MAR14", "bands": "Lassie | Knickers | #BBF" },
+    { "date": "JAN29", "bands": "Sufre | Hallelujah Mother Helpers" }
+  ],
+  "2018": [
+    { "date": "DEC27", "bands": "Abrichten | chance to tliwosc" },
+    {
+      "date": "DEC8",
+      "bands": "Shitchain (Shiplovers | Buzkashi Reinhardt) & Abrichten"
+    },
+    { "date": "OCT18", "bands": "Moon Relay + Bell Lungs" },
+    {
+      "date": "SEP30",
+      "bands": "Wolfgang Seidel liest »Wir müssen hier raus!« | Staxl Oll"
+    },
+    {
+      "date": "AUG28",
+      "bands": "Suicidal Furniture | Traashboo/ ____u̵n̷ | MMaya"
+    },
+    { "date": "AUG07", "bands": "Les Halles | Magnetophonique | Datashock" },
+    { "date": "JUL25", "bands": "ROCK | Laxity" },
+    { "date": "JUL6", "bands": "Flying Moon in Space | Lassie" },
+    { "date": "JUL5", "bands": "Partout Partout | Sébastien Branche" },
+    {
+      "date": "JUL3",
+      "bands": "Orchestre Tout Puissant Marcel Duchamp XXL | Staxl Oll"
+    },
+    { "date": "JUN21", "bands": "Golden Oriole | Brutal Blues" },
+    {
+      "date": "JUN10",
+      "bands": "Maraudeur | Purpur Spytt | Thee Agnes Muller | Macrophagos"
+    },
+    { "date": "AUG07", "bands": "Les Halles | Magnetophonique | Datashock" },
+    { "date": "MAY28", "bands": "Dolphins | Freak Heat Waves | New Fries" },
+    {
+      "date": "MAY8",
+      "bands": "Lemones | Weird/Dust | Ernesto González b2b Judith Crasser"
+    },
+    { "date": "MAY6", "bands": "Marbled Eye | The Staches | Moron" },
+    { "date": "MAY3", "bands": "Claws Of Saurtopia NoiseFestWarmUp #4" },
+    { "date": "APR28", "bands": "Barłóg | Biggest Rat | 2035" },
+    { "date": "APR12", "bands": "Claws Of Saurtopia NoiseFestWarmUp #3" },
+    { "date": "MAR21", "bands": "Schrein | Staxl Oll" },
+    { "date": "MAR15", "bands": "Dno" },
+    { "date": "FEB17", "bands": "DUDS | Maraudeur | Rouge Gorge" },
+    {
+      "date": "JAN21",
+      "bands": "Oba Boba & die Abgründe | Staxl Oll | Planets Are On It | The Woman Inside"
+    }
+  ],
+  "2017": [
+    {
+      "date": "DEC15",
+      "bands": "Tropical Trash | Octopoulpe | Brutal Birthday"
+    },
+    { "date": "NOV24", "bands": "Exit Order | Total Heels" },
+    { "date": "NOV18", "bands": "Tick | Neon Lies | Bionihil" },
+    { "date": "OCT13", "bands": "" },
+    { "date": "OCT5", "bands": "Noir Reva | Radium Palazzo" },
+    {
+      "date": "SEP23",
+      "bands": "Mosquito Ego | WIDT | Buzkashi Reinhart | Ghani's Boys"
+    },
+    { "date": "SEP15", "bands": "Golden Oriole | BRIE | FOOD | Kaktus" },
+    {
+      "date": "MAY29",
+      "bands": "Hildegard von Binge Drinking | Deux Boules Vanille | Partout Partout"
+    },
+    {
+      "date": "APR22",
+      "bands": "Qujaku | The Contact High | Ryskinder | Mother Sunday"
+    },
+    {
+      "date": "MAR30",
+      "bands": "The Staches | Purpur Spytt | YOR | DJ GeneTurtletaub"
+    },
+    { "date": "MAR12", "bands": "Blanka | Pascale Project" },
+    { "date": "MAR4", "bands": "Cannonball Statman" },
+    {
+      "date": "FEB27",
+      "bands": "Plattenbau | Lobster Lobster | Til Schweiger Must Die"
+    }
+  ],
+  "2016": [
+    {
+      "date": "DEC10",
+      "bands": "Fuego | Corecass | Randomismyname | Der Züchter der Hoffnungslosigkeit"
+    },
+    {
+      "date": "NOV11",
+      "bands": "Golden Oriole | Partout Partout | Horacio Pollard | Wambel"
+    },
+    { "date": "NOV5", "bands": "State Champion | Sajjanu" },
+    { "date": "NOV4", "bands": "State Champion | Coldsore | Broker" },
+    { "date": "OCT24", "bands": "YES DEER | Dwarphs | Belka" },
+    { "date": "OCT21", "bands": "Casual Hex | Hyäne | T6-DJ*ane-Team" },
+    {
+      "date": "OCT15",
+      "bands": "Antikaroshi | Astral Tide | RandomIsMyName | Hansen Windisch"
+    },
+    { "date": "OCT2", "bands": "KURWS | Tister | Jævndøgn" },
+    { "date": "SEP19", "bands": "Minami Deutsch | Flying Moon in Space" },
+    {
+      "date": "SEP18",
+      "bands": "Mystic Inane | Warriors of Darkness | Cuntroaches | YOR"
+    },
+    { "date": "SEP2", "bands": "Darren Eve Trio" },
+    { "date": "JUL12", "bands": "Less Win | Pelada | Abrichten" },
+    { "date": "JUL6", "bands": "Froe Char | Ame De Boue" },
+    { "date": "JUN8", "bands": "Die Emotionen" },
+    { "date": "JUN6", "bands": "SAUNA YOUTH (UK)" },
+    { "date": "MAY13", "bands": "NOIR REVA | PATIENT, PATIENT | JEFFK" },
+    { "date": "MAY10", "bands": "Black Zone Myth Chant | Chicaloyoh" },
+    {
+      "date": "APR11",
+      "bands": "AT BONA FIDE | CRYSTAL SODA CREAM | LAUNDERED SYRUP | WINKELSCHLEIFER"
+    },
+    { "date": "APR5", "bands": "PAUWELS | BLANKA | NIVEAU 100" },
+    { "date": "APR4", "bands": "MOIN MOIN | VIKTOR'S JOY" },
+    {
+      "date": "MAR26",
+      "bands": "GOLDEN ORIOLE | もしもしSUPERMAGIC | Hot BoC (X) Time Machine"
+    }
+  ],
+  "2015": [
+    { "date": "DEC4", "bands": "KUMULUS | WELL I WONDER | OSIS KRULL" },
+    { "date": "NOV24", "bands": "BATALJ | THE GASH | CUNTROACHES" },
+    { "date": "NOV13", "bands": "ASTRAL TIDE | FABIAN" },
+    { "date": "OCT22", "bands": "100% Chevalier | Lingua Nada" },
+    { "date": "OCT11", "bands": "DJ DINGO SUSI | JAMHED" },
+    { "date": "AUG16", "bands": "Fabian | At Bona Fide | Skrze Reku" },
+    { "date": "AUG15", "bands": "KÆLAN MIKLA | ABRICHTEN" },
+    {
+      "date": "MAY23",
+      "bands": "Elisabeth | Philipp Melon | LENZIAN KOWSKI | FAQ | DJ RIJKAARD"
+    },
+    { "date": "MAY15", "bands": "PIGEON | YON | ROBOTRON" },
+    { "date": "APR2", "bands": "LINGUA NADA | TREEHOUSES" },
+    { "date": "MAR27", "bands": "LENZIAN KOWSKI, FAQ, DJ RIJKAARD" },
+    { "date": "FEB27", "bands": "Tarentatec | Pauwels" },
+    { "date": "FEB2", "bands": "MOLDE | DWARPHS | LINGUA NADA" },
+    { "date": "JAN29", "bands": "BALG | JAMES WELBURN | FUCHS TEUFELS WILD" },
+    { "date": "JAN15", "bands": "SFERICS | EMMANUELE GATTUSO | ABOVE THE TREE" }
+  ],
+  "2014": [
+    { "date": "DEC11", "bands": "ACTION! ATTENTION! | SODALANE | QUADRUPÈDE" },
+    { "date": "NOV26", "bands": "GOLDEN DONNA & Robyrt Hecht" },
+    { "date": "NOV24", "bands": "ORDRE ETERN | COÀGUL" },
+    { "date": "NOV13", "bands": "FAR-OUT FANGTOOTH | AT BONA FIDE | PACINO" },
+    { "date": "NOV1", "bands": "Warm Graves | Jeffk" },
+    { "date": "OCT31", "bands": "ROOM204 | PAPER PLANES" },
+    { "date": "OCT17", "bands": "Less Win | 100%chevalier | Avventur" },
+    { "date": "OCT16", "bands": "MYTRIP" },
+    { "date": "OCT10", "bands": "WELS | KOKOMO" }
+  ]
+}

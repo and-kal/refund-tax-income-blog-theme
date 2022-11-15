@@ -1,0 +1,86 @@
+baseURL: https://refundtaxincome.net
+languageCode: en-us
+defaultContentLanguage: en
+title: Income Tax Refund
+theme: cupper-hugo-theme
+# googleAnalytics: UA-123456789-1
+# disqusShortname: yourdiscussshortname
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
+  homeMetaContent: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  codePenUser: and-kal
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  moveFooterToHeader: false
+  # navTitleText: Income Tax Refund
+  logoAlt: Bill Murray SNL-era photo
+  customCss:
+    - css/custom.css
+  customJs:
+    - js/custom.js
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Upcoming Shows
+      url: /upcoming/
+      weight: 2
+    - name: Past Shows
+      url: /past/
+      weight: 3
+    - name: Archive
+      url: /archive/
+      weight: 4
+    - name: RSS
+      url: /index.xml
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
