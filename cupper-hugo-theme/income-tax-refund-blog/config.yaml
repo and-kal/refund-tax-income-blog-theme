@@ -17,24 +17,24 @@ imaging:
   quality: 99
 
 params:
-  description: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
-  homeMetaContent: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music-lovers, ceative people and off-spaces. Hit us up if you are looking for a show in Leipzig or if you want to join our newsletter.
+  description: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music aficionadxs, creative minds and off-spaces. Hit us up, if you are looking for a show, or if you want to join our newsletter.
+  homeMetaContent: Income Tax Refund is a non-commercial DIY collective based in Leipzig. We're setting up concerts for underground musicians here and around, and try to create a network of musicians, music aficionadxs, creative minds and off-spaces. Hit us up, if you are looking for a show, or if you want to join our newsletter.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: and-kal
-  katex: true
+  katex: false
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Income Tax Refund
   logoAlt: Bill Murray SNL-era photo
-  customCss:
-    - css/custom.css
-  customJs:
-    - js/custom.js
+  # customCss:
+  #   - css/custom.css
+  # customJs:
+  #   - js/custom.js
 
 menu:
   nav:

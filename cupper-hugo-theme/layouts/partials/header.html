@@ -15,11 +15,11 @@
           >
         {{ end }}
       </a>
+      {{ partial "nav.html" . }}
       <p class="library-desc">
         {{ with .Site.Params.description }} {{ . | markdownify }} {{ end }}
       </p>
     </div>
-    {{ partial "nav.html" . }}
     {{ if eq .Site.Params.moveFooterToHeader true }}
       {{ partial "footer.html" . }}
     {{ end }}
