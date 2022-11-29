@@ -10,7 +10,7 @@ venue_show: "SPXLXNKX"
 
 two mindmeltingly fine avant-punk acts from Poland
 
-![KURWS + Zdrój](/posters/2022-10-26.jpg)
+![KURWS + Zdrój](../../posters/2022-10-26.jpg)
 
 Links:
 - https://kurws.bandcamp.com/album/powi-fascia

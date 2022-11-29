@@ -40,4 +40,4 @@ Location: Pracht
 
 Doors 20h00/Start 21h00
 
-![Leep, Rosa Blaulicht, Zad Kokar](/posters/2022-11-26.jpg)
+![Leep, Rosa Blaulicht, Zad Kokar]((../../posters/2022-11-26.jpg)

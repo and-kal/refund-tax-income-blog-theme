@@ -8,7 +8,7 @@ time_show: "19:00"
 venue_show: "Gleiserei"
 ---
 
-![Alpha Strategy, Forbidden Wizards, Tim Dahl + Thore Warland](/posters/2022-09-30.jpg)
+![Alpha Strategy, Forbidden Wizards, Tim Dahl + Thore Warland](../../posters/2022-09-30.jpg)
 
 Unfortunately TIPP + SPIELO had to cancel their show(s) but they'll be back in Leipzig soon enough. 
 Line-up for this show now is:

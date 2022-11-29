@@ -10,7 +10,7 @@ venue_show: "private show"
 
 Everybody who's too broke to enjoy this years' incredible TCU Fest - just swing by at this jam on Sunday!
 
-![C_C, Acte Bonté, Kou, Guilio Erasmus](/posters/2022-11-13.jpg)
+![C_C, Acte Bonté, Kou, Guilio Erasmus](../../posters/2022-11-13.jpg)
 ---
 
 **Acte Bonté**
