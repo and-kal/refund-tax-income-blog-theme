@@ -1,0 +1,14 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<ul id="list" class="archive_year patterns-list">
+    {{ range $year, $obj := $.Site.Data.concertList }}
+    {{ if eq $year (string $.Params.shows) }}
+    {{ range $obj }}
+    <li>
+        <div class="archive_year_date">{{ .date }}</div>
+        <div class="archive_year_bands">{{ .bands }}</div>
+    </li>
+    {{end}}
+    {{end}}
+    {{end}}
+</ul>

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main id="main">
+   <h1>
+      <use href="#bookmark"></use>
+      {{ "Gig archive"  }} {{ .Title }}
+   </h1>
+
+   {{ if site.Params.search }}
+   <input 
+   id="search" 
+   type="text" 
+   placeholder="{{ T " search_placeholder" }}" 
+   aria-label="{{ T " search_aria_label"}}" 
+   />
+   {{ end }}
+   {{ .Content }}
+</main>
+{{ end }}

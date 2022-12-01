@@ -1,12 +1,11 @@
 {
-  "2022": [{ "date": "", "bands": "" }],
   "2021": [
-    { "date": "AUG25", "bands": "Talibam!" },
-    { "date": "JUL5", "bands": "Somaticae | Kacktuss | Eyal Talmor" },
     {
       "date": "NOV6",
       "bands": "Clear History | Snitch Pitch | Cesar Palace | Staxl"
-    }
+    },
+    { "date": "AUG25", "bands": "Talibam!" },
+    { "date": "JUL5", "bands": "Somaticae | Kacktuss | Eyal Talmor" }
   ],
   "2020": [
     { "date": "MAR11", "bands": "Emma Grace | Kacktuss" },

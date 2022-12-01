@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main id="main">
+	<h1>{{ .Title }}</h1>
+	<div id="list">
+		{{ range $year, $obj := $.Site.Data.concertList }}
+
+		<h2>
+			<a href="{{ $year }}">
+				<svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+					<use href="#bookmark"></use>
+				</svg>
+				{{ $year }}
+			</a>
+		</h2>
+
+		{{end}}
+	</div>
+</main>
+{{ end }}

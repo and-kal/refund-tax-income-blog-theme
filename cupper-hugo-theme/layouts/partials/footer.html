@@ -1,7 +1,5 @@
 <footer role="contentinfo">
-  <div
-  {{ if eq .Site.Params.showThemeSwitcher false }}style="display: none;"{{ end }}
-  >
+  <div {{ if eq .Site.Params.showThemeSwitcher false }}style="display: none;" {{ end }}>
     <label for="themer">
       {{ T "dark_theme" }} <input type="checkbox" id="themer" class="vh">
       <!-- Shows "on" or "off" -->
@@ -9,7 +7,12 @@
     </label>
   </div>
   {{ with .Site.Params.footer }}
-    {{ . | markdownify }}
-    <br />Font used: "Sligoil" by Ariel Martín Pérez (<a href="https://www.velvetyne.fr" rel="noopener noreferrer" target="_blank">Velvetyne Type Foundry</a>)
+  Font used: "Sligoil" by Ariel Martín Pérez (<a href="https://www.velvetyne.fr" rel="noopener noreferrer"
+    target="_blank">Velvetyne Type Foundry</a>)
+  <br />
+  itr.root.sx provided by <a href="https://freedns.afraid.org/" rel="noopener noreferrer"
+    target="_blank">freedns.afraid.org</a>
+  <br />
+  {{ . | markdownify }}
   {{ end }}
 </footer>

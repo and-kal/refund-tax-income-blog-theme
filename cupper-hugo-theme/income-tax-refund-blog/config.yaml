@@ -47,9 +47,9 @@ menu:
     - name: Past Shows
       url: /past/
       weight: 3
-    # - name: Archive
-    #   url: /archive/
-    #   weight: 4
+    - name: pre-2022
+      url: /gigarchive/
+      weight: 4
     - name: RSS
       url: /index.xml
       weight: 5

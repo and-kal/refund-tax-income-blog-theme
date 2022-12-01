@@ -17,7 +17,7 @@ Last Strasbourgeoise standing - ZAD KOKAR - is gonna hit the road solo this time
 
 https://petite-nature.bandcamp.com
 
----
+
 
 **Rosa Blaulicht**
 [deathrock-ish post-punk]
@@ -25,19 +25,16 @@ https://petite-nature.bandcamp.com
 https://rosablaulicht.bandcamp.com
 
 
----
 
 **LEEP**
 [gloomy and slowcore-y]
 
 https://leep.bandcamp.com/album/elam-melbo
 
----
+----
 
 Please come tested !
 
-Location: Pracht
+----
 
-Doors 20h00/Start 21h00
-
-![Leep, Rosa Blaulicht, Zad Kokar]((../../posters/2022-11-26.jpg)
+<!-- ![Leep, Rosa Blaulicht, Zad Kokar](../../posters/2022-11-26.jpg) -->

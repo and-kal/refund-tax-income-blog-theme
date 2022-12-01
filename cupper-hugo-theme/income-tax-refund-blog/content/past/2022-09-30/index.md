@@ -14,7 +14,7 @@ Unfortunately TIPP + SPIELO had to cancel their show(s) but they'll be back in L
 Line-up for this show now is:
 
 **ALPHA STRATEGY** 
-[weirdonoisyrock|Prague]
+[weirdonoisyrock | Prague]
 
 - https://alphastrategy.bandcamp.com
 - https://youtu.be/8rTwM7s5Cnw
@@ -22,7 +22,7 @@ Line-up for this show now is:
 ---
 
 **FORBIDDEN WIZARDS** 
-[epilepticHChighspeednoisepunk|Rotterdam]
+[epilepticHChighspeednoisepunk | Rotterdam]
 
 - https://forbiddenwizards.bandcamp.com
 - https://youtu.be/jntdy8BZTK8
@@ -30,7 +30,7 @@ Line-up for this show now is:
 ---
 
 **TIM DAHL + THORE WARLAND** 
-[bass+mental drum loop madness/ free jazz? doubleBrooklyn/Stavanger]
+[bass+mental drum loop madness/ free jazz? double | Brooklyn/Stavanger]
 
 Video of tim dahl solo ät Hitness club:: https://youtu.be/8Vqo8AX39BY
 
@@ -38,7 +38,9 @@ Video of tim dahl solo ät Hitness club:: https://youtu.be/8Vqo8AX39BY
 
 Friday30th September @Gleiserei
 
-Doors19h00|Start:20h00 sharp!/Curfew bands 23h00!
+Start:20h00 sharp!
+/ 
+Curfew bands 23h00!
 
 --- 
 
