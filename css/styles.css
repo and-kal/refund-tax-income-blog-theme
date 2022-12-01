@@ -80,12 +80,6 @@ a {
   outline-offset: 2px;
 }
 
-/* Katex math typesetting */
-.katex * {
-    margin-top: 0;
-    background-color: transparent;
-}
-
 /* Fix for IE :( */
 [tabindex="-1"]:focus,
 div:not([tabindex]):focus {
@@ -441,18 +435,6 @@ caption {
 .toc ol {
     margin-left: 0.75rem;
     margin-top: 0.5rem;
-}
-
-/* Disqus Comments */
-#disqus-container {
-  text-align: center;
-}
-#disqus-button {
-  width: 100%;
-  padding: 0.25em 0.75em;
-}
-#disqus-comments {
-  display: none; 
 }
 
 /* Pattern lists */
@@ -1037,4 +1019,17 @@ h1 svg {
 ::selection {
   background: rgba(0,0,0,.8);
   color: #fefefe;
+}
+
+/* custom templates */
+
+#event-time {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.archive_year_date,
+.archive_year_bands {
+    margin-top: 0.5rem;
 }
