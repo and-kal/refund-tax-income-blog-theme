@@ -1,5 +1,5 @@
 ---
-title: "Autobahns, Beach Cops, Cybord sacrifice"
+title: "Autobahns, Beach Cops, Cyborg Sacrifice"
 date: 2022-12-05T20:43:01+01:00
 draft: false
 

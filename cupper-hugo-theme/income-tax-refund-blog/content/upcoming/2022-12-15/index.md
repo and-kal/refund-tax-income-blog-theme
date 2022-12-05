@@ -1,5 +1,5 @@
 ---
-title: "Jooklo Duo, Mik Quantius, Steffen Roth + Gregor Forbes"
+title: "Jooklo Duo, Mik Quantius, Steffen Roth + Stephan Deller + Gregor Forbes"
 date: 2022-11-29T12:07:57+01:00
 draft: false
 
@@ -23,10 +23,10 @@ Was about time to bring the Jooklo experience to our little fair city. Roaming t
 Mik is back in town! If you were smart, you caught him last year joining the keyboard/drumkit freakout duo *Talibam!*. Those old enough and with their memory not completely hazed, migt remember Mik as a member of kraut commune Embryo. Anyway, here's your chance to see Mik solo - bringing some of his custom throat-singing style, instrument-thrasing and incantational fungoid chants to the stage. Shree gum namah!
 
 
-**Steffen Roth + Gregor Forbes**
+**Steffen Roth + Stephan Deller + Gregor Forbes**
 [drums'n'piano / Leipzig]
 
-As for local support, there's some serious stuff going down: Jazzist-drummist Steffen Roth will join forces with New Music pianist and Hanns Eisler advocate Gregor Forbes and do a little tangy duo show. 
+As for local support, there's a little tangy trio improving: Jazzist-drummist Steffen Roth will join forces with New Music pianist and Hanns Eisler advocate Gregor Forbes topped off by Stephan Deller's bass rumblings. 
 
 ----
 
