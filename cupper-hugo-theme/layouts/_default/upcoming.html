@@ -10,7 +10,7 @@
   />
   {{ end }}
   <ul class="patterns-list" id="list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range .Pages.ByParam "date_show" }}
     <li>
       <h2>
         <p>{{ .Params.date_show }}</p>

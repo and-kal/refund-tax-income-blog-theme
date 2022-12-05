@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main id="main">
+  <h1>
+    <use href="#bookmark"></use>
+    {{ .Title }}
+  </h1>
+
+
+  {{ .Content }}
+  <div id="event-time">
+    <p>{{ .Params.date_show }}</p>
+    <p>{{ .Params.time_show }}</p>
+    <p>{{ .Params.venue_show }}</p>
+  </div>
+</main>
+{{ end }}
