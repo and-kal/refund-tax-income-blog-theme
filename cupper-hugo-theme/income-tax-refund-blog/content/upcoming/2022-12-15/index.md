@@ -8,7 +8,7 @@ time_show: "20:00"
 venue_show: "Salon Villa Plagwitz"
 ---
 
-<!-- ![Jooklo Duo, Mik Quantius](../../posters/2022-12-15.jpg) -->
+![Jooklo Duo, Mik Quantius](../../posters/2022-12-15.jpg)
 
 
 **Jooklo Duo**
