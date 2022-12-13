@@ -59,7 +59,7 @@ abbr {
 }
 img {
     max-width: 100%;
-    max-height: 70vw;
+    /* max-height: 70vw; */
 }
 .img-link {
     border-bottom: none;
