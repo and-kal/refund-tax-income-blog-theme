@@ -28,4 +28,4 @@ Doors from 19h30 through the back entrance/smoking outside!/“quality“ music 
 
 [https://youtu.be/6yGZZr8D95U](https://youtu.be/6yGZZr8D95U)
 
-![Ka Baird, T.u.B., Good Luck](../../posters/2022-12-08.jpg)
+![Autobahns, Beach Cops, Cyborg Sacrifice](../../posters/2022-12-08.jpg)

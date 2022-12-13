@@ -37,4 +37,6 @@ Please come tested !
 
 ----
 
-<!-- ![Leep, Rosa Blaulicht, Zad Kokar](../../posters/2022-11-26.jpg) -->
+![Leep, Rosa Blaulicht, Zad Kokar](../../posters/2022-11-26.jpg)
+
+cheery poster art by Eric Reh
