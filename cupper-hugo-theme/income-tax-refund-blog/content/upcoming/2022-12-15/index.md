@@ -21,7 +21,7 @@ Doors: 19h00  人人人 Start: 20h15
 Was about time to bring the Jooklo experience to our little fair city. Roaming the improv and weird music underground already since the mid-00's, David Vanzan and Virginia Genta (also known through projects such as Golden Jooklo Age, Jooklo Quartet, Jooklo Stellar Tribe, Neokarma Jooklo Trio, New Jooklo Age etc.) will now bring some chakric, mental no-jazz to Leipzig for the first time. Aham brahmāsmi!
 
 
-**Mik Quantus**
+**Mik Quantius**
 [solo noise / Munich]
 
 Mik is back in town! If you were smart, you caught him last year joining the keyboard/drumkit freakout duo *Talibam!*. Those old enough and with their memory not completely hazed, migt remember Mik as a member of kraut commune Embryo. Anyway, here's your chance to see Mik solo - bringing some of his custom throat-singing style, instrument-thrashing and incantational fungoid chants to the stage. Shree gum namah!
