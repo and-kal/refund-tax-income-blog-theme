@@ -4,11 +4,15 @@ date: 2022-11-29T12:07:57+01:00
 draft: false
 
 date_show: "2022|12|15"
-time_show: "20:00"
+time_show: "20:15"
 venue_show: "Salon Villa Plagwitz"
 ---
 
-![Jooklo Duo, Mik Quantius](../../posters/2022-12-15.jpg)
+Last show for this year! 人人人 Don't miss it! 
+
+Doors: 19h00  人人人 Start: 20h15
+
+![Jooklo Duo, Mik Quantius, Steffen Roth + Stephan Deller + Gregor Forbes](../../posters/2022-12-15.jpg)
 
 
 **Jooklo Duo**
@@ -30,12 +34,22 @@ As for local support, there's a little tangy trio improving: Jazzist-drummist St
 
 ----
 
-[the Jooklo Web Experience](http://jooklo.altervista.org/)
+Merci ❤️ [@aranzazumoena](https://www.instagram.com/aranzazumoena) 4 the póster
+
+----
+
+[the Jooklo web Experience](http://jooklo.altervista.org/)
 
 [interview with Mik Quantius](https://www.psychedelicbabymag.com/2021/08/mik-quantius.html)
+
+[Mik Quantius: Mik Mich](https://hetgeneriek.bandcamp.com/album/mik-mich)
+
+[Mik Quantius: Usic](https://artsyrecords.bandcamp.com/album/usic)
 
 [Steffen Roth](https://www.steffenroth.de/)
 
 [Gregor Forbes](https://www.neue-musik-leipzig.de/lehrer-und-faecher/klavierunterricht/gregor-forbes/)
+
+[Stephan Deller](https://soundcloud.com/user-788984365)
 
 ----
