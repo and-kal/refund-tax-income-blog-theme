@@ -1,7 +1,7 @@
 run dev server with 
 
 ```
-cd ./themes/cupper-hugo-theme/income-tax-refund-blog
+cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo server --themesDir ../..
 ```
 
@@ -9,7 +9,7 @@ hugo server --themesDir ../..
 build /public/ folder with
 
 ```
-cd ./themes/cupper-hugo-theme/income-tax-refund-blog
+cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo --minify --destination ./public --themesDir ../..
 ```
 

@@ -1,11 +1,11 @@
 [build]
   publish = "income-tax-refund-blog/public"
-  command = "cd income-tax-refund-blog && hugo --themesDir ../.. --minify"
+  command = "cd ./income-tax-refund-blog && hugo --themesDir ../.. --minify"
 
 [build.environment]
   HUGO_VERSION = "0.83.1"
   HUGO_THEME = "cupper-hugo-theme"
-  HUGO_BASEURL = "https://refund-tax-income.netlify.app"
+  HUGO_BASEURL = "https://marvelous-crostata-5e7f99.netlify.app"
 
 [[headers]]
   for = "/*"

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-cd exampleSite
+cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo serve --themesDir ../..
 cd ..

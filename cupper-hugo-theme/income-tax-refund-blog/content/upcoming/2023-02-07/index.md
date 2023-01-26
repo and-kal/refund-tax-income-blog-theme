@@ -10,7 +10,7 @@ venue_show: "Can Han Hap"
 
 Doors: 19h30  人人人 Start: 20h15
 
-![Pogy & les Kefars, Parking Lot, Snitsh Pitsh](../../posters/2023-01-13.png)
+![Pogy & les Kefars, Parking Lot, Snitsh Pitsh](../../posters/2023-02-07.png)
 
 Merci ❤️ [@aranzazumoena](https://www.instagram.com/aranzazumoena) 4 the póster
 
