@@ -13,6 +13,16 @@ cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo --minify --destination ./public --themesDir ../..
 ```
 
+publish to gh-pages via
+
+```
+git worktree add public gh-pages
+cd public
+git add -f .
+git commit ...
+git push origin gh-pages
+```
+
 ##### hints on the setup
 
 https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/

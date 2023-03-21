@@ -33,7 +33,7 @@ This local quartet volleys hits and hits and hits on end! So, get a good dose of
 …a percussive solo of tribal noisy technorave: this mashup of minimalism, cosmic drone and pure rhythm will melt any brain with his wide range of effects pedals, amplified kicks and shells, and all that drumming goodness.
 
 **DOC FLIPPERS** [do the don'ts]
-…is some deeply existential neo-folk project from Saxony, if I recall correctly. Or was it like the *Minutemen* teaming with the Uranium Club up for a round of opiates and Kentucky Bourbons (•ิ_•ิ)? - Which one was it?
+…is some deeply existential neo-folk project from Saxony, if I recall correctly. Or was it like the *Minutemen* teaming up with the *Uranium Club* for a round of opiates and Kentucky Bourbons (•ิ_•ิ)? - Which one was it?
 
 ----
 
