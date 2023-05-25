@@ -1,7 +1,7 @@
 ---
 title: "Double Job + St. Upid + FiS + SJ C.O.R.A.N"
 date: 2023-05-24T16:49:34+01:00
-draft: true
+draft: false
 
 date_show: "2023|06|11"
 time_show: "16:30"
@@ -18,10 +18,10 @@ on
 *sUNDAY, 11 June*
 
 with the bands:
-**Double Job** ()
-**St. Upid** ()
-**FiS** ()
-**SJ C.O.R.A.N** (artificial human intelligence jukebox)
+**Double Job** (zippy quasi-punk funkery)
+**St. Upid** (crafty no-rave demolition squad)
+**FiS** (spiffy, cagey lab pop melancholia)
+**SJ C.O.R.A.N** (giddy replicant intelligence jukebox savant)
 
 ![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg)
 
@@ -37,6 +37,7 @@ Finito 22h00
 
 [https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
 [https://ubac.bandcamp.com/album/colour-company](https://ubac.bandcamp.com/album/colour-company)
+[https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii](Double Job - Aujourd'hui (Raytrack Session 3/3))
 
 
 **St. Upid** (Halle/Westfalen)
@@ -54,4 +55,3 @@ fka. Famous In Suwałki
 
 **SJ C.O.R.A.N** (Leipsic, OH)
 aka. (Kr)achim solo - AI lyrics on request + synth + MIDI 1.0 guitar performance
-[]()

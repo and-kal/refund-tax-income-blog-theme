@@ -15,11 +15,11 @@ hugo --minify --destination ./public --themesDir ../..
 
 publish to gh-pages via
 
-```
-git worktree add public gh-pages
+```bash
+git worktree add public gh-pages # delete ./public folder if you get an error message and build again before commiting 
 cd public
 git add -f .
-git commit ...
+git commit -m"..."
 git push origin gh-pages
 ```
 
