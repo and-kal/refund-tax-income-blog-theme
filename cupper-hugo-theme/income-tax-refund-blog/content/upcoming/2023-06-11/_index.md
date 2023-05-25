@@ -33,7 +33,7 @@ Finito 22h00
 
 
 **Double Job** (New Leipzig, ND)
-= Maraudeur + Planets Are On It + Ⅹ
+= Maraudeur + Planets Are On It 
 
 [https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
 [https://ubac.bandcamp.com/album/colour-company](https://ubac.bandcamp.com/album/colour-company)
