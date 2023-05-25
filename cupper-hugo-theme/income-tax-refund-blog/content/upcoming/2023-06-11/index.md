@@ -18,9 +18,13 @@ on
 *sUNDAY, 11 June*
 
 with the bands:
+
 **Double Job** (zippy quasi-punk funkery)
+
 **St. Upid** (crafty no-rave demolition squad)
+
 **FiS** (spiffy, cagey lab pop melancholia)
+
 **SJ C.O.R.A.N** (giddy replicant intelligence jukebox savant)
 
 <!-- ![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg) -->
@@ -31,13 +35,12 @@ Finito 22h00
 
 ----
 
-
 **Double Job** (New Leipzig, ND)
 = Maraudeur + Planets Are On It 
 
 [https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
 [https://ubac.bandcamp.com/album/colour-company](https://ubac.bandcamp.com/album/colour-company)
-[https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii](Double Job - Aujourd'hui (Raytrack Session 3/3))
+[Double Job - Aujourd'hui (Raytrack Session 3/3)](https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii)
 
 
 **St. Upid** (Halle/Westfalen)
@@ -54,4 +57,6 @@ fka. Famous In Suwałki
 
 
 **SJ C.O.R.A.N** (Leipsic, OH)
-aka. (Kr)achim solo - AI lyrics on request + synth + MIDI 1.0 guitar performance
+aka. (Kr)achim solo 
+
+AI lyrics on request + synth + MIDI 1.0 guitar performance
