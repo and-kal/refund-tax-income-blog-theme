@@ -5,14 +5,14 @@ draft: false
 
 date_show: "2023|06|11"
 time_show: "16:30"
-venue_show: "σφεΛΥⁿΧε"
+venue_show: "SPYLYNKY"
 ---
 
 income tax refund presents
 *a sUNDAY mATINéE*
 
 at the 
-*σφεΛΥⁿΧε*
+*SPYLYNKY*
 
 on
 *sUNDAY, 11 June*
@@ -23,7 +23,7 @@ with the bands:
 **FiS** (spiffy, cagey lab pop melancholia)
 **SJ C.O.R.A.N** (giddy replicant intelligence jukebox savant)
 
-![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg)
+<!-- ![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg) -->
 
 Doors 16h30
 Start 17h00
