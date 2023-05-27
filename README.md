@@ -17,6 +17,7 @@ publish to gh-pages via
 
 ```bash
 git worktree add public gh-pages # delete ./public folder if you get an error message and build again before commiting 
+hugo --minify --destination ./public --themesDir ../..
 cd public
 git add -f .
 git commit -m"..."
