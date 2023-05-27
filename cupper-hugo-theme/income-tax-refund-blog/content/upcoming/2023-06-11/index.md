@@ -27,7 +27,9 @@ with the bands:
 
 **SJ C.O.R.A.N** (giddy replicant intelligence jukebox savant)
 
-<!-- ![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg) -->
+![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg)
+
+Magic carp carefully taxidermed by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
 
 Doors 16h30
 Start 17h00
@@ -38,25 +40,23 @@ Finito 22h00
 **Double Job** (New Leipzig, ND)
 = Maraudeur + Planets Are On It 
 
-[https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
-[https://ubac.bandcamp.com/album/colour-company](https://ubac.bandcamp.com/album/colour-company)
-[Double Job - Aujourd'hui (Raytrack Session 3/3)](https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii)
+[Ohne Tanzen Planen (album)](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
+[Colour Company (album)](https://ubac.bandcamp.com/album/colour-company)
+[Aujourd'hui (Raytrack Session 3/3)](https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii)
 
 
 **St. Upid** (Halle/Westfalen)
 fka. St. Toupet
 
-[https://ubac.bandcamp.com/album/gisela-geht](https://ubac.bandcamp.com/album/gisela-geht)
+[Gisela Geht (album)](https://ubac.bandcamp.com/album/gisela-geht)
 
 
 **FiS** (Berlín/Usulután)
 fka. Famous In Suwałki
 
-[https://fisfisfisfis.bandcamp.com/album/heat](https://fisfisfisfis.bandcamp.com/album/heat)
-[https://cassettendienst.bandcamp.com/album/sisyphos](https://cassettendienst.bandcamp.com/album/sisyphos)
+[Heat (EP)](https://fisfisfisfis.bandcamp.com/album/heat)
+[Sisyphos (album)](https://cassettendienst.bandcamp.com/album/sisyphos)
 
 
 **SJ C.O.R.A.N** (Leipsic, OH)
-aka. (Kr)achim solo 
-
-AI lyrics on request + synth + MIDI 1.0 guitar performance
+aka. (Kr)achim solo performance with AI lyrics on request + synthesizer + MIDI 1.0 guitar

@@ -29,7 +29,7 @@ registration via: fritz[ät]u-bac.de
 
 ![Bitchin Bajas + Acid Rooster + GLOBAL WARMING](../../posters/2023-04-25.jpg)
 
-Magic space art by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+Intergalactic poster art by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
 
 ----
 
