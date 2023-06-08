@@ -1,24 +1,24 @@
 ---
-title: "Juicebumps + Skeleton Glove + Heavy Petting"
+title: "Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe"
 date: 2023-06-05T11:19:14+01:00
 draft: false
 
 date_show: "2023|07|23"
-time_show: "??:??"
-venue_show: "???"
+time_show: "17:00"
+venue_show: "술집"
 ---
 
 
 income tax refund presents
 
-<!-- ![Juicebumps + Skeleton Glove + Heavy Petting](../../posters/2023-07-23.jpg) -->
+<!-- ![Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe](../../posters/2023-07-23.jpg) -->
 
 *Sunday, 23 July*
 
-Where: ????
-Doors: ????
-Start: ????
-
+Where: 술집
+Doors: 16:00
+Start: 17:00
+Finito: 22:00
 
 ----
 
@@ -36,6 +36,12 @@ Start: ????
 
 **SKELETON GLOVE** (bln // high speed spook punk)
 
+[https://skeletonglove.bandcamp.com/album/skeleton-glove](https://skeletonglove.bandcamp.com/album/skeleton-glove)
+
 **HEAVY PETTING** (lpz / wmr // krauty new wave hits hits hits)
 
 [https://heavypetting.bandcamp.com](https://heavypetting.bandcamp.com)
+
+**Teddies Kneipe** (brm // deutschpunkwingding)
+
+[https://teddieskneipe.bandcamp.com/album/live072022](https://teddieskneipe.bandcamp.com/album/live072022)
