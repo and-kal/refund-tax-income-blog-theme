@@ -1,5 +1,5 @@
 ---
-title: "Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe"
+title: "Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe + Snitsh Pitsh"
 date: 2023-06-05T11:19:14+01:00
 draft: false
 
@@ -11,7 +11,7 @@ venue_show: "술집"
 
 income tax refund presents
 
-<!-- ![Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe](../../posters/2023-07-23.jpg) -->
+<!-- ![Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe + Snitsh Pitsh](../../posters/2023-07-23.jpg) -->
 
 *Sunday, 23 July*
 
