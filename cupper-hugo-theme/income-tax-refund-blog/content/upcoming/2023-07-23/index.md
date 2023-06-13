@@ -24,7 +24,6 @@ Finito: 22:00
 
 **JUICEBUMPS** (oakland // spank-rock? spookwave?)
 
-
 [https://youtu.be/UyIuX5M5YAU](https://youtu.be/UyIuX5M5YAU)
 
 [https://youtu.be/QB64XbmEbpg](https://youtu.be/QB64XbmEbpg)
@@ -42,6 +41,10 @@ Finito: 22:00
 
 [https://heavypetting.bandcamp.com](https://heavypetting.bandcamp.com)
 
-**Teddies Kneipe** (brm // deutschpunkwingding)
+**Teddies Kneipe** (brm // deutschpunk-wingding)
 
 [https://teddieskneipe.bandcamp.com/album/live072022](https://teddieskneipe.bandcamp.com/album/live072022)
+
+**Snitsh Pitsh** (lpz // clout-punk)
+
+[https://ofbitsandpieces.bandcamp.com/album/snitsh-pitsh-2](https://ofbitsandpieces.bandcamp.com/album/snitsh-pitsh-2)
