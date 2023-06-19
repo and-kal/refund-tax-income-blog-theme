@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Sligoil';
-    src: url('http://and-kal.github.io/refund-tax-income-blog-theme/css/fonts/Sligoil-Micro.woff2') format('woff2'), url('http://and-kal.github.io/refund-tax-income-blog-theme/css/fonts/Sligoil-Micro.woff') format('woff');
+    src: url('https://and-kal.github.io/refund-tax-income-blog-theme/css/fonts/Sligoil-Micro.woff2') format('woff2'), url('https://and-kal.github.io/refund-tax-income-blog-theme/css/fonts/Sligoil-Micro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -499,7 +499,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(http://and-kal.github.io/refund-tax-income-blog-theme/css/images/stripe.svg);
+    background-image: url(https://and-kal.github.io/refund-tax-income-blog-theme/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -518,7 +518,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(http://and-kal.github.io/refund-tax-income-blog-theme/css/images/icon-tick.svg);
+    background-image: url(https://and-kal.github.io/refund-tax-income-blog-theme/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
