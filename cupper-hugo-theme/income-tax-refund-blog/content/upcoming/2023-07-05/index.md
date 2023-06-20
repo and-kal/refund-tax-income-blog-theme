@@ -18,6 +18,7 @@ on
 *Wednesday, 5 July*
 
 with the artists:
+\
 **Alpha Strategy** (noisy noise rock from Czechia)
 \
 **HUGAYZ** (eggy punk from Poland // plusz tapes)
@@ -41,12 +42,10 @@ End: 22h30
 [The Caressing Cloth (single, 2022)](https://alphastrategy.bandcamp.com/album/the-caressing-cloth)
 
 \
-\
 
 **HUGAYZ**
 [Hugz and Kissez (album, 2021)](https://plusztapes.bandcamp.com/album/hugz-and-kissez) 
 
-\
 \
 
 **Bentley Anderson**

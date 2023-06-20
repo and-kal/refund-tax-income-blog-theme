@@ -14,7 +14,7 @@ income tax refund presents
 <!-- ![Juicebumps + Skeleton Glove + Heavy Petting + Teddies Kneipe + Snitsh Pitsh](../../posters/2023-07-23.jpg) -->
 
 *Sunday, 23 July*
-
+\
 Where: 술집
 \
 Doors: 16:00
@@ -36,13 +36,11 @@ Finito: 22:00
 ++++ tape out soon via U-Bac & OfBits&Pieces
 
 \
-\
 
 **SKELETON GLOVE** (bln // high speed spook punk)
 
 [https://skeletonglove.bandcamp.com/album/skeleton-glove](https://skeletonglove.bandcamp.com/album/skeleton-glove)
 
-\
 \
 
 **HEAVY PETTING** (lpz / wmr // krauty new wave hits hits hits)
@@ -50,13 +48,11 @@ Finito: 22:00
 [https://heavypetting.bandcamp.com](https://heavypetting.bandcamp.com)
 
 \
-\
 
 **Teddies Kneipe** (brm // deutschpunk-wingding)
 
 [https://teddieskneipe.bandcamp.com/album/live072022](https://teddieskneipe.bandcamp.com/album/live072022)
 
-\
 \
 
 **Snitsh Pitsh** (lpz // clout-punk)

@@ -13,7 +13,7 @@ income tax refund presents
 <!-- ![CIA Débutante + Kevin Diesel + Little Gem Band](../../posters/2023-07-27.jpg) -->
 
 _Thursday, 27 July_
-
+\
 Where: ????
 \
 Doors: ????
@@ -35,7 +35,6 @@ sluggish pools of greyscale electronics and viscous synth blubber, prodded by co
 [https://youtu.be/G5Q8qCfuvj0](https://youtu.be/G5Q8qCfuvj0)
 
 \
-\
 
 **Kevin Diesel** (france)
 
@@ -43,7 +42,6 @@ aka. Flo of PartoutPartout/100%chevalier - will likely lauch some banging musica
 
 [G H S T](https://octobertone.bandcamp.com/album/g-h-s-t) (October Tone, 2021)
 
-\
 \
 
 **Little Gem Band** (dublin)
