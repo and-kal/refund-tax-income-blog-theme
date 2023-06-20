@@ -15,7 +15,9 @@ income tax refund presents
 _Thursday, 27 July_
 
 Where: ????
+\
 Doors: ????
+\
 Start: ????
 
 ---
@@ -34,7 +36,6 @@ sluggish pools of greyscale electronics and viscous synth blubber, prodded by co
 
 \
 \
-\
 
 **Kevin Diesel** (france)
 
@@ -44,10 +45,9 @@ aka. Flo of PartoutPartout/100%chevalier - will likely lauch some banging musica
 
 \
 \
-\
 
 **Little Gem Band** (dublin)
 
-ultimate cosmic spamwae improcore
+ultimate cosmic spamwave improcore
 
 [Friyay 13](https://littlegemband.bandcamp.com/album/friyay-13) (Little Gem Records, 2019)

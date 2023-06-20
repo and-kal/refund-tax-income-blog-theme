@@ -25,6 +25,8 @@ amplified percussions, improved performance, retroaction, trance, voice
 [https://baton.hotglue.me/?baton](https://baton.hotglue.me/?baton)
 [https://batonxxl.bandcamp.com/](https://batonxxl.bandcamp.com/)
 
+\
+\
 
 **Giulio Erasmus** [brussels, manchester]
 
@@ -32,13 +34,20 @@ Lo-fi dub waves by the [DUDS](https://dudsdudsduds.bandcamp.com) and [HANDLE]( h
 
 [https://absolutefiction.bandcamp.com/album/giulio-erasmus-re-adjustment](https://absolutefiction.bandcamp.com/album/giulio-erasmus-re-adjustment)
 
+\
+\
 
 **Hell.no** [leepzzg]
 ...of [Heike Bartsch](https://heikebartsch.bandcamp.com) fame. Surprise!
 leftfield sample demolition ambient 
 
-<!-- ![Bâton XXL + Giulio Erasmus + Hell.no](../../posters/2023-07-14.jpg) -->
+\
+\
 
 Doors: 19h30
+\
 Start: 20h00
+\
 End: 23h00
+
+<!-- ![Bâton XXL + Giulio Erasmus + Hell.no](../../posters/2023-07-14.jpg) -->

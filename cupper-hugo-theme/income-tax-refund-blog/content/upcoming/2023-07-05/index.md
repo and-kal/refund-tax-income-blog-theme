@@ -17,9 +17,11 @@ at the
 on
 *Wednesday, 5 July*
 
-with the bands:
+with the artists:
 **Alpha Strategy** (noisy noise rock from Czechia)
+\
 **HUGAYZ** (eggy punk from Poland // plusz tapes)
+\
 **Bentley Anderson** (guitar manglings from NYC // Trouble In Mind Records)
 
 ![Alpha Strategy + HUGAYZ + Bentley Anderson](../../posters/2023-07-05.jpg)
@@ -27,7 +29,9 @@ with the bands:
 GMO-flavoured daisy by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
 
 Doors: 19h00
+\
 Start: 20h00
+\
 End: 22h30
 
 ----
@@ -36,10 +40,14 @@ End: 22h30
 
 [The Caressing Cloth (single, 2022)](https://alphastrategy.bandcamp.com/album/the-caressing-cloth)
 
+\
+\
 
 **HUGAYZ**
 [Hugz and Kissez (album, 2021)](https://plusztapes.bandcamp.com/album/hugz-and-kissez) 
 
+\
+\
 
 **Bentley Anderson**
 [Scintil (album, 2022)](https://bentleyanderson.bandcamp.com/album/scintil) 
