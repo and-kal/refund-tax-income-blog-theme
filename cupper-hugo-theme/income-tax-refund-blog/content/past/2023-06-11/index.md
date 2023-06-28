@@ -5,14 +5,14 @@ draft: false
 
 date_show: "2023|06|11"
 time_show: "16:30"
-venue_show: "SPYLYNKY"
+venue_show: "σφεΛΥⁿΧε"
 ---
 
 income tax refund presents
 *a sUNDAY mATINéE*
 
 at the 
-*SPYLYNKY*
+*σφεΛΥⁿΧε*
 
 on
 *sUNDAY, 11 June*
