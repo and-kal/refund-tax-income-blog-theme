@@ -14,7 +14,7 @@ income tax refund presents
 
 _Thursday, 27 July_
 \
-Where: ????
+Where: private ranch
 \
 Doors: ????
 \
