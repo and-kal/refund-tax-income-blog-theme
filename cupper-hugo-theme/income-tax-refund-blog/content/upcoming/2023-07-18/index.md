@@ -23,7 +23,7 @@ on
 *Tuesday, 18 July*
 
 
-![](../../posters/2023-07-18.jpg)
+<!-- ![](../../posters/2023-07-18.jpg)   -->
 
 Doors: 20:00
 Start: 21:00
@@ -36,7 +36,7 @@ Start: 21:00
 
 [https://discosperoquebien.bandcamp.com/album/semilla-de-los-deseos](https://discosperoquebien.bandcamp.com/album/semilla-de-los-deseos)
 
-\ 
+
 
 **chance2tliwosc** (tʃew̃stotlivoɕtɕ) [Leipsick]
 
