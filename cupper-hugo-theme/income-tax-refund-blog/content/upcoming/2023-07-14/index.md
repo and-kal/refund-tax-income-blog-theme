@@ -47,5 +47,6 @@ End: 23h00
 
 
 ![Bâton XXL + Giulio Erasmus + Hell.no](../../posters/2023-07-14.jpg)
+![Bâton XXL + Giulio Erasmus + Hell.no](../../posters/2023-07-14_2.jpg)
 
-headcrabby poster by [Santi](https://www.instagram.com/santimnam)
+heady posters by [Santi](https://www.instagram.com/santimnam)
