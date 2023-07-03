@@ -1,10 +1,10 @@
 ---
-title: "CAVALAN + chance2tliwosc "
+title: "CHAVALAN + chance2tliwosc"
 date: 2023-05-24T16:49:34+01:00
 draft: false
 
 date_show: "2023|07|18"
-time_show: "21:00"
+time_show: "19:30"
 venue_show: "TV Studio Ost"
 ---
 
@@ -12,7 +12,7 @@ income tax refund is bringing you
 the jams
 
 with the bands:
-**CAVALAN** 
+**CHAVALAN** 
 & 
 **chance2tliwosc**
 
@@ -22,15 +22,13 @@ at the
 on
 *Tuesday, 18 July*
 
-
-<!-- ![](../../posters/2023-07-18.jpg)   -->
-
-Doors: 20:00
-Start: 21:00
+Doors: 19:30
+Start: 20:00
+Fini: 21:00
 
 ----
 
-**CAVALAN** [Valenzja]
+**CHAVALAN** [Valenzja]
 
 = Double basso grooovy post punk
 
@@ -47,3 +45,6 @@ Start: 21:00
 * [insta](https://instagram.com/chance2tliwosc)
 * [soundcloud](https://soundcloud.com/tliwosc)
 
+![CHAVALAN + chance2tliwosc](../../posters/2023-07-18.jpg)
+
+pizza poster pie by [@bincent3000](https://www.instagram.com/bincent3000/)
