@@ -1,5 +1,5 @@
 ---
-title: "CIA Débutante + Kevin Diesel + Little Gem Band + bincent3000 tattoo parlour"
+title: "CIA Débutante + Kevin Diesel + Little Gem Band + Martí Guillem + bincent3000 tattoo parlour"
 date: 2023-06-05T11:19:14+01:00
 draft: false
 
@@ -14,9 +14,9 @@ _Thursday, 27 July_
 \
 Where: private ranch
 \
-Doors: ????
+Doors: 19x00
 \
-Start: ????
+Start: 20x00
 
 ---
 
@@ -50,6 +50,15 @@ ultimate cosmic spamwave improcore
 **bincent3000 tattoo parlour**
 
 get a tattoo-oo-oo from [@bincent3000](https://www.instagram.com/bincent3000/)
+
+
+**Martí Guillem** (esp)
+
+...is bringing you **DLIGHT** 
+
+multisensory space cruise 
+
+[DLIGHT Martí Guillem @ MOOZAK : MEMBRANE 18.01.2019]( https://www.youtube.com/watch?v=tF2mlk7RBmU) (video)
 
 ![CIA Débutante + Kevin Diesel + Little Gem Band + bincent3000 tattoo parlour](../../posters/2023-07-27.jpg)
 
