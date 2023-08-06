@@ -39,19 +39,19 @@ params:
 menu:
   nav:
     - name: Home
-      url: /refund-tax-income-blog-theme/
+      url: /
       weight: 1
     - name: Upcoming Shows
-      url: /refund-tax-income-blog-theme/upcoming/
+      url: /upcoming/
       weight: 2
     - name: Past Shows
-      url: /refund-tax-income-blog-theme/past/
+      url: /past/
       weight: 3
     - name: pre-2022
-      url: /refund-tax-income-blog-theme/gigarchive/
+      url: /gigarchive/
       weight: 4
     - name: RSS
-      url: /refund-tax-income-blog-theme/index.xml
+      url: /index.xml
       weight: 5
 
 markup:
