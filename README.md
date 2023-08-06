@@ -1,6 +1,6 @@
 run dev server with 
 
-```
+```bash
 cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo server --themesDir ../..
 ```
@@ -8,7 +8,7 @@ hugo server --themesDir ../..
 
 build /public/ folder with
 
-```
+```bash
 cd ./cupper-hugo-theme/income-tax-refund-blog
 hugo --minify --destination ./public --themesDir ../..
 ```
@@ -19,7 +19,7 @@ publish to gh-pages via
 git worktree add public gh-pages # delete ./public folder if you get an error message and build again before commiting 
 hugo --minify --destination ./public --themesDir ../..
 cd public
-git add -f .
+git add .
 git commit -m"..."
 git push origin gh-pages
 ```
