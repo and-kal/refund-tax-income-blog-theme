@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.83.1"
   HUGO_THEME = "cupper-hugo-theme"
-  HUGO_BASEURL = "https://and-kal.github.io/refund-tax-income-blog-theme"
+  HUGO_BASEURL = "https://marvelous-crostata-5e7f99.netlify.app"
 
 [[headers]]
   for = "/*"
