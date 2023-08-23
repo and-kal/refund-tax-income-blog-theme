@@ -35,3 +35,4 @@ collections:
       - { label: 'starts at', name: 'time_show', widget: 'string' }
       - { label: 'venue', name: 'venue_show', widget: 'string' }
       - { label: 'body', name: 'body', widget: 'markdown' }
+    summary: '{{date_show}}: {{title}}'
