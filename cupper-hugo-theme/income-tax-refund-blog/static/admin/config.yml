@@ -1,10 +1,12 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
 media_folder: cupper-hugo-theme/income-tax-refund-blog/static/posters
 public_folder: /posters
+display_url: http://itr.root.sx
+logo_url: https://marvelous-crostata-5e7f99.netlify.app/itr-logo.png
 collections:
-  - name: 'Income Tax Refund - Upcoming Shows'
+  - name: 'ITR-Upcoming'
     label: 'Income Tax Refund - Upcoming Shows'
     folder: 'cupper-hugo-theme/income-tax-refund-blog/content/upcoming'
     create: true
@@ -18,7 +20,8 @@ collections:
       - { label: 'starts at', name: 'time_show', widget: 'string' }
       - { label: 'venue', name: 'venue_show', widget: 'string' }
       - { label: 'body', name: 'body', widget: 'markdown' }
-  - name: 'Income Tax Refund - Past Shows'
+    summary: '{{date_show}}: {{title}}'
+  - name: 'ITR-Past'
     label: 'Income Tax Refund - Past Shows'
     folder: 'cupper-hugo-theme/income-tax-refund-blog/content/past'
     create: true
