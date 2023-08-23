@@ -8,7 +8,8 @@ collections:
     label: 'Income Tax Refund - Upcoming Shows'
     folder: 'cupper-hugo-theme/income-tax-refund-blog/content/upcoming'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}'
+    path: '{{year}}-{{month}}-{{day}}'
+    slug: 'index'
     editor:
       preview: false
     fields:
@@ -22,7 +23,8 @@ collections:
     label: 'Income Tax Refund - Past Shows'
     folder: 'cupper-hugo-theme/income-tax-refund-blog/content/past'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}'
+    path: '{{year}}-{{month}}-{{day}}'
+    slug: 'index'
     editor:
       preview: false
     fields:
