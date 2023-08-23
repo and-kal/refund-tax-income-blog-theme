@@ -14,8 +14,8 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'created at', name: 'date', widget: 'datetime' }
-      - { label: 'date of the show', name: 'date_show', widget: 'date' }
-      - { label: 'starts at', name: 'time_show', widget: 'datetime' }
+      - { label: 'date of the show', name: 'date_show', widget: 'string' }
+      - { label: 'starts at', name: 'time_show', widget: 'string' }
       - { label: 'venue', name: 'venue_show', widget: 'string' }
       - { label: 'body', name: 'body', widget: 'markdown' }
   - name: 'Income Tax Refund - Past Shows'
@@ -28,7 +28,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'created at', name: 'date', widget: 'datetime' }
-      - { label: 'date of the show', name: 'date_show', widget: 'date' }
-      - { label: 'starts at', name: 'time_show', widget: 'datetime' }
+      - { label: 'date of the show', name: 'date_show', widget: 'string' }
+      - { label: 'starts at', name: 'time_show', widget: 'string' }
       - { label: 'venue', name: 'venue_show', widget: 'string' }
       - { label: 'body', name: 'body', widget: 'markdown' }
