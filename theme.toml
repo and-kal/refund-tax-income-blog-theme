@@ -1,6 +1,6 @@
 name = "Cupper"
 license = "MIT"
-licenselink = "https://github.com/zwbetz-gh/cupper-hugo-theme/blob/master/LICENSE"
+licenselink = "https://github.com/zwbetz-gh/blob/master/LICENSE"
 description = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
 homepage = "https://github.com/zwbetz-gh/cupper-hugo-theme"
 tags = ["accessible", "blog", "documentation", "dark"]
