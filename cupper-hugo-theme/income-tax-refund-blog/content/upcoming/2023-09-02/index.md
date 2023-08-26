@@ -34,15 +34,16 @@ Saturday 02. Sept 2023
 
 Early show! Doors 18h00 Rock 19h00 End 22h00 
 
+![Aborted Tortoise + Ghoulies + TTT-Turbo](../../posters/2023-09-02.jpg)
 
-Ghoulies
+**Ghoulies**
 
 [ghouliesperth.bandcamp.com/album/flat-earth](https://ghouliesperth.bandcamp.com/album/flat-earth)
 
 [ghouliesperth.bandcamp.com/album/reprogram](https://ghouliesperth.bandcamp.com/album/reprogram)
 
 
-Aborted Tortoise
+**Aborted Tortoise**
 
 [abortedtortoise.bandcamp.com](https://abortedtortoise.bandcamp.com)
 
@@ -51,8 +52,7 @@ Aborted Tortoise
 [TV Set (video)](https://youtu.be/1QVhLABOgdU)
 
 
-TTT-Turbo
+**TTT-Turbo**
 
 [ttt-turbo.bandcamp.com](https://ttt-turbo.bandcamp.com)
 
-![Aborted Tortoise + Ghoulies + TTT-Turbo](../../posters/2023-09-02.jpg)

@@ -31,7 +31,7 @@ Konner Whitney rides in in our little town and graces us with a bunch of golden 
 
 **Torx** (lei? pzig!)
 
-nu superdupergroup feat membaz off of [ONYON](https://ubac.bandcamp.com/album/onyon) and [Bili Rubin](https://ubac.bandcamp.com/album/conceptually-inconvenient) - expect the unexpected 
+nu local superdupergroup feat membrrzz of [Bili Rubin](https://ubac.bandcamp.com/album/conceptually-inconvenient) - expect the unexpected 
 
 ヾ(⌐■_■)ノ♪
 
