@@ -1,6 +1,6 @@
 ---
 title: "Aborted Tortoise + Ghoulies + TTT-Turbo"
-date: 2023-08-26T14:11:04+01:00
+date: 2023-08-26T11:11:04+01:00
 draft: false
 
 date_show: "2023|09|02"
@@ -8,7 +8,7 @@ time_show: "19:00"
 venue_show: "Recycling Museum"
 ---
 
-fuzzgun +++ income tax refund present  
+fuzzgun + income tax refund present  
 
 _Saturday, 02 September_
 \
@@ -32,7 +32,9 @@ Saturday 02. Sept 2023
 
 @ Recycling Museum
 
+
 Early show! Doors 18h00 Rock 19h00 End 22h00 
+
 
 ![Aborted Tortoise + Ghoulies + TTT-Turbo](../../posters/2023-09-02.jpg)
 
