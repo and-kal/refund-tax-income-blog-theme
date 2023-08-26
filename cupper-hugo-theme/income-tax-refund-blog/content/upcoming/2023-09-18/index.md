@@ -38,4 +38,4 @@ Start: 20x30
 
 ⁂ [javierarealvelez.bandcamp.com](https://javierarealvelez.bandcamp.com)
 
-<!-- ![Datashock + Pretty Lightning + Javier Areal Velez](../../posters/2023-09-18.jpg) -->
+![Datashock + Pretty Lightning + Javier Areal Velez](../../posters/2023-09-18.jpg)
