@@ -36,4 +36,6 @@ nu local superdupergroup feat membrrzz of [Bili Rubin](https://ubac.bandcamp.com
 ヾ(⌐■_■)ノ♪
 
 
-<!-- ![Whitney K + Torx](../../posters/2023-09-11.jpg) -->
+![Whitney K + Torx](../../posters/2023-09-11.jpg)
+
+Thankies to nagy di mezzo for the poster --<-<-<@
