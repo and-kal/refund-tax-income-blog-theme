@@ -14,9 +14,9 @@ _Monday, 11 September_
 \
 Where: [TV Studio Ost](https://hitness.club/)
 \
-Doors: 20x00
+Doors: 19x30
 \
-Start: 21x00
+Start: 20x00
 
 ---
 
@@ -38,4 +38,5 @@ nu local superdupergroup feat membrrzz of [Bili Rubin](https://ubac.bandcamp.com
 
 ![Whitney K + Torx](../../posters/2023-09-11.jpg)
 
-Thankies to nagy di mezzo for the poster --<-<-<@
+Thankies to ⚔️ Leon the Knight Lord ⚔️ for the poster 
+--<-<-<@
