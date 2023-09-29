@@ -18,6 +18,6 @@ Doors: ??x??
 
 ---
 
-**Omni Selassi + Späce Schädel + furrr x ny s t a g m u s**
+**Omni Selassi + Späce Schädel + furrr x n y s t a g m u s**
 
 [more information coming soon]
