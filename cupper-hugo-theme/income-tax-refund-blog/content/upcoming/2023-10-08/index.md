@@ -1,5 +1,5 @@
 ---
-title: "Omni Selassi + Späce Schäddel + furrr x ny s t a g m u s"
+title: "Omni Selassi + Späce Schäddel + furrr x n y s t a g m u s"
 date: 2023-09-29T12:18:04+01:00
 draft: false
 
@@ -18,6 +18,6 @@ Doors: ??x??
 
 ---
 
-**Omni Selassi + Späce Schädel + furrr x ny s t a g m u s**
+**Omni Selassi + Späce Schädel + furrr x n y s t a g m u s**
 
 [more information coming soon]
