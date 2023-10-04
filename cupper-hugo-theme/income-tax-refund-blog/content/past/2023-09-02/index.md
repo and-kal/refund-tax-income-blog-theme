@@ -8,7 +8,7 @@ time_show: "19:00"
 venue_show: "Recycling Museum"
 ---
 
-fuzzgun + income tax refund present  
+fuzzgun + income tax refund present
 
 _Saturday, 02 September_
 \
@@ -32,9 +32,7 @@ Saturday 02. Sept 2023
 
 @ Recycling Museum
 
-
-Early show! Doors 18h00 Rock 19h00 End 22h00 
-
+Early show! Doors 18h00 Rock 19h00 End 22h00
 
 ![Aborted Tortoise + Ghoulies + TTT-Turbo](../../posters/2023-09-02.jpg)
 
@@ -44,7 +42,6 @@ Early show! Doors 18h00 Rock 19h00 End 22h00
 
 [ghouliesperth.bandcamp.com/album/reprogram](https://ghouliesperth.bandcamp.com/album/reprogram)
 
-
 **Aborted Tortoise**
 
 [abortedtortoise.bandcamp.com](https://abortedtortoise.bandcamp.com)
@@ -53,8 +50,8 @@ Early show! Doors 18h00 Rock 19h00 End 22h00
 
 [TV Set (video)](https://youtu.be/1QVhLABOgdU)
 
-
 **TTT-Turbo**
 
 [ttt-turbo.bandcamp.com](https://ttt-turbo.bandcamp.com)
 
+livin la poster art loca by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
