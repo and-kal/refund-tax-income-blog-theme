@@ -1,5 +1,5 @@
 ---
-title: "Omni Selassi + Späce Schädel"
+title: "Omni Selassi + Space Schädel"
 date: 2023-09-29T12:18:04+01:00
 draft: false
 
@@ -35,6 +35,6 @@ fka. Space Shuttle aka. the best school band around - making jazzy prog rock gre
 \
 [Hunter (video)](https://youtu.be/jfVNQbzMaJw?si=prvwqTWngStUileg)
 
-![Omni Selassi + Späce Schädel](../../posters/2023-10-08.jpg)
+![Omni Selassi + Space Schädel](../../posters/2023-10-08.jpg)
 
 satanic poster art worship by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
