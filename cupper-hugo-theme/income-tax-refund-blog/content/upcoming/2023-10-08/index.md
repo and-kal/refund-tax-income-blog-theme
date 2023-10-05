@@ -10,7 +10,9 @@ venue_show: "secondhandshop"
 
 income tax refund presents
 
-_Sunday, 08 October_
+a Sunday congregation
+\
+_on 08 October_
 \
 Where: secondhandshop
 \

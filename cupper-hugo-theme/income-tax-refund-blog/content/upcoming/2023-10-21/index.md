@@ -24,7 +24,7 @@ Our dear seafood friends coming back to town to abduct the residents into their 
 
 [Ankunft auf dem Butterberg (U-Bac, 2021)](https://ubac.bandcamp.com/album/ankunft-auf-dem-butterberg)
 
-**Amit Dagim** (new early electronics from Nederlân)
+**Amit Dagim** (Nederlân)
 
 Take this sonic bath, if you like John Bender type creaking electronic sounds as much as digital finds à la snd.  
 
