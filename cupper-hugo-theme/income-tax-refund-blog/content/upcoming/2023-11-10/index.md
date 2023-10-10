@@ -24,11 +24,11 @@ Start: 20x00
 
 **TEll A ViSiON** ([Duchess Box Records](https://soundcloud.com/user-935381613) / Berlin)
 
-
 [OVER CONTROL](https://www.youtube.com/watch?v=5Mczf2E65VU) (music video)
-[CALL BE MY NAME](https://www.youtube.com/watch?v=ilrEgv0H63c) (music video)
-[MOCKUMENTARY](https://www.youtube.com/watch?v=l9XixUJsMTc) (music video)
 
+[CALL BE MY NAME](https://www.youtube.com/watch?v=ilrEgv0H63c) (music video)
+
+[MOCKUMENTARY](https://www.youtube.com/watch?v=l9XixUJsMTc) (music video)
 
 [[**detailed information coming soon**]]
 
