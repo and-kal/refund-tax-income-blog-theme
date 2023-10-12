@@ -35,4 +35,6 @@ Take this sonic bath, if you like John Bender type creaking electronic sounds as
 
 A new band from around the corner that has some playful sweet naive melodies, an invigorating rhythm section and some proper shreds going on.
 
-<!-- ![Oba Boba & die Abgründe + Amit Dagim + Love Cough](../../posters/2023-10-21.jpg) -->
+![Oba Boba & die Abgründe + Amit Dagim + Love Cough](../../posters/2023-10-21.jpg)
+
+another eggcelent poster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
