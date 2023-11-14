@@ -12,11 +12,13 @@ income tax refund presents:
 
 _Tuesday, 21 November 2023_
 \
-Where: кон-хaн-оп 
+Where: кон-хaн-оп
 \
 Start: 20x00
 
 ---
+
+![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21-2.png)
 
 **Soup Activists** (lofi poppy punk / USA)
 
@@ -26,4 +28,4 @@ Start: 20x00
 
 [[**detailed information coming soon**]]
 
-<!-- ![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21.jpg) -->
+![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21-1.png)
