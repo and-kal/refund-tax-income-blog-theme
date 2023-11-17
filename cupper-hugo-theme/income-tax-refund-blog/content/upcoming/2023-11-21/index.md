@@ -44,6 +44,4 @@ feat. members of Massicot & Orchestre Tout Puissant Marcel Duchamp
 
 feat. members of eXWhite & TwoBoys
 
-[[**detailed information coming soon**]]
-
 ![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21-1.png)
