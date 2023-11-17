@@ -20,11 +20,27 @@ Start: 20x00
 
 ![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21-2.png)
 
-**Soup Activists** (lofi poppy punk / USA)
+**Soup Activists** (lofi poppy punk 🗑️ / USA)
+
+[Martin Meyer's YT channel](https://www.youtube.com/@mutantbbq/videos)
+
+[Chaos Girls (video)](https://youtu.be/5yMCN2gxy_E?si=L0ri0mDKBVYDMXAX)
+
+[And At Night (video)](https://www.youtube.com/watch?v=FDxwUhETxMU)
+
+[bandcamp](https://soupactivists.bandcamp.com/)
 
 **Hyperculte** (disco kraut hypnothique / Geneva)
 
-**Shafrah** (new outfit from Hell feat. members of XWhite & TwoBoys)
+feat. members of Massicot & Orchestre Tout Puissant Marcel Duchamp
+
+[bandcamp](https://hyperculte.bandcamp.com)
+
+[live @ Paléo Festival (video)](https://youtu.be/YT4x8Bu8sXk?si=FwRkJpGLQ9TC_vX9)
+
+**Shafrah** (new outfit from Hell )
+
+feat. members of eXWhite & TwoBoys
 
 [[**detailed information coming soon**]]
 
