@@ -20,7 +20,9 @@ Start: 20x00
 
 ![Soup Activists + Shafrah + Hyperculte](../../posters/2023-11-21-2.png)
 
-**Soup Activists** (lofi poppy punk 🗑️ / USA)
+**Soup Activists** (lofi poppy punk / USA)
+
+feat. Martin from Lumpy & the Dumpers 🗑️
 
 [Martin Meyer's YT channel](https://www.youtube.com/@mutantbbq/videos)
 
