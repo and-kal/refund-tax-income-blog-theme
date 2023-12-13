@@ -34,4 +34,10 @@ opening act: **???** (??? / ???)
 
 ...
 
+<!--
+opening act: reading by **Alina Sauernheimer** (fährten / Wien/Leipzig)
+
+Warming up the place, we invited Alina Sauernheimer to read her newest manuscript to us, which will be accompanied by ghostly sounds as invocated by Alicia Franzke and Nataly Hulikova. Alina is currently doing Language Arts at dieAngewandte and some of her texts have been published in [Edit](https://www.editonline.de/) and [scharfseitig](https://www.scharfseitig.de/magazin) for example.
+-->
+
 <!-- ![Vida Vojić performs »Timing is Divine«](../../posters/2024-01-10.jpg) -->
