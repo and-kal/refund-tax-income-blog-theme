@@ -1,5 +1,5 @@
 ---
-title: "Vida Vojić performs »Timing is Divine«"
+title: "Vida Vojić performs »Timing is Divine«" + a reading by Alina Sauernheimer (fährten / Wien/Leipzig) & T.u.B.
 date: 2023-11-07T11:36:05+01:00
 draft: false
 
