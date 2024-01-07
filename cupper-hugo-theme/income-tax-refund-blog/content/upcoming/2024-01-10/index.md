@@ -30,7 +30,7 @@ Vida Vojić also played in the lovely [TELEPATHS](https://telepathsss.bandcamp.c
 
 [»FTS002«](https://firstterracerecords.bandcamp.com/album/fts002) (split album w/ Chihei Hatakeyama, 2018)
 
-opening act: reading by **Alina Sauernheimer** (fährten / Wien/Leipzig) & T.u.B. (KRUT / Leipzig)
+opening act: reading by **Alina Sauernheimer** (fährten / Wien/Leipzig) & **T.u.B.** (KRUT / Leipzig)
 
 Warming up the place, we have Alina Sauernheimer reading her most recent manuscript to us, which will be accompanied by ghostly sounds as invocated by [T.u.B.](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) (of [YOR](https://ubac.bandcamp.com/album/yor-the-future)). Alina is currently doing Language Arts at dieAngewandte and her texts have been published in [Edit](https://www.editonline.de/) and [scharfseitig](https://www.scharfseitig.de/magazin) among others.
 
