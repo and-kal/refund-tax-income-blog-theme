@@ -30,14 +30,12 @@ Vida Vojić also played in the lovely [TELEPATHS](https://telepathsss.bandcamp.c
 
 [»FTS002«](https://firstterracerecords.bandcamp.com/album/fts002) (split album w/ Chihei Hatakeyama, 2018)
 
-opening act: **???** (??? / ???)
-
-...
-
-<!--
 opening act: reading by **Alina Sauernheimer** (fährten / Wien/Leipzig)
 
-Warming up the place, we invited Alina Sauernheimer to read her newest manuscript to us, which will be accompanied by ghostly sounds as invocated by Alicia Franzke and Nataly Hulikova. Alina is currently doing Language Arts at dieAngewandte and some of her texts have been published in [Edit](https://www.editonline.de/) and [scharfseitig](https://www.scharfseitig.de/magazin) for example.
--->
+Warming up the place, we have Alina Sauernheimer reading her most recent manuscript to us, which will be accompanied by ghostly sounds as invocated by [t.u.b.](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) (of [YOR](https://ubac.bandcamp.com/album/yor-the-future)). Alina is currently doing Language Arts at dieAngewandte and her texts have been published in [Edit](https://www.editonline.de/) and [scharfseitig](https://www.scharfseitig.de/magazin) among others.
 
-![Vida Vojić performs »Timing is Divine«](../../posters/2024-01-10.jpg)
+![Vida Vojić performs »Timing is Divine«](../../posters/2024-01-10_2.jpg)
+
+poster above by [Staxl](https://and-kal.github.io/)
+
+![Vida Vojić performs »Timing is Divine«](../../posters/2024-01-10_1.jpg)
