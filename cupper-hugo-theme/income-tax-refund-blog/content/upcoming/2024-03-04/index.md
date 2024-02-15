@@ -30,4 +30,6 @@ fka. G.S. Sultan
 
 **more info coming soon**
 
-<!-- ![Roy Werner + Les Halles](../../posters/2024-03-04.jpg) -->
+![Roy Werner + Les Halles](../../posters/2024-03-04.jpg)
+
+poster art by the magnificent [rriete](https://www.instagram.com/rriete/)
