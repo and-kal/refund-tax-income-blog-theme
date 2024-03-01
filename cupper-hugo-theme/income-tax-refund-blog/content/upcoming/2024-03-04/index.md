@@ -18,17 +18,17 @@ Where: PRQQQT
 \
 Start: 20x00
 
-**Roy Werner** (Moon Glyph/Mondoj/Orange Milk/Umor Rex)
+**Roy Werner** (Moon Glyph / LA)
 
-fka. G.S. Sultan
+Roy Werner is based in Los Angeles doing enchanting audiology with fizzy samples, cloudy snyths and all that. He has a new record out on Moon Glyph and has been releasing music as G.S. Sultan over the last 10 years on Mondoj, Orange Milk, Umor Rex and other mega good labels.
 
 [bandcamp](https://roywerner.bandcamp.com/album/imagine-my-surprise)
 
-**Les Halles** (Trona/Constellation Tatsu/Not Not Fun Records)
+**Les Halles** (Trona / FR)
+
+ITR're happy to have LES HALLES coming back to kick out the soothing ambients once more. Check their releases on Trona, Not Not Fun Records and Constellation Tatsu to know aht you're up for.
 
 [bandcamp](https://halles.bandcamp.com/album/eight-fantasies)
-
-**more info coming soon**
 
 ![Roy Werner + Les Halles](../../posters/2024-03-04.jpg)
 
