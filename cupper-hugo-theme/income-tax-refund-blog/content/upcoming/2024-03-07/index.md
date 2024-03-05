@@ -34,4 +34,6 @@ with:
 
 **more info coming soon**
 
-<!-- ![Blitzer + Hot Chicks + Five Bucks](../../posters/2024-03-07.jpg) -->
+![Blitzer + Hot Chicks + Five Bucks](../../posters/2024-03-07.jpg)
+
+poster art by [Elias de la Moshpit](https://www.instagram.com/moshpit_zine/)
