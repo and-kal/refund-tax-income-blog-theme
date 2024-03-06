@@ -1,10 +1,10 @@
 ---
-title: "Blitzer + Hot Chicks + Five Bucks"
+title: "Blitzer + Hot Chicks + Five Bucks + BLASTROKÄTZ"
 date: 2024-01-27T10:32:15+01:00
 draft: false
 
 date_show: "2024|03|07"
-time_show: "20:00"
+time_show: "19:59"
 venue_show: "KornXarnXope"
 ---
 
@@ -16,11 +16,15 @@ _Thursday, 07 March 2024_
 \
 Where: KornXarnXope
 \
-Start: 20x00
+Doors: 19x00
+\
+Start: 19x59!
 
 with:
 
 **Blitzer**
+
+New EP recorded in Leipzig!
 
 [bandcamp](https://blitzer.bandcamp.com)
 
@@ -30,10 +34,16 @@ with:
 
 **Five Bucks**
 
+…will perform as a band!
+
 [bandcamp](https://fivebucks.bandcamp.com)
 
-**more info coming soon**
+**BLASTROKÄTZ**
 
-![Blitzer + Hot Chicks + Five Bucks](../../posters/2024-03-07.jpg)
+LineVenture-Project of Oliotronix & PilzeFressenFelsen.
+
+[bandcamp](https://ravegore.bandcamp.com/album/overlord-of-the-underground-demo)
+
+![Blitzer + Hot Chicks + Five Bucks + BLASTROKÄTZ](../../posters/2024-03-07.jpg)
 
 poster art by [Elias de la Moshpit](https://www.instagram.com/moshpit_zine/)
