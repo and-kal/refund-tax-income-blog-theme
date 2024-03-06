@@ -30,6 +30,8 @@ New EP recorded in Leipzig!
 
 **Hot Chicks**
 
+Leipzig all stars. You know'em!
+
 [Legalize It EP](https://flennen.bandcamp.com/album/legalize-it) (Flennen, 2022)
 
 **Five Bucks**
@@ -42,7 +44,7 @@ New EP recorded in Leipzig!
 
 LineVenture-Project of Oliotronix & PilzeFressenFelsen.
 
-[bandcamp](https://ravegore.bandcamp.com/album/overlord-of-the-underground-demo)
+[Overlord of the underground](https://ravegore.bandcamp.com/album/overlord-of-the-underground-demo) (demo)
 
 ![Blitzer + Hot Chicks + Five Bucks + BLASTROKÄTZ](../../posters/2024-03-07.jpg)
 
