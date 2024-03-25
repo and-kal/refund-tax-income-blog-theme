@@ -8,7 +8,7 @@ time_show: "16:00 (!)"
 venue_show: "TV Studio Ost"
 ---
 
-ex:in in exile & itr present
+[ex:in](https://iinexx.bandcamp.com) in exile & i.t.r. present
 
 **KUNTARI + Jens Ausderwäsche + Sax Branche**
 
