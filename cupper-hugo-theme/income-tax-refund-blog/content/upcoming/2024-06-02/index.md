@@ -1,6 +1,6 @@
 ---
 title: "The Zenmenn + Senthulà"
-date: 2024-03-25T11:12:35+01:00
+date: 2024-03-24T11:12:35+01:00
 draft: false
 
 date_show: "2024|06|02"
@@ -22,6 +22,6 @@ ITR & [rriete](https://www.instagram.com/rriete/) present:
 
 _more info coming soon_
 
-<!-- ![The Zenmenn + Senthulà](../../posters/2024-06-02.jpg) -->
+<!-- ![The Zenmenn + Senthulà](../../posters/2024-06-02.jpg)
 
-<!-- cool poster art by [rriete](https://www.instagram.com/rriete/) -->
+cool poster art by [rriete](https://www.instagram.com/rriete/) -->
