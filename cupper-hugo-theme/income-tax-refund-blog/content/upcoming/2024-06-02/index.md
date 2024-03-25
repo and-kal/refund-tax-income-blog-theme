@@ -8,7 +8,7 @@ time_show: "20:00"
 venue_show: "TV Studio Ost"
 ---
 
-ex:in in exile & itr present
+ITR & [rriete](https://www.instagram.com/rriete/) present:
 
 **The Zenmenn** (cocktail nation / Berlin / Music From Memory)
 
