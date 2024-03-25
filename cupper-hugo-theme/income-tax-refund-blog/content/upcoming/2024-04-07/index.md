@@ -16,4 +16,4 @@ _more info coming soon_
 
 ![KUNTARI + Jens Ausderwäsche + Sébastien Branche](../../posters/2024-04-07.jpg)
 
-cool poster art by [rriete](https://www.instagram.com/rriete/)
+another ultracool poster art by [rriete](https://www.instagram.com/rriete/) right there
