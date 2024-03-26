@@ -5,23 +5,34 @@ draft: false
 
 date_show: "2024|05|23"
 time_show: "20:00"
-venue_show: "TV Studio Ost"
+venue_show: "dSaPüoEwrLkUözNbiKjEmw"
 ---
 
-<!--
-[Nape Neck live @sonicprotesfestival](https://www.youtube.com/watch?v=ZTy6yM5OfOA)
+**Nape Neck**
 
-[NAPE NECK @ Strasbourg, 10/04/2022](https://www.youtube.com/watch?v=9fa-v9UYp8A)
+[live @ Sonic Protest Festival](https://www.youtube.com/watch?v=ZTy6yM5OfOA) (video)
 
-[IMPATV 237 - NAPE NECK - SUPERNORMAL 2019 FULL SET](https://www.youtube.com/watch?v=Lg-1G2NBLh4)
+[live in Strasbourg](https://www.youtube.com/watch?v=9fa-v9UYp8A) (video)
 
-[https://napeneck.bandcamp.com/album/look-alive-ep](https://napeneck.bandcamp.com/album/look-alive-ep)
+[live @ SUPERNORMAL 2019](https://www.youtube.com/watch?v=Lg-1G2NBLh4) (video)
 
-[Atol Atol Atol - live 08.10.2022, club Żak, Gdańsk # 3](https://www.youtube.com/watch?v=2PxWMSHJIbo)
+[bandcamp](https://napeneck.bandcamp.com/album/look-alive-ep)
 
-[Atol Atol Atol - Sto nieodebranych połączeń (Official Video)](https://www.youtube.com/watch?v=oSvNKEL9xxs)
+**Atol Atol Atol**
 
-[Atol Atol Atol - "Atol Atol Atol" (Official Music Video)](https://www.youtube.com/watch?v=AiaErLUqKFs) -->
+[live in Gdańsk](https://www.youtube.com/watch?v=2PxWMSHJIbo) (video)
+
+[Sto nieodebranych połączeń](https://www.youtube.com/watch?v=oSvNKEL9xxs) (OMV)
+
+[Atol Atol Atol](https://www.youtube.com/watch?v=AiaErLUqKFs) (OMV)
+
+**Ilia Gorowitz**
+
+[https://iliagorovitz.bandcamp.com](bandcamp)
+
+**Andarta**
+
+[https://andartagroup.bandcamp.com](bandcamp)
 
 **more info coming soon**
 
