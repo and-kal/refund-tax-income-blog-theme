@@ -1,5 +1,5 @@
 ---
-title: "Atol Atol Atol + Nape Neck + Ilia Gorowitz + Andarta"
+title: "Claws of Saurtopia Warm Up Show: Atol Atol Atol + Nape Neck + Ilia Gorowitz + Andarta"
 date: 2024-03-05T08:42:05+01:00
 draft: false
 
@@ -7,6 +7,10 @@ date_show: "2024|05|23"
 time_show: "20:00"
 venue_show: "dSaPüoEwrLkUözNbiKjEmw"
 ---
+
+Claws of Saurtopia & i.t.r. resent:
+
+a warm up for the noise fest w/
 
 **Nape Neck**
 

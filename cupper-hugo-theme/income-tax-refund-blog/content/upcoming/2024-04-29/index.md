@@ -1,5 +1,5 @@
 ---
-title: "Game Boy Advance + Onisuka Tiger"
+title: "game boy advance + Onisuka Tiger"
 date: 2024-03-24T11:12:35+01:00
 draft: false
 
@@ -10,8 +10,8 @@ venue_show: "Ecke NBL"
 
 i.t.r. & ?? present
 
-**Game Boy Advance + Onisuka Tiger**
+**game boy advance + Onisuka Tiger**
 
 _more info coming soon_
 
-![Game Boy Advance + Onisuka Tiger](../../posters/2024-04-29.jpg)
+![game boy advance + Onisuka Tiger](../../posters/2024-04-29.jpg)
