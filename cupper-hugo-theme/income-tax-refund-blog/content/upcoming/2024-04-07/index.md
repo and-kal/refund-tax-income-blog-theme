@@ -10,9 +10,19 @@ venue_show: "TV Studio Ost"
 
 [ex:in](https://iinexx.bandcamp.com) in exile & i.t.r. present
 
-**KUNTARI + Jens Ausderwäsche + Sax Branche**
+**KUNTARI** (indonesia)
 
-_more info coming soon_
+[bandcamp](https://kuntari.bandcamp.com)
+
+**Jens Ausderwäsche** (chemnitz)
+
+[Cyber Universum](https://roe13recs.bandcamp.com/album/cyber-universum) (album, 2023)
+
+[website](https://juhuroe13recordsyay.de.tl/Jens-Ausderw.ae.sche.htm)
+
+**Sébastien Branche** (neuschönefeld)
+
+[Lignes de Fuite](https://mappa.bandcamp.com/album/lignes-de-fuite) (album, 2020)
 
 ![KUNTARI + Jens Ausderwäsche + Sébastien Branche](../../posters/2024-04-07.jpg)
 
