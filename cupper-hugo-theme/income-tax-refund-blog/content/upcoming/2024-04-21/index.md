@@ -30,6 +30,8 @@ We're stoked to have two acts from our much venerated music collective Salka com
 
 ["Tężyczka" music video](https://www.youtube.com/watch?v=E0YnLSR1yco)
 
+---
+
 **Ari Raketo & Piet** (freestyle rockets / Patching Flowers. / Leipzig)
 
 Surprise! This town still has got some artists in it, you haven't seen or heard of yet, unless you been digging really deep and hit upon this sparkling spring of sweet and ingenuous pop tunes as served by this duo here: Ari Raketo & Piet sing about love, pizza, public transport and going for the stars until your heart yearns.
