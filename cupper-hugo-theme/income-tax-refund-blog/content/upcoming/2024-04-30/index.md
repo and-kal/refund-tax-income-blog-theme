@@ -20,4 +20,4 @@ i.t.r. presents
 
 _more info coming soon_
 
-![game boy advance + Onisuka Tiger](../../posters/2024-04-29.jpg)
+![game boy advance + Onisuka Tiger](../../posters/2024-04-30.jpg)
