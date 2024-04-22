@@ -8,7 +8,7 @@ time_show: "20:00"
 venue_show: "dSaPüoEwrLkUözNbiKjEmw"
 ---
 
-Claws of Saurtopia & i.t.r. resent:
+Claws of Saurtopia & i.t.r. present:
 
 a warm up for the noise fest w/
 
@@ -38,6 +38,6 @@ a warm up for the noise fest w/
 
 [https://andartagroup.bandcamp.com](bandcamp)
 
-**more info coming soon**
+**more info at [clawsofsaurtopia.glitch.me](https://clawsofsaurtopia.glitch.me/warmup)**
 
 <!-- ![Atol Atol Atol + Nape Neck + Ilia Gorowitz + Andarta](../../posters/2024-05-23.jpg) -->
