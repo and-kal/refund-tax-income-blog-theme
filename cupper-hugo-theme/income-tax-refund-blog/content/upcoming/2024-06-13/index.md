@@ -1,5 +1,5 @@
 ---
-title: "The Zenmenn + Senthulà"
+title: "Ryan Davis + Ned Collette + Greedy Vultures"
 date: 2024-04-24T11:12:35+01:00
 draft: false
 
@@ -22,7 +22,7 @@ ITR presents:
 
 [Jokes and Trials](https://sophomorelounge.bandcamp.com/album/ned-collette-jokes-and-trials) (Sophomore Lounge, 2022)
 
-**Greedy Vultures** (feat. members of Highway Patrol and Stalag))
+**GREEDY VULTURES** (feat. members of Highway Patrol and Stalag))
 
 [bc](https://greedyvultures.bandcamp.com/)
 
