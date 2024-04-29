@@ -18,6 +18,6 @@ $$$ i.t.r. & Fartclub present $$$
 
 _more info coming soon_
 
-propaganda art by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
-
 ![Attic Ted + Rea + Roger F](../../posters/2024-05-05.jpg)
+
+propaganda art by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
