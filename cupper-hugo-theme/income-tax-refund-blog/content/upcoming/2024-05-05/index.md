@@ -14,7 +14,7 @@ $$$ i.t.r. & Fartclub present $$$
 
 **Rea**
 
-**Roger F**
+unfortunately without **Roger F** ＞﹏＜
 
 _more info coming soon_
 
