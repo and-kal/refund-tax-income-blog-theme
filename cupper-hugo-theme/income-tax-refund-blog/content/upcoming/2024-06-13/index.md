@@ -22,7 +22,7 @@ ITR presents:
 
 [Jokes and Trials](https://sophomorelounge.bandcamp.com/album/ned-collette-jokes-and-trials) (Sophomore Lounge, 2022)
 
-**GREEDY VULTURES** (feat. members of Highway Patrol and Stalag))
+**GREEDY VULTURES** (feat. members of Highway Patrol and Stalag)
 
 [bc](https://greedyvultures.bandcamp.com/)
 
