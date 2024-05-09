@@ -5,7 +5,7 @@ draft: false
 
 date_show: "2024|06|16"
 time_show: "19:30"
-venue_show: "TV Studio Os"
+venue_show: "TV Studio Ost"
 ---
 
 ITR presents:
@@ -17,6 +17,8 @@ ITR presents:
 doors 19h30
 
 startttt 20h15
+
+---
 
 _upstairs_
 
