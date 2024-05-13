@@ -1,5 +1,5 @@
 ---
-title: "Lemongrab + Doc FLippers + Neon lies"
+title: "Lemongrab + Doc FLippers + Neon Lies"
 date: 2024-05-05T11:12:35+01:00
 draft: false
 

@@ -1,6 +1,6 @@
 ---
 title: "Atol Atol Atol + Nape Neck + Senthulà + Luna Vega + Neuköllner Speed Dating Club"
-date: 2024-03-24T11:12:35+01:00
+date: 2024-05-11T11:12:35+01:00
 draft: false
 
 date_show: "2024|06|01"
@@ -44,4 +44,6 @@ ITR & Annoyed By Death present:
 
 _more info coming soon_
 
-<!-- ![Atol Atol Atol + Nape Neck + Senthulà + Luna Vega + Neuköllner Speed Dating Club](../../posters/2024-06-02.jpg)
+<!--
+![Atol Atol Atol + Nape Neck + Senthulà + Luna Vega + Neuköllner Speed Dating Club](../../posters/2024-06-01.jpg)
+-->
