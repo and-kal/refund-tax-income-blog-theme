@@ -1,5 +1,5 @@
 ---
-title: "The Zenmenn + Senthulà"
+title: "Polster + Senthulà"
 date: 2024-03-24T11:12:35+01:00
 draft: false
 
@@ -10,9 +10,9 @@ venue_show: "TV Studio Ost"
 
 ITR & [rriete](https://www.instagram.com/rriete/) present:
 
-**The Zenmenn** (cocktail nation / Berlin / Music From Memory)
+**Polster** (Halle/Saale)
 
-[Enter The Zenmenn](https://music-from-memory.bandcamp.com/album/enter-the-zenmenn) (album, 2021)
+...
 
 **Sentuhlà** (ritualistic riddims / Valencia / Abstrakce Records)
 
