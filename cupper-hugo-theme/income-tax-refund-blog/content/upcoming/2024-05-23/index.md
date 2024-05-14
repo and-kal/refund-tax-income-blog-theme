@@ -34,6 +34,10 @@ a warm up for the noise fest w/
 
 [https://iliagorovitz.bandcamp.com](bandcamp)
 
+---
+
 **more info at [clawsofsaurtopia.glitch.me](https://clawsofsaurtopia.glitch.me/warmup)**
+
+![Atol Atol Atol + Nape Neck + Ilia Gorowitz](../../posters/2024-05-23.jpg)
 
 another alien abduction by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
