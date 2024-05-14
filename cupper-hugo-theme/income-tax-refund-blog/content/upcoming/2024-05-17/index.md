@@ -1,5 +1,5 @@
 ---
-title: "Claws of Saurtopia Warm Up Show: Danse Musique Rhône-Alpes + BZMC fka. Black Zone Myth Chant"
+title: "Claws of Saurtopia Warm Up Show: Danse Musique Rhône-Alpes + BZMC fka. Black Zone Myth Chant + iion & elder pogs (DJ)"
 date: 2024-03-05T08:42:05+01:00
 draft: false
 
@@ -20,6 +20,14 @@ a warm up for the noise fest w/
 
 [https://blackzonemythchant.bandcamp.com/](bandcamp)
 
+**iion & elder pogs**
+
+DJ set
+
+---
+
 **more info at [clawsofsaurtopia.glitch.me](https://clawsofsaurtopia.glitch.me/warmup)**
 
-<!-- ![Atol Atol Atol + Nape Neck + Ilia Gorowitz + Andarta](../../posters/2024-05-23.jpg) -->
+![Claws of Saurtopia Warm Up Show: Danse Musique Rhône-Alpes + BZMC fka. Black Zone Myth Chant + iion & elder pogs (DJ)](../../posters/2024-05-17.jpg)
+
+alien thing poster by [HOLOB](https://markusfaerber.de/)
