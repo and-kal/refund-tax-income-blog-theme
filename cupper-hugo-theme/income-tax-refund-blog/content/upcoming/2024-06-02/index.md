@@ -1,5 +1,5 @@
 ---
-title: "Polster + Senthulà"
+title: "Polster + Senthulà + Ulla Suspekt"
 date: 2024-03-24T11:12:35+01:00
 draft: false
 
@@ -12,13 +12,17 @@ ITR & [rriete](https://www.instagram.com/rriete/) present:
 
 **Polster** (Halle/Saale)
 
-...
+= Iva Svoboda + Wilm Beckhoff
 
 **Sentuhlà** (ritualistic riddims / Valencia / Abstrakce Records)
 
 [La Curva Paralela](https://abstrakce.bandcamp.com/album/la-curva-paralela) (album, 2020)
 
 [El Pasaje del Aumento](https://abstrakce.bandcamp.com/album/el-pasaje-del-aumento) (album, 2023)
+
+**Ulla Suspekt** (witch house / Nürnberg / Verydeeprecords)
+
+[U](https://verydeeprec.bandcamp.com/album/u) (album, 2023)
 
 _more info coming soon_
 

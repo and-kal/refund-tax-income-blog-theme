@@ -3,7 +3,7 @@ title: "Lemongrab + Doc FLippers + Neon Lies"
 date: 2024-05-05T11:12:35+01:00
 draft: false
 
-date_show: "2024|06|16"
+date_show: "2024|06|18"
 time_show: "19:30"
 venue_show: "TV Studio Ost"
 ---
