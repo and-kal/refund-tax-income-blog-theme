@@ -4,7 +4,7 @@ date: 2024-03-05T08:42:05+01:00
 draft: false
 
 date_show: "2024|05|23"
-time_show: "20:00"
+time_show: "19:45"
 venue_show: "dSaPüoEwrLkUözNbiKjEmw"
 ---
 

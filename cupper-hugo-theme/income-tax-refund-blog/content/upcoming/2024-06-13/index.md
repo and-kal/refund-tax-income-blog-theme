@@ -10,6 +10,8 @@ venue_show: "private property"
 
 ITR presents:
 
+the grand BBG hangout w/
+
 **RYAN DAVIS** (solo, Kentucky USA) // Americana, f.f.o. Will Oldham, David Berman etc.)
 
 [Dancing on the Edge](https://sophomorelounge.bandcamp.com/album/ryan-davis-the-roadhouse-band-dancing-on-the-edge) (Sophomore Lounge, 2023)
@@ -27,3 +29,7 @@ ITR presents:
 [bc](https://greedyvultures.bandcamp.com/)
 
 _more info coming soon_
+
+![Ryan Davis + Ned Collette + Greedy Vultures](../../posters/2024-06-13.jpg)
+
+dress suggestion by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)

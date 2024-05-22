@@ -44,6 +44,6 @@ ITR & Annoyed By Death present:
 
 _more info coming soon_
 
-<!--
 ![Atol Atol Atol + Nape Neck + Senthulà + Luna Vega + Neuköllner Speed Dating Club](../../posters/2024-06-01.jpg)
--->
+
+sorry for the fucking eagle, man
