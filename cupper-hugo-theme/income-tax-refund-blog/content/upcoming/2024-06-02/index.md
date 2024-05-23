@@ -4,7 +4,7 @@ date: 2024-03-24T11:12:35+01:00
 draft: false
 
 date_show: "2024|06|02"
-time_show: "20:00"
+time_show: "17:30"
 venue_show: "TV Studio Ost"
 ---
 
@@ -16,9 +16,13 @@ ITR presents:
 
 [U](https://verydeeprec.bandcamp.com/album/u) (album, 2023)
 
+---
+
 **Polster** (Halle/Saale)
 
 = Iva Svoboda + Wilm Beckhoff
+
+---
 
 **Sentuhlà** (ritualistic riddims / Valencia / Abstrakce Records)
 
@@ -28,7 +32,13 @@ ITR presents:
 
 [El Pasaje del Aumento](https://abstrakce.bandcamp.com/album/el-pasaje-del-aumento) (album, 2023)
 
-_more info coming soon_
+---
+
+doors: 17h00
+
+start: 18h00
+
+at: TV Studio Ost
 
 ![Ulla Suspekt + Polster + Senthulà](../../posters/2024-06-02.min.jpg)
 
