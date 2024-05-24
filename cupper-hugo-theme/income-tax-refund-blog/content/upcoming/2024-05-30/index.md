@@ -22,7 +22,7 @@ THURSDAY, May 30th @ XonXanXop
 
 Heavenphetamine is a Japanese krautrock/postpunk duo composed of Hiroki (keyboard/vocals) and Sara (drums/vocals), sometimes supported by flautist Kira Krempova. Described as a blend of Krautrock and Post-Punk, their musicality strongly reflects the influence of Western indie music. Simultaneously, the underlying Japanese melodies, beats, and Japanese lyrics contribute to crafting an exceptionally exotic sonic landscape.
 
-[bc](https://heavenphetamine.bandcamp.com)
+[BC](https://heavenphetamine.bandcamp.com)
 
 ---
 
@@ -32,7 +32,7 @@ NSDC started as a solo project based around samplers, drum machines, synthesizer
 
 [IG](https://www.instagram.com/p/C3avhf2CvpJ/)
 
-[https://www.youtube.com/watch?v=mdYlOBbniec](live)
+[live](https://www.youtube.com/watch?v=mdYlOBbniec)
 
 ---
 
