@@ -3,14 +3,14 @@ title: "Rắn Cạp Đuôi + syw"
 date: 2024-05-25T11:12:35+01:00
 draft: false
 
-date_show: "2024|07|26"
+date_show: "2024|07|23"
 time_show: "20:00"
 venue_show: "TV Studio Ost"
 ---
 
 ITR presents:
 
-26 July, 2024
+23 July, 2024
 
 @ TV Studio Ost
 
@@ -40,4 +40,4 @@ Rắn Cạp Đuôi is a collective of the Vietnamese artist Đỗ Tấn Sĩ, Ph�
 
 [live video](https://www.youtube.com/watch?v=i6mOPbX6AwQ)
 
-<!-- ![Rắn Cạp Đuôi + syw](../../posters/2024-07-26.jpg) -->
+<!-- ![Rắn Cạp Đuôi + syw](../../posters/2024-07-23.jpg) -->
