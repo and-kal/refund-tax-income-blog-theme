@@ -32,7 +32,7 @@ Rắn Cạp Đuôi is a collective of the Vietnamese artist Đỗ Tấn Sĩ, Ph�
 
 ---
 
-**syw** is the project of media artist Stephanie Gudra - delivering finest solo guitar trip-out noise.
+**syw** the solo project of media artist Stephanie Gudra doing heavy guitar trip-out noise.
 
 [website](http://stephaniegudra.de/)
 
