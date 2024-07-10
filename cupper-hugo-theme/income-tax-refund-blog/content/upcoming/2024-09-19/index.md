@@ -20,6 +20,6 @@ startttt ??h??
 
 **[SHAM](https://shamtunes.bandcamp.com)**
 
-**more info coming soon**
+_more info coming soon_
 
 <!-- ![SHAM + tba.](../../posters/2024-09-19.jpg) -->

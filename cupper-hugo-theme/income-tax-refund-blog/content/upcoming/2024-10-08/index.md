@@ -20,12 +20,12 @@ startttt ??h??
 
 **Blitzer**
 
-**Snitsh Pitsh **
+**Snitsh Pitsh**
 
-**Glintshake **
+**Glintshake**
 
 **Neon Lies**
 
-**more info coming soon**
+_more info coming soon_
 
 <!-- ![Blitzer + Snitsh Pitsh + Glintshake + Neon Lies](../../posters/2024-10-08.jpg) -->
