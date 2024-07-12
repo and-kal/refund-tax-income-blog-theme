@@ -18,7 +18,7 @@ startttt ??h??
 
 **[ariel my friend](https://arielmyfriend.bandcamp.com)**
 
-**Mathile**
+**Mathilde**
 
 **???**
 
