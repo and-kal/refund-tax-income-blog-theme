@@ -50,10 +50,6 @@ Rắn Cạp Đuôi is a collective of the Vietnamese artist Đỗ Tấn Sĩ, Ph�
 
 [bandcamp](https://lurizzo.bandcamp.com/)
 
-<!--
-
 ![Rắn Cạp Đuôi + syw + Luciana Rizzo](../../posters/2024-07-23.jpg)
 
-interface poster by [staxl](https://and-kal.github.io)
-
--->
+interfacing poster by [staxl](https://and-kal.github.io)
