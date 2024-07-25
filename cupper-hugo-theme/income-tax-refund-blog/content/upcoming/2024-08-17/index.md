@@ -16,6 +16,7 @@ startttt ??h??
 
 ---
 
+<!--
 **[ariel my friend](https://arielmyfriend.bandcamp.com)**
 
 **Mathilde**
@@ -23,5 +24,6 @@ startttt ??h??
 **???**
 
 _more info coming soon_
+-->
 
-<!-- ![KUMPELA Soli-Party](../../posters/2024-08-17.jpg) -->
+![KUMPELA Soli-Party](../../posters/2024-08-17.jpg)
