@@ -4,33 +4,40 @@ date: 2024-07-25T11:12:35+01:00
 draft: false
 
 date_show: "2024|09|05"
-time_show: "??:??"
+time_show: "18:30"
 venue_show: "Hunch"
 ---
 
 05 Sept 2024
 
-doors ??h??
+Küfa/dinner: 18h30
 
-startttt ??h??
+Show: 19h30
 
 ---
 
 **Giulio Erasmus** + Band
 
-...
+mutant discodub funk / BXL
+
+[BC](https://ubac.bandcamp.com/album/second-attempt)
 
 ---
 
 **Torx** (tape release + splitter records label launch)
 
-...
+crooked punk / Leipzig
+
+[IG](https://www.instagram.com/torxtorxtorx/)
 
 ---
 
 **Horizontaler Gentransfer**
 
-...
+exp. k-pop research / Stutti
+
+[IG](https://www.instagram.com/horizontalergentransfer/)
+[SF](https://open.spotify.com/intl-de/artist/6ldHdQzBvIxnxMLcUZ8CEB)
 
 ---
 
