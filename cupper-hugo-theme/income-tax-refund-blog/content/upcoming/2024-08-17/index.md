@@ -4,7 +4,7 @@ date: 2024-05-25T11:12:35+01:00
 draft: false
 
 date_show: "2024|08|17"
-time_show: "20:00"
+time_show: "16:00"
 venue_show: "Sancho"
 ---
 
@@ -26,21 +26,38 @@ Kumpela ist eine feministische Gruppe aus Leipzig, die Menschen aus Polen und ü
 
 LIVE:::
 
-> [SPITPLAY](https://lnk.bio/spitplay) [] Alien Goth Pop | Berlin ]
-> Martina from C\*ntroaches new project!
-
-> [ST.UPID](https://stupid666.bandcamp.com/) [Nothing else metals | Hell]
-> Always happy to invite them back to set the Ränch on fire.
-
-> [ARIEL MY FRIEND](https://arielmyfriend.com/) [symphonic-indie-art-psych-pop? | Leipzig/Tel Aviv]
-> back on stage&screen with his new masterpiece Other Things. Out on [U-Bac](https://ubac.bandcamp.com/) – grab the tape at the show!
-
-> global_zutun [b2b vinyl+tape DJ Set] > [ahabzutun](https://on.soundcloud.com/SnHCB) & [global warming](https://on.soundcloud.com/izMwg) teaming up! No genre bounds – unexpect anything.
-
-> [DJ CITY V.I.P.](https://soundcloud.com/snake_radio)
-> housey + experimental + synth pop + disco tunes by [Amelie](https://www.instagram.com/amelie_goeppel/)
-
-> BRÜM [femme tekk noire | Leipzig]
-> new project by Mathilde&Claire.
+[SPITPLAY](https://lnk.bio/spitplay) [] Alien Goth Pop | Berlin ]
+\
+Martina from C\*ntroaches new project!
+\
+\
+\
+[ST.UPID](https://stupid666.bandcamp.com/) [Nothing else metals | Hell]
+\
+Always happy to invite them back to set the Ränch on fire.
+\
+\
+\
+[ARIEL MY FRIEND](https://arielmyfriend.com/) [symphonic-indie-art-psych-pop? | Leipzig/Tel Aviv]
+\
+back on stage&screen with his new masterpiece Other Things. Out on [U-Bac](https://ubac.bandcamp.com/) – grab the tape at the show!
+\
+\
+\
+global_zutun [b2b vinyl+tape DJ Set]
+\
+[ahabzutun](https://on.soundcloud.com/SnHCB) & [global warming](https://on.soundcloud.com/izMwg) teaming up! No genre bounds – unexpect anything.
+\
+\
+\
+[DJ CITY V.I.P.](https://soundcloud.com/snake_radio)
+\
+housey + experimental + synth pop + disco tunes by [Amelie](https://www.instagram.com/amelie_goeppel/)
+\
+\
+\
+BRÜM [femme tekk noire | Leipzig]
+\
+new project by Mathilde&Claire.
 
 ![KUMPELA Soli-Party](../../posters/2024-08-17.jpg)
