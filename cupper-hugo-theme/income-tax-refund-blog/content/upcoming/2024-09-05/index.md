@@ -54,4 +54,6 @@ Midlife aesthetic crisis with screaming attempts, various noise strata and veloc
 
 _more info coming soon_
 
-<!-- ![Giulio Erasmus & Band + Torx + Horizontaler Gentransfer + NMT](../../posters/2024-09-05.jpg) -->
+<!-- ![Giulio Erasmus & Band + Torx + Horizontaler Gentransfer + NMT](../../posters/2024-09-05.jpg)
+poster by [I.L.L.O.](https://ubac.bandcamp.com/album/10-ill-songs)
+-->
