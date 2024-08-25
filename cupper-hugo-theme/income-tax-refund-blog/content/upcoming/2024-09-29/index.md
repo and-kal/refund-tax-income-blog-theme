@@ -23,3 +23,5 @@ start 18h00
 _more info coming soon_
 
 <!-- ![Ryskinder](../../posters/2024-09-29.jpg) -->
+
+On September 21 and 22, Ryskinder will hold a workshop at Pracht about writing songs with samples. Highly recommended! [Click here](https://pracht-ev.net/en/program/sampler-songwriting-workshop-with-ryskinder) for more information.

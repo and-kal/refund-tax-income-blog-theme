@@ -41,3 +41,6 @@ ITR presents:
 [sc](https://soundcloud.com/aliciafranzke)
 
 <!-- ![SHAM + Neta Polturak + Just Fish + Sax Tape + DJ MOTHBABY](../../posters/2024-09-18.jpg) -->
+
+ask for exact location:
+post@u-bac.de

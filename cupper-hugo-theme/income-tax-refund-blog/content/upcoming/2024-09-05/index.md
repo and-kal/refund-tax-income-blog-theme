@@ -1,5 +1,5 @@
 ---
-title: "Giulio Erasmus & Band + Torx + Horizontaler Gentransfer + NMT"
+title: "Giulio Erasmus & the end of the worm + Torx + Horizontaler Gentransfer + NMT"
 date: 2024-07-25T11:12:35+01:00
 draft: false
 
@@ -16,7 +16,7 @@ Show: 19h30
 
 ---
 
-**Giulio Erasmus** + Band
+**Giulio Erasmus & the end of the worm**
 
 mutant discodub funk / BXL
 
@@ -52,8 +52,6 @@ Midlife aesthetic crisis with screaming attempts, various noise strata and veloc
 
 ---
 
-_more info coming soon_
+![Giulio Erasmus & the end of the worm + Torx + Horizontaler Gentransfer + NMT](../../posters/2024-09-05.jpg)
 
-<!-- ![Giulio Erasmus & Band + Torx + Horizontaler Gentransfer + NMT](../../posters/2024-09-05.jpg)
-poster by [I.L.L.O.](https://ubac.bandcamp.com/album/10-ill-songs)
--->
+poster by [I.L.L.O.](https://ubac.bandcamp.com/album/10-ill-songs) 💉
