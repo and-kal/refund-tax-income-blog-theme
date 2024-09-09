@@ -12,20 +12,22 @@ ITR presents:
 
 8 Oct 2024
 
-doors ??h??
+doors 19h00
 
-startttt ??h??
+startttt 20h00
 
 ---
 
-**Blitzer**
+**Blitzer** (weirdo-garage-punk.le)
 
-**Snitsh Pitsh**
+**Snitsh Pitsh** (clout-punk.le)
 
-**Glintshake**
+**Glintshake** (no-wave-disco.ru)
 
-**Neon Lies**
+**Neon Lies** (wave-pop.cro)
 
 _more info coming soon_
 
-<!-- ![Blitzer + Snitsh Pitsh + Glintshake + Neon Lies](../../posters/2024-10-08.jpg) -->
+![Blitzer + Snitsh Pitsh + Glintshake + Neon Lies](../../posters/2024-10-08.jpg)
+
+Bootster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
