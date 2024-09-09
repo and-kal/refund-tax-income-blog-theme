@@ -30,7 +30,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Income Tax Refund
-  logoAlt: Bill Murray SNL-era photo
+  logoAlt: a coffee cup and 'income tax refund' written next to it
   # customCss:
   #   - css/custom.css
   # customJs:

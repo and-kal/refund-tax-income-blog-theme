@@ -1,5 +1,5 @@
 ---
-title: "Ryskinder"
+title: "Ryskinder + Warm Swords"
 date: 2024-08-15T11:12:35+01:00
 draft: false
 
@@ -18,10 +18,20 @@ start 18h00
 
 ---
 
-**[Ryskinder](https://www.ryskinder.com/)**
+**Ryskinder**
+
+[website](https://www.ryskinder.com/)
+
+**Warm Swords**
+
+[Album: War On Words 1&2](https://ubac.bandcamp.com/album/war-on-words-1-2)
+
+---
 
 _more info coming soon_
 
-<!-- ![Ryskinder](../../posters/2024-09-29.jpg) -->
-
 On September 21 and 22, Ryskinder will hold a workshop at Pracht about writing songs with samples. Highly recommended! [Click here](https://pracht-ev.net/en/program/sampler-songwriting-workshop-with-ryskinder) for more information.
+
+![Ryskinder + Warm Swords](../../posters/2024-09-29.jpg)
+
+poster by [Roee](https://www.instagram.com/roy._.huminer)
