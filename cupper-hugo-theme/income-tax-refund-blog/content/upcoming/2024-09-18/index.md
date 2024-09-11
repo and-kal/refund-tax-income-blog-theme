@@ -42,5 +42,7 @@ ITR presents:
 
 <!-- ![SHAM + Neta Polturak + Just Fish + Sax Tape + DJ MOTHBABY](../../posters/2024-09-18.jpg) -->
 
+poster/drawings by Samus ([IG](https://www.instagram.com/uuend0land0/)) - get a RISO copy at the show.
+
 ask for exact location:
 post@u-bac.de

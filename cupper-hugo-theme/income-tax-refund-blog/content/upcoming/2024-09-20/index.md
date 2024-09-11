@@ -18,15 +18,15 @@ ITR & [Pracht](https://pracht-ev.net) present:
 
 ---
 
-**Camilla Battaglia** (IT)
+**Camilla Battaglia** (Italia)
 
 [bc](https://camillabattaglia.bandcamp.com/)
 
-**Fyodor Stepanov** (Lpz)
+**Fyodor Stepanov** (ephemeral glitchscapesm, Leipzig)
 
 [website](http://fyodorstepanov.tilda.ws/)
 
-**Harte Echtzeit** (Zwck)
+**Harte Echtzeit** (gravitational wave coding, Zwickau)
 
 [bc](https://callitanythingrecords.bandcamp.com/album/ji-k-kan)
 
