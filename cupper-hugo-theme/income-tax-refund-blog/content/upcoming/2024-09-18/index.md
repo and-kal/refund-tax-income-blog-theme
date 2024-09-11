@@ -40,7 +40,7 @@ ITR presents:
 
 [sc](https://soundcloud.com/aliciafranzke)
 
-<!-- ![SHAM + Neta Polturak + Just Fish + Sax Tape + DJ MOTHBABY](../../posters/2024-09-18.jpg) -->
+![SHAM + Neta Polturak + Just Fish + Sax Tape + DJ MOTHBABY](../../posters/2024-09-18.jpg)
 
 poster/drawings by Samus ([IG](https://www.instagram.com/uuend0land0/)) - get a RISO copy at the show.
 
