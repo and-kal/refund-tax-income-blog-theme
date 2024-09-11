@@ -12,6 +12,14 @@ _itr & kolba events present_
 
 @Hitness Club
 
+Monday 30.9.
+
+19.30 entry
+20 Start
+22 End
+
+---
+
 **Fotbal**
 
 kosmischkomisch experimental pop / CZ
@@ -31,13 +39,5 @@ crooked post punk/garage from France this time as a duo
 **Krachim**
 
 returns after his one-year hiatus with \***\*\_\_\*\*** such dir was aus. ich frag mal achim, wie es sich einordnen lässt
-
----
-
-Monday 30.9.
-
-19.30 entry
-20 Start
-22 End
 
 <!-- ![Fotbal + Warm Swords + Krachim](../../posters/2024-09-30.jpg) -->

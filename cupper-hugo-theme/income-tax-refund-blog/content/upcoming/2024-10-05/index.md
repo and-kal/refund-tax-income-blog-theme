@@ -18,7 +18,7 @@ startttt 20h00
 
 ---
 
-**Hot Chicks ** (leipzig wavy punk)
+**Hot Chicks** (leipzig wavy punk)
 
 **No Sugar** (hamburg garage rock)
 
