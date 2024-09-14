@@ -30,4 +30,4 @@ ITR & [Pracht](https://pracht-ev.net) present:
 
 [bc](https://callitanythingrecords.bandcamp.com/album/ji-k-kan)
 
-<!-- ![Camilla Battaglia + Fyodor Stepanov + Harte Echtzeit](../../posters/2024-09-20.jpg) -->
+![Camilla Battaglia + Fyodor Stepanov + Harte Echtzeit](../../posters/2024-09-20.webp)
