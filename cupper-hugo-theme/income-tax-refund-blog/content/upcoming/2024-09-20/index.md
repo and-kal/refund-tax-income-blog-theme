@@ -18,11 +18,11 @@ ITR & [Pracht](https://pracht-ev.net) present:
 
 ---
 
-**Camilla Battaglia** (Italia)
+**Camilla Battaglia** (extended vocal mystifications, Italia)
 
 [bc](https://camillabattaglia.bandcamp.com/)
 
-**Fyodor Stepanov** (ephemeral glitchscapesm, Leipzig)
+**Fyodor Stepanov** (glitchscapes and broken transmissions, Leipzig)
 
 [website](http://fyodorstepanov.tilda.ws/)
 
