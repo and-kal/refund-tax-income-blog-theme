@@ -12,9 +12,9 @@ ITR & [P0x00T](https://pracht-ev.net) present:
 
 20 Sept 2024
 
-🚪s 19h00
+🚪s 20h00
 
-⭐t 20h00
+⭐t 20h30
 
 ---
 
