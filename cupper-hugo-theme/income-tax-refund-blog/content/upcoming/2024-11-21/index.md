@@ -18,7 +18,7 @@ startttt 20h30
 
 ---
 
-**Nina Harker** (collage musicfi .FR)
+**Nina Harker** (collage music .FR)
 
 [nina harker](https://aguirrerecords.bandcamp.com/album/nina-harker) (Aguirre, 2023)
 
