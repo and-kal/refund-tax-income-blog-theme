@@ -20,7 +20,7 @@ ITR & [P0x00T](https://pracht-ev.net) present:
 
 **Camilla Battaglia** (extended vocal mystifications, Italia)
 
-...is Italy-based musician performing experimental electronics centered around vocal performance and extended singing techniques, which are layered and juxtaposed resulting in poetic excursions and soundwise expeditions.
+...is Italy-based musician performing experimental electronics centered around vocal performance with extended singing techniques, which are layered and juxtaposed with glitched-out sounds created and manipulated with SuperCollider resulting in poetic excursions and soundwise expeditions.
 
 [camillabattaglia.bandcamp.com](https://camillabattaglia.bandcamp.com/)
 
