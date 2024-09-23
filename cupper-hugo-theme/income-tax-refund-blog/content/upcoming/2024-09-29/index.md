@@ -24,7 +24,7 @@ start 18h00
 
 **Warm Swords**
 
-[Album: War On Words 1&2](https://ubac.bandcamp.com/album/war-on-words-1-2)
+[🔗🌲](https://linktr.ee/warmswords)
 
 ---
 

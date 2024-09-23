@@ -32,31 +32,19 @@ Monday 30.9.
 
 **Warm Swords**
 
-crooked post punk/garage, Solo project of Caelan (ex-Regal / France). WS will perform as a 4piece on this round incl. members of ex-Lassie, Doc Flippers, Blitzer, ... | FR
+{crooked post punk/garage | FR}
 
-[IG](https://www.instagram.com/warm.swords/)
+Solo project of Caelan (ex-Regal / France). WS will perform as a 4piece on this round incl. members of ex-Lassie, Doc Flippers, Blitzer,...
 
-[BC](https://warmswords.bandcamp.com)
-
-[War On Words 1&2](https://ubac.bandcamp.com/album/war-on-words-1-2) (albums)
-
-[live 1](https://youtu.be/PBt8o0cPdZ4?si=WWWXETVzyWJWRNgG)
-
-[live 2](https://youtu.be/yyLccnUtcmQ?si=FVPqir3pRc3HVHCg)
-
-[live 3](https://youtu.be/qt7C56okjrE?si=6D5xROT810RnmiOT)
-
-[Raytrack Session 1](https://youtu.be/QDklcvsmazE?si=gsP688hx8jpZRmLJ)
-
-[Raytrack Session 2](https://youtu.be/24XPtGch7rA?si=RcbVl5yrbG8EbwLw)
-
-[Raytrack Session 3](https://youtu.be/qdn7CkUOm9Y?si=7eoOkbYlkLJVR0Ab)
+[🔗🌲](https://linktr.ee/warmswords)
 
 ---
 
 **Krachim**
 
-AI inspired pop | LPZ
+{AI inspired pop | LPZ}
+
+The brand new project Krachim is based in Leipzig, Germany and part of Hitness Club art collective. It's such a fresh layed egg that no one ever heard anything of it before. Be the first to discover the one-man band that is combining experimental pop, symphony, rock and electronic elements played with midi guitar.
 
 ![Fotbal + Warm Swords + Krachim](../../posters/2024-10-01.jpg)
 

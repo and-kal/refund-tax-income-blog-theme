@@ -38,23 +38,7 @@ ITR & Claws of Saurtopia present:
 
 **WARM SWORDS** [crooked post punk/garage / FR|Lpz]
 
-[IG](https://www.instagram.com/warm.swords/)
-
-[BC](https://warmswords.bandcamp.com)
-
-[War On Words 1&2](https://ubac.bandcamp.com/album/war-on-words-1-2) (albums)
-
-[live 1](https://youtu.be/PBt8o0cPdZ4?si=WWWXETVzyWJWRNgG)
-
-[live 2](https://youtu.be/yyLccnUtcmQ?si=FVPqir3pRc3HVHCg)
-
-[live 3](https://youtu.be/qt7C56okjrE?si=6D5xROT810RnmiOT)
-
-[Raytrack Session 1](https://youtu.be/QDklcvsmazE?si=gsP688hx8jpZRmLJ)
-
-[Raytrack Session 2](https://youtu.be/24XPtGch7rA?si=RcbVl5yrbG8EbwLw)
-
-[Raytrack Session 3](https://youtu.be/qdn7CkUOm9Y?si=7eoOkbYlkLJVR0Ab)
+[🔗🌲](https://linktr.ee/warmswords)
 
 ![Zhed + Cesar Palace + Warm Swords](../../posters/2024-10-01.jpg)
 
