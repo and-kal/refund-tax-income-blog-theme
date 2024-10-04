@@ -22,11 +22,11 @@ Monday 30.9.
 
 **Fotbal**
 
-člověk hudba-odd pop / kosmischkomisch experimental pop | CZ
+{člověk hudba-odd pop / kosmischkomisch experimental pop | CZ}
 
 [IG](https://www.instagram.com/fotbal_band/)
 
-[FB](https://fotbal668.bandcamp.com)
+[BC](https://fotbal668.bandcamp.com)
 
 ---
 

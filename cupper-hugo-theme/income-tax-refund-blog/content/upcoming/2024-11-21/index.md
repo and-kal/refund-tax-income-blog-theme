@@ -1,5 +1,5 @@
 ---
-title: "Nina Harker + Blumes"
+title: "Nina Harker + Blumes + LNA LVTE"
 date: 2024-08-25T11:19:35+01:00
 draft: false
 
@@ -27,6 +27,12 @@ startttt 20h30
 **Blumes** (attic music .LPZ)
 
 [BIG BIN MIND](https://flennen.bandcamp.com/album/blumes-big-bin-mind) (Flennen, 2024)
+
+---
+
+**LNA LVTE** {DJ} (good vibes! .LPZ)
+
+[soundcloud](https://soundcloud.com/lenalovete)
 
 _more info coming soon_
 
