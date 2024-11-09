@@ -38,6 +38,8 @@ feat. members of Parking Lot,Doc Flippers, Egg Idiot Experience and the long for
 
 Raytracks: [Rosie](https://www.youtube.com/watch?v=4Qctk6fZdJ0) + [DryHeat](https://www.youtube.com/watch?v=JQEOu774kxI) + [RCE](https://www.youtube.com/watch?v=WzPVlRgaXSk)
 
+---
+
 **Glintshake** (no-wave-disco.ru)
 
 Drawing inspo frm John Zorn&Sonic Youth, they produce energetic rock music, embracing unpredictability & transform ordinary elements into a dynamic, thought-provoking dance. ГШ features the great [KATE NV](https://katenv.bandcamp.com/)(!!)
