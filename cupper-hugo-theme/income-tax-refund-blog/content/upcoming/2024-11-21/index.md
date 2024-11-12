@@ -1,20 +1,22 @@
 ---
-title: "Nina Harker + Blumes + LNA LVTE"
+title: "Nina Harker + Blumes + Knospen"
 date: 2024-08-25T11:19:35+01:00
 draft: false
 
 date_show: "2024|11|21"
-time_show: "20:00"
-venue_show: "Prprpr"
+time_show: "19:00"
+venue_show: "Aquarium"
 ---
 
 ITR & T//F present:
 
 21 Nov 2024
 
-doors 20h00
+doors 19h00
 
-startttt 20h30
+startttt 19h30
+
+@ R21
 
 ---
 
@@ -30,10 +32,10 @@ startttt 20h30
 
 ---
 
-**LNA LVTE** {DJ} (good vibes! .LPZ)
+**Knospen** (impro jazz music .LPZ)
 
-[soundcloud](https://soundcloud.com/lenalovete)
+[bandcamp](https://knospen.bandcamp.com)
 
 _more info coming soon_
 
-<!-- ![Nina Harker + Blumes](../../posters/2024-11-21.jpg) -->
+<!-- ![Nina Harker + Blumes + Knospen](../../posters/2024-11-21.jpg) -->
