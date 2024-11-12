@@ -1,5 +1,5 @@
 ---
-title: "Nina Harker + Blumes + Knospen"
+title: "Nina Harker + Blumes"
 date: 2024-08-25T11:19:35+01:00
 draft: false
 
@@ -30,12 +30,8 @@ startttt 19h30
 
 [BIG BIN MIND](https://flennen.bandcamp.com/album/blumes-big-bin-mind) (Flennen, 2024)
 
----
-
-**Knospen** (impro jazz music .LPZ)
-
-[bandcamp](https://knospen.bandcamp.com)
-
 _more info coming soon_
 
-<!-- ![Nina Harker + Blumes + Knospen](../../posters/2024-11-21.jpg) -->
+<!-- ![Nina Harker + Blumes](../../posters/2024-11-21.jpg)
+posterino by [Studio Goof](https://www.studio-goof.com/)
+-->
