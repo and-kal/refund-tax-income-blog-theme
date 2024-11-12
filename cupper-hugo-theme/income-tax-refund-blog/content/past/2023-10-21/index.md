@@ -20,13 +20,13 @@ Start: 20x00
 
 **Oba Boba & die Abgründe** (Südlicher Oberrhein)
 
-Our dear seafood friends coming back to town to abduct the residents into their mutant research facility. 
+Our dear seafood friends coming back to town to abduct the residents into their mutant research facility.
 
 [Ankunft auf dem Butterberg (U-Bac, 2021)](https://ubac.bandcamp.com/album/ankunft-auf-dem-butterberg)
 
 **Amit Dagim** (Nederlân)
 
-Take this sonic bath, if you like John Bender type creaking electronic sounds as much as digital finds à la snd.  
+Take this sonic bath, if you like John Bender type creaking electronic sounds as much as digital finds à la snd.
 
 [bandcamp](https://amitdagim.bandcamp.com)
 [soundcloud](https://soundcloud.com/amitdagim)
@@ -37,4 +37,4 @@ A new band from around the corner that has some playful sweet naive melodies, an
 
 ![Oba Boba & die Abgründe + Amit Dagim + Love Cough](../../posters/2023-10-21.jpg)
 
-another eggcelent poster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+another eggcelent poster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

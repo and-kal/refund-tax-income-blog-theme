@@ -32,4 +32,4 @@ Start: 20x00
 
 ![Zoomies + Superpositivity](../../posters/2024-02-06.jpg)
 
-swan-y poster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+swan-y poster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

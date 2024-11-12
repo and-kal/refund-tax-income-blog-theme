@@ -39,4 +39,4 @@ fka. Space Shuttle aka. the best school band around - making jazzy prog rock gre
 
 ![Omni Selassi + Space Schädel](../../posters/2023-10-08.jpg)
 
-satanic poster art worship by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+satanic poster art worship by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

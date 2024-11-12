@@ -27,4 +27,4 @@ unfortunately without **Roger F** ＞﹏＜
 
 ![Attic Ted + Rea + Roger F](../../posters/2024-05-05.jpg)
 
-propaganda art by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena). Riso Version & digi version available at the show. Gracias ❤️
+propaganda art by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena). Riso Version & digi version available at the show. Gracias ❤️

@@ -42,4 +42,4 @@ ITR & Claws of Saurtopia present:
 
 ![Zhed + Cesar Palace + Warm Swords](../../posters/2024-10-01.jpg)
 
-piggyposter by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+piggyposter by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

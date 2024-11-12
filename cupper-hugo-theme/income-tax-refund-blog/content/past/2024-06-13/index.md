@@ -40,4 +40,4 @@ Make sure to drop by early, coz at 6pm we gonna fire up the royal gourmet barbec
 
 ![Ryan Davis + Ned Collette + Greedy Vultures](../../posters/2024-06-13.jpg)
 
-dress suggestion by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+dress suggestion by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

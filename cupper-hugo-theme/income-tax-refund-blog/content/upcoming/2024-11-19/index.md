@@ -30,4 +30,4 @@ startttt 20h30
 
 ![Zoomies + Warm Swords](../../posters/2024-11-19.jpg)
 
-onerous onion by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+onerous onion by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

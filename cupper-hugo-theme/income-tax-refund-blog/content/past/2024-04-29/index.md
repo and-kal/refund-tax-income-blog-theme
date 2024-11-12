@@ -16,6 +16,6 @@ _more info coming soon_
 
 ![game boy advance + Onisuka Tiger](../../posters/2024-04-29.jpg)
 
-scenic poster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+scenic poster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)
 
 ![game boy advance + Onisuka Tiger](../../posters/2024-04-30.jpg)

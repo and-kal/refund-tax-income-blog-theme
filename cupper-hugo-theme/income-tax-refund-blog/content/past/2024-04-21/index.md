@@ -52,4 +52,4 @@ When _Clara Fall_ became absorbed into the world of pulsating machines, they wer
 
 ![Strzał w kolano + Zdrój + Ari Raketo & Piet + Clara Fall](../../posters/2024-04-21.jpg)
 
-a florid posterette by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+a florid posterette by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

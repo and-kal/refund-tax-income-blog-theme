@@ -48,4 +48,4 @@ The brand new project Krachim is based in Leipzig, Germany and part of Hitness C
 
 ![Fotbal + Warm Swords + Krachim](../../posters/2024-10-01.jpg)
 
-piggyposter by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+piggyposter by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

@@ -54,4 +54,4 @@ Early show! Doors 18h00 Rock 19h00 End 22h00
 
 [ttt-turbo.bandcamp.com](https://ttt-turbo.bandcamp.com)
 
-livin la poster art loca by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+livin la poster art loca by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)

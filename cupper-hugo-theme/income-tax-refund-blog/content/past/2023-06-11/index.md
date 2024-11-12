@@ -9,13 +9,13 @@ venue_show: "σφεΛΥⁿΧε"
 ---
 
 income tax refund presents
-*a sUNDAY mATINéE*
+_a sUNDAY mATINéE_
 
-at the 
-*σφεΛΥⁿΧε*
+at the
+_σφεΛΥⁿΧε_
 
 on
-*sUNDAY, 11 June*
+_sUNDAY, 11 June_
 
 with the bands:
 
@@ -29,34 +29,31 @@ with the bands:
 
 ![Double Job + St. Upid + FiS + SJ C.O.R.A.N](../../posters/2023-06-11.jpg)
 
-Magic carp carefully taxidermed by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+Magic carp carefully taxidermed by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)
 
 Doors 16h30
 Start 17h00
 Finito 22h00
 
-----
+---
 
 **Double Job** (New Leipzig, ND)
-= Maraudeur + Planets Are On It 
+= Maraudeur + Planets Are On It
 
 [Ohne Tanzen Planen (album)](https://mangelrecords.bandcamp.com/album/ohne-tanzen-planen)
 [Colour Company (album)](https://ubac.bandcamp.com/album/colour-company)
 [Aujourd'hui (Raytrack Session 3/3)](https://www.youtube.com/watch?v=M599KspsdmY&pp=ygUMImRvdWJsZSBqb2Ii)
-
 
 **St. Upid** (Halle/Westfalen)
 fka. St. Toupet
 
 [Gisela Geht (album)](https://ubac.bandcamp.com/album/gisela-geht)
 
-
 **FiS** (Berlín/Usulután)
 fka. Famous In Suwałki
 
 [Heat (EP)](https://fisfisfisfis.bandcamp.com/album/heat)
 [Sisyphos (album)](https://cassettendienst.bandcamp.com/album/sisyphos)
-
 
 **SJ C.O.R.A.N** (Leipsic, OH)
 aka. (Kr)achim solo performance with AI lyrics on request + synthesizer + MIDI 1.0 guitar

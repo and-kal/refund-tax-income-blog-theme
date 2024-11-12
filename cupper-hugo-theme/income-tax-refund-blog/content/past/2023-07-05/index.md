@@ -11,11 +11,11 @@ venue_show: "TV Studio Ost"
 income tax refund presents
 **a musical transmission**
 
-at the 
+at the
 [**TV Studio East**](https://hitness.club)
 
 on
-*Wednesday, 5 July*
+_Wednesday, 5 July_
 
 with the artists:
 \
@@ -27,7 +27,7 @@ with the artists:
 
 ![Alpha Strategy + HUGAYZ + Bentley Anderson](../../posters/2023-07-05.jpg)
 
-GMO-flavoured daisy by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+GMO-flavoured daisy by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)
 
 Doors: 19h00
 \
@@ -35,19 +35,18 @@ Start: 20h00
 \
 End: 22h30
 
-----
+---
 
-**Alpha Strategy** 
+**Alpha Strategy**
 
 [The Caressing Cloth (single, 2022)](https://alphastrategy.bandcamp.com/album/the-caressing-cloth)
 
 \
 
 **HUGAYZ**
-[Hugz and Kissez (album, 2021)](https://plusztapes.bandcamp.com/album/hugz-and-kissez) 
+[Hugz and Kissez (album, 2021)](https://plusztapes.bandcamp.com/album/hugz-and-kissez)
 
 \
 
 **Bentley Anderson**
-[Scintil (album, 2022)](https://bentleyanderson.bandcamp.com/album/scintil) 
-
+[Scintil (album, 2022)](https://bentleyanderson.bandcamp.com/album/scintil)

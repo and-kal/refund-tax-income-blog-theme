@@ -68,7 +68,7 @@ Videos: [TEEN](https://www.youtube.com/watch?v=cm2U1XjZz1E) + [BRIDGES](https://
 
 ![Blitzer + Snitsh Pitsh + Glintshake + Neon Lies](../../posters/2024-10-08.jpg)
 
-Bootster by [Aranzazu](https://aranzazumoena.com/) [Morena](https://www.instagram.com/aranzazumoena)
+Bootster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)
 printed @ [Riso](https://www.tschau-tschuessi.de/riso-club-leipzig/) [Club](https://www.instagram.com/risoclub)
 
 Date: Tue 8th Oct
