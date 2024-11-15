@@ -20,18 +20,16 @@ startttt 19h30
 
 ---
 
-**Nina Harker** (collage music .FR)
+**Nina Harker** (anything goes collage music .FR)
 
 [nina harker](https://aguirrerecords.bandcamp.com/album/nina-harker) (Aguirre, 2023)
 
 ---
 
-**Blumes** (attic music .LPZ)
+**Blumes** (lofi attic music .LPZ)
 
-[BIG BIN MIND](https://flennen.bandcamp.com/album/blumes-big-bin-mind) (Flennen, 2024)
+[BIG BIN MIND](https://flennen.bandcamp.com/album/blumes-big-bin-mind) (Flennen, 2020)
 
-_more info coming soon_
+![Nina Harker + Blumes](../../posters/2024-11-21.jpg)
 
-<!-- ![Nina Harker + Blumes](../../posters/2024-11-21.jpg)
-posterino by [Studio Goof](https://www.studio-goof.com/)
--->
+poster with the bats on'em by [Studio Goof](https://www.studio-goof.com/)
