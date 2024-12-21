@@ -12,9 +12,3 @@
     [headers.values]
       Access-Control-Allow-Origin = "*"
 
-[[redirects]]
-  from = "/*"
-  to = "http://itr.root.sx"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
