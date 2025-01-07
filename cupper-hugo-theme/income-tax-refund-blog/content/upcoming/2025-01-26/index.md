@@ -1,5 +1,5 @@
 ---
-title: "De Klok + Lohn der Angst"
+title: "De Klok + Lohn der Angst + Telesatan"
 date: 2024-12-15T11:19:35+01:00
 draft: false
 
@@ -28,8 +28,16 @@ and
 
 **Lohn der Angst**
 
+and
+
+**Telesatan**
+
 ---
+
+doors: 17:00 / start: 18:00 / curfewww: 22:00
 
 _more info coming soon_
 
-<!-- ![De Klok + Lohn der Angst](../../posters/2025-01-26.jpg) -->
+![De Klok + Lohn der Angst + Telesatan](../../posters/2025-01-26.png)
+
+thanks to [Jakob](https://www.instagram.com/jakobantonhoernig/) for the deep blue poster!
