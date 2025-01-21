@@ -23,8 +23,8 @@ Sidney Jaffe (Arcane Allies, Burnpilot, Parse) on drums&synths + Pedro Pestana (
 
 **FrontPageLeslie** (bxl)
 
--> record release party, tape out on U-[Bac](https://ubac.bandcamp.com/album/feelings)
-further links: FPL [bc ](https://frontpageleslie.bandcamp.com/) / [youtube](https://www.youtube.com/@FrontPageLeslie) / [insta](https://www.instagram.com/frontpageleslie_/)
+-> record release party, tape out on [U-Bac](https://ubac.bandcamp.com/album/feelings)
+further links: FPL [bc](https://frontpageleslie.bandcamp.com/) / [youtube](https://www.youtube.com/@FrontPageLeslie) / [insta](https://www.instagram.com/frontpageleslie_/)
 
 ---
 
@@ -36,10 +36,11 @@ Baustelle will perform a new DARK set in the basement after the shows upstairs.
 ---
 
 **Prüfkörper** (weimar) 🔬🦠
+
 [BC](https://pruefkoerper.bandcamp.com/album/pr-fk-rper) / [YT](https://youtu.be/89sr3di3Tis?feature=shared)
 
 ---
 
-<!-- ![SPLITTERZELLE + FrontPageLeslie + Dark Baustelle + Prüfkörper](../../posters/2025-02-14.png) -->
+![SPLITTERZELLE + FrontPageLeslie + Dark Baustelle + Prüfkörper](../../posters/2025-02-14.JPG)
 
-poster by [Timon](https://tortellinirecords.bandcamp.com/album/good-luck-volume-one) coming soooooon
+poster with de cloc by [Timon](https://tortellinirecords.bandcamp.com/album/good-luck-volume-one)
