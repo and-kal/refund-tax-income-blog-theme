@@ -14,7 +14,7 @@ Claws of Saurtopia & Income Tax Refund present
 
 **Rouge Gorge** [odd synth pop]
 
-**Weird Ugly Fish** \[drums'n'synths\]
+**Weird Ugly Fish** aka. keista bjauri žuvis \[drums'n'synths\]
 
 **Sheik Anorak** [noisy exp. improv]
 
