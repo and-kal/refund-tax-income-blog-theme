@@ -10,7 +10,7 @@ venue_show: "TV Studio Ost"
 
 ITR & Hitness Club present:
 
-**Giulio Erasmus** [brussels / manchester]
+**Giulio Erasmus & Ex-Worm 3000** [brussels / manchester]
 
 [Giulio Erasmus: Re​-​Adjustment](https://absolutefiction.bandcamp.com/album/giulio-erasmus-re-adjustment) (album, 2021)
 
