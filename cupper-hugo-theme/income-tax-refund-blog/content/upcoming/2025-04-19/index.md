@@ -11,9 +11,7 @@ venue_show: "H̳o̳l̳e̳m̳a̳n̳d̳a̳n̳c̳i̳k̳"
 Sat 19.4.
 H̳o̳l̳e̳m̳a̳n̳d̳a̳n̳c̳i̳k̳
 
-**Roger and the Pacemaker**
-
-= Seijiro Murayama + Roger Fähndrich
+**Roger and the Pacemaker** = Seijiro Murayama + Roger Fähndrich
 
 [link](https://roger-f.com/pacemaker.html)
 
@@ -24,9 +22,7 @@ H̳o̳l̳e̳m̳a̳n̳d̳a̳n̳c̳i̳k̳
 [ig](https://www.instagram.com/the_new_solarism/)
 [sptf](https://open.spotify.com/intl-de/artist/47B0IJd9ArVXjj6TLBqDuO)
 
-**Tavare**
-
-= Aidan Baker + Tristen Bakker + Angela Muñoz
+**Tavare** = Aidan Baker + Tristen Bakker + Angela Muñoz
 
 [bc](https://tavare.bandcamp.com/album/ghosts)
 
@@ -37,7 +33,9 @@ H̳o̳l̳e̳m̳a̳n̳d̳a̳n̳c̳i̳k̳
 ---
 
 _Doors 19:30_
-\\
+\
 _Start 20:15_
 
-<!-- ![Roger and the Pacemaker + Tavare + Nina Garcia + The New Solarism](../../posters/2025-04-19.png) -->
+thanks to [Ilka](https://www.instagram.com/illo_illu_) for 🎷🍅the poster🍅🎷
+
+![Roger and the Pacemaker + Tavare + Nina Garcia + The New Solarism](../../posters/2025-04-19.png)
