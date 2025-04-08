@@ -4,7 +4,7 @@ date: 2025-01-05T11:19:35+01:00
 draft: false
 
 date_show: "2025|04|19"
-time_show: "??:??"
+time_show: "19:00"
 venue_show: "H̳o̳l̳e̳m̳a̳n̳d̳a̳n̳c̳i̳k̳"
 ---
 
