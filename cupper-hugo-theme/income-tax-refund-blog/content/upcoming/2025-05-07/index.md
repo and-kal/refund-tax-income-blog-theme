@@ -12,7 +12,7 @@ ITR & Hitness Club present:
 
 **Giulio Erasmus & Ex-Worm 3000** [brussels / manchester]
 
-Giulio Erasmus (of the funky formations Handle and D.U.D.S.) is back with the band: Ex-Worm 3000 or The End of the Worm or The Worm Parade or Paradigm or whatever they're called this time around. Once again, bringing a fine, dub-infused blend of James Chance-esque no-wave punk, a soulfulness inherited from classics like The Specials.
+Giulio Erasmus (of the funky formations Handle and D.U.D.S.) is back with the band: Ex-Worm 3000 or The End of the Worm or The Worm Parade or Paradigm or whatever they're called this time around. Once again, bringing a fine, dub-infused blend of James Chance-esque no-wave punk and a soulfulness inherited from classics like The Specials with plenty of delay slapped on the synths, percussion jinglings all over, lovely harmonies and enchaining bass lines.
 
 [Second Attempt](https://ubac.bandcamp.com/album/second-attempt) (album, 2024)
 
