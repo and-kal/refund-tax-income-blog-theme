@@ -4,7 +4,7 @@ date: 2025-01-05T11:19:35+01:00
 draft: false
 
 date_show: "2025|05|07"
-time_show: "??:??"
+time_show: "19:00"
 venue_show: "TV Studio Ost"
 ---
 
@@ -35,3 +35,7 @@ VMO's first album "Catastrophic Anonymous" was released on world's end girlfrien
 music videos: [SUPERGAZE](https://youtu.be/aAtNa7jrI9k) / [Planet Helvetech](https://youtu.be/3tTD1xVWWhI) / [WARP](https://youtu.be/QP3FPtcw2KU) / [The Destroyer](https://youtu.be/XOJrcD9H7lY) / [Ecsedi Báthory Erzsébet](https://youtu.be/YSl8P8QHumQ)
 
 ![Giulio Erasmus & Ex-Worm 3000 + VMO aka. Violent Magic Orchestra](../../posters/2025-05-07.jpg)
+
+doors 19:00 /// start 20:00
+
+{{{thanks for the poster, nagy di mezzo!}}}
