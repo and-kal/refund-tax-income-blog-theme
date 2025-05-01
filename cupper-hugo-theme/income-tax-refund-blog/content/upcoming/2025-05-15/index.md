@@ -20,3 +20,7 @@ new new wave sensation from Berlin
 concert 21.00 - 22.00 (sharp!)
 
 küfa from 19.00
+
+![Hot Couture](../../posters/2025-05-15.jpg)
+
+poster art by [Aranzazu Moena](https://www.aranzazumoena.com)

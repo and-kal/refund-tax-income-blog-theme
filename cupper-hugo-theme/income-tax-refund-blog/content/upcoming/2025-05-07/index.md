@@ -34,6 +34,10 @@ VMO's first album "Catastrophic Anonymous" was released on world's end girlfrien
 
 music videos: [SUPERGAZE](https://youtu.be/aAtNa7jrI9k) / [Planet Helvetech](https://youtu.be/3tTD1xVWWhI) / [WARP](https://youtu.be/QP3FPtcw2KU) / [The Destroyer](https://youtu.be/XOJrcD9H7lY) / [Ecsedi Báthory Erzsébet](https://youtu.be/YSl8P8QHumQ)
 
+---
+
+Plus: extra televisual delightz by WEEBZ
+
 ![Giulio Erasmus & Ex-Worm 3000 + VMO aka. Violent Magic Orchestra](../../posters/2025-05-07.jpg)
 
 doors 19:00 /// start 20:00
