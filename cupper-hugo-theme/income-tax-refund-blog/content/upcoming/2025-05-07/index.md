@@ -10,6 +10,8 @@ venue_show: "TV Studio Ost"
 
 ITR & Hitness Club present:
 
+( · ❛ ֊ ❛) ԅ(‾⌣‾ԅ) (⊙ \_ ⊙ )
+
 **Giulio Erasmus & Ex-Worm 3000** [brussels / manchester]
 
 Giulio Erasmus (of the funky formations Handle and D.U.D.S.) is back with the band: Ex-Worm 3000 or The End of the Worm or The Worm Parade or Paradigm or whatever they're called this time around. Once again, bringing a fine, dub-infused blend of James Chance-esque no-wave punk and a soulfulness inherited from classics like The Specials with plenty of delay slapped on the synths, percussion jinglings all over, lovely harmonies and enchaining bass lines.
@@ -19,6 +21,8 @@ Giulio Erasmus (of the funky formations Handle and D.U.D.S.) is back with the ba
 [Re​-​Adjustment](https://absolutefiction.bandcamp.com/album/giulio-erasmus-re-adjustment) (album, 2021)
 
 ---
+
+Ψ(｀ ▽´)Ψ (๑`꒳´๑) (◣ \_ ◢)
 
 **VMO aka. Violent Magic Orchestra** [japan]
 
@@ -36,10 +40,14 @@ music videos: [SUPERGAZE](https://youtu.be/aAtNa7jrI9k) / [Planet Helvetech](htt
 
 ---
 
-Plus: extra televisual delightz by WEEBZ
+🎞📽📺𔘓
+
+Plus: extra televisual delightz by WEEBZ!
 
 ![Giulio Erasmus & Ex-Worm 3000 + VMO aka. Violent Magic Orchestra](../../posters/2025-05-07.jpg)
 
 doors 19:00 /// start 20:00
+
+☾☼☾⋆｡𖦹 °✩
 
 {{{thanks for the poster, nagy di mezzo!}}}
