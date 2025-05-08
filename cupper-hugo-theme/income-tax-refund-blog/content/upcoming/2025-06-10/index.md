@@ -20,7 +20,7 @@ Start 20h00
 
 ---
 
-**Trá Pháidín **
+**Trá Pháidín**
 (Noisy Dada Irish Post Folk Rock)
 
 **Bö.senberg**
