@@ -33,4 +33,6 @@ Noisy post kraut punk
 
 more info soon
 
-<!-- ![Omni Selassi + Almod Butyl + Sensor Ghost + DJ Ernie](../../posters/2025-06-05.png) -->
+![Trá Pháidín + Bö.senberg + YASS](../../posters/2025-06-10.jpg)
+
+poster art by [Aranzazu Moena](https://www.aranzazumoena.com)

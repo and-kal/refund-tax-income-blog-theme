@@ -1,5 +1,5 @@
 ---
-title: "Omni Selassi + Almod Butyl + Sensor Ghost + DJ Ernie"
+title: "Omni Selassi + Almond Butyl + Sensor Ghost + DJ Ernie"
 date: 2025-01-05T11:19:35+01:00
 draft: false
 
@@ -14,7 +14,7 @@ income tax refund presents:
 
 **Omni Selassi**
 
-**Almod Butyl**
+**Almond Butyl**
 
 **Sensor Ghost**
 
@@ -40,4 +40,6 @@ start 20.15
 
 more info soon
 
-<!-- ![Omni Selassi + Almod Butyl + Sensor Ghost + DJ Ernie](../../posters/2025-06-05.png) -->
+![Omni Selassi + Almond Butyl + Sensor Ghost + DJ Ernie](../../posters/2025-06-05.png)
+
+poster by Gaelle Cordeaux
