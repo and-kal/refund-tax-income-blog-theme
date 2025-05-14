@@ -40,6 +40,6 @@ start 20.15
 
 more info soon
 
-![Omni Selassi + Almond Butyl + Sensor Ghost + DJ Ernie](../../posters/2025-06-05.png)
+![Omni Selassi + Almond Butyl + Sensor Ghost + DJ Ernie](../../posters/2025-06-05.jpg)
 
 poster by Gaelle Cordeaux
