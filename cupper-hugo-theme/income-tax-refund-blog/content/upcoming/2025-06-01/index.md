@@ -4,7 +4,7 @@ date: 2025-01-05T11:19:35+01:00
 draft: false
 
 date_show: "2025|06|01"
-time_show: __:__"
+time_show: 16:00 (!)"
 venue_show: "cour de galle"
 ---
 
