@@ -1,16 +1,18 @@
 ---
-title: "DuChamp + Sunk Heaven + Felix-Florian Tödtloff"
+title: "DuChamp + Felix-Florian Tödtloff"
 date: 2025-01-05T11:19:35+01:00
-draft: true
+draft: false
 
 date_show: "2025|05|24"
-time_show: "19:30"
-venue_show: "Пр++т"
+time_show: "19:00"
+venue_show: "CxHxHx"
 ---
 
-ITR & Пр++т...
+ITR & CxHxHx...
 
-...are proud to bring an evening full noises, drones and ambiences.
+...are proud to bring you a little warmup including drones and ambiences.
+
+---
 
 **DuChamp** [brln]
 
@@ -21,24 +23,6 @@ Federica Rossella of SuperCheri and Pieuvre and also running Berlin's [Kitchen L
 [website](https://orange-ear.de/portfolio-items/duchamp/)
 
 [bc](https://duchampdronemusic.bandcamp.com)
-
----
-
-**Sunk Heaven** [nyc]
-
-...and finally, we're stoked to have [Sediment Club](https://www.sedimentclub.com/)'s guitarist Austin aka. SUNK HEAVEN coming back to our chapel conducting another glamorous noise exorcism. Can't wait!
-
-[bandcamp](https://sunkheaven.bandcamp.com)
-
-[website](https://austinsleyjulian.com/Sunk-Heaven-One-Sheet)
-
-[new album](https://hotreleases.bandcamp.com/album/off-white-colosseum)
-
-videos:
-[1](https://www.youtube.com/watch?v=H69KAFejOVs)
-\ [2](https://www.youtube.com/watch?v=of-iaGFrXVw)
-\ [3](https://www.youtube.com/watch?v=cI725avlmi0)
-\ [4](https://www.youtube.com/watch?v=my4G7KSJP5U)
 
 ---
 
@@ -54,4 +38,11 @@ videos:
 
 ---
 
-<!-- ![DuChamp + Felix-Florian Tödtloff + Sunk Heaven](../../posters/2025-05-24.png) -->
+![DuChamp + Felix-Florian Tödtloff](../../posters/2025-05-24.png)
+
+Starting at **7pm(!!)** already.
+
+There'll be a party afterwards featuring Peppsi, [Rahmlet](https://soundcloud.com/rahmlet) and [Rudi Schabloni](https://soundcloud.com/felix-r-s).
+From _21:00 to 02:00_. So if you're up for some _tekkno and drum'n'bazz_, feel free to just stick around.
+
+Also, support [E97](https://e97.org) by whateverm eans you have at your disposal, e.g. just dropping by at the show and donate a bit of dough at the bar.
