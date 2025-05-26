@@ -25,7 +25,13 @@ New project in town! These kids play a raw & refreshing mix of country, indie & 
 
 [Citron Citron](https://linktr.ee/citroncitron) are a brother&sister pop synthétriste duo based in Geneva, CH. Augustin & Zoé play a mix of transcendental pop that offers synthetic soundscapes where voices, violins, synthesizers, guitars and punchy drum machines merge to create an infinite echo.
 
-[new album](https://citroncitron.bandcamp.com/album/mar-eternelle) out on [Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/) records.
+[new album "Maréeternelle"](https://citroncitron.bandcamp.com/album/mar-eternelle) out on [Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/) records.
+
+[Rafales](https://www.youtube.com/watch?v=vn0Rqmur68k) (music video)
+
+[Live session à la Parfumerie](https://www.youtube.com/watch?v=Rr-KelnBKjU)
+
+[1st album "Chagrin Bleu"](https://citroncitron.bandcamp.com/album/chagrin-bleu)
 
 ---
 
