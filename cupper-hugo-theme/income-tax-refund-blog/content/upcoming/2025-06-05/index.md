@@ -21,7 +21,7 @@ DJ set before-inbetween-after by [MISS TAKE](https://soundcloud.com/mizz_take)
 
 **OMNI SELASSI** [CH/LE]
 
-genre-defying trio formed in 2019. Since then, the band (Rea (vocals, guitar, synth), Mirko (drums, electroharp) and Lukas (drums, synth) has been relentlessly active across stages throughout Europe and beyond. Their sound is unpredictable and ever-shifting: part pop, part punk, part ritual, always experimental. Two drummers, a voice, a guitar, and a collection of sonic oddities collide to something strange and beautiful.
+genre-defying trio formed in 2019. Since then, the band (Rea (vocals, guitar, synth), Mirko (drums, electroharp) and Lukas (drums, synth)) has been relentlessly active across stages throughout Europe and beyond. Their sound is unpredictable and ever-shifting: part pop, part punk, part ritual, always experimental. Two drummers, a voice, a guitar, and a collection of sonic oddities collide to something strange and beautiful.
 
 [WEB](http://omniselassi.com/) | [BC](http://omniselassi.bandcamp.com/) | [IG](http://instagram.com/omniselassi)
 

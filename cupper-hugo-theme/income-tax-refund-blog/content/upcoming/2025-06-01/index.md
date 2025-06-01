@@ -1,5 +1,5 @@
 ---
-title: "Citron Citron + tba tbc + Warm Swords"
+title: "Citron Citron + tba tbc + Warm Swords + Omni Selassi"
 date: 2025-01-05T11:19:35+01:00
 draft: false
 
@@ -47,3 +47,13 @@ solo recording project of [Caelan O'Flaherty](https://linktr.ee/warmswords). The
 [Live session à la Parfumerie](https://www.youtube.com/watch?v=Rr-KelnBKjU)
 
 [1st album "Chagrin Bleu"](https://citroncitron.bandcamp.com/album/chagrin-bleu)
+
+---
+
+_Spontaneously hijacking this show:_
+
+**OMNI SELASSI** [CH/LE]
+
+genre-defying trio formed in 2019. Since then, the band (Rea (vocals, guitar, synth), Mirko (drums, electroharp) and Lukas (drums, synth)) has been relentlessly active across stages throughout Europe and beyond. Their sound is unpredictable and ever-shifting: part pop, part punk, part ritual, always experimental. Two drummers, a voice, a guitar, and a collection of sonic oddities collide to something strange and beautiful.
+
+[WEB](http://omniselassi.com/) | [BC](http://omniselassi.bandcamp.com/) | [IG](http://instagram.com/omniselassi)
