@@ -42,6 +42,6 @@ alt. weirdo pop rock frm Vienna, Austria
 
 with Band (they're based in Leipzig, Inessa will soon release some recordings. It's also super catchy slacker rock with Parquet Courts and Velvet Underground vibes)
 
-![Alien Nosejob + Mr. Strong + Sa Yuu + Luke Kiid](../../posters/2025-06-30.jpg)
+![Alien Nosejob + Mr. Strong + Sa Yuu + Luke Kiid](../../posters/2025-07-03.jpg)
 
 Beach outfit by [Aranzazu](https://www.instagram.com/aranzazumoena/) [Moena](https://aranzazumoena.com/)
