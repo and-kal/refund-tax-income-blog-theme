@@ -31,7 +31,10 @@ no-wave drums and lo-fi toy organs
 
 another rare chance to see your local retro noise rock heralds
 
-[abrichten.glitch.me](http://abrichten.glitch.me) / [rdsrechh.bandcamp.com/album/souver-n](https://rdsrechh.bandcamp.com/album/souver-n) / [ubac.bandcamp.com/album/berichte](https://ubac.bandcamp.com/album/berichte) / [ubac.bandcamp.com/album/--2](https://ubac.bandcamp.com/album/--2)
+[abrichten-main.pgs.sh](http://abrichten.glitch.me) /
+[Album 1](https://ubac.bandcamp.com/album/berichte) /
+[Album 2](https://rdsrechh.bandcamp.com/album/souver-n) /
+[Album 3](https://ubac.bandcamp.com/album/--2)
 
 ![Héloïse + Abrichten](../../posters/2025-09-05.jpg)
 
