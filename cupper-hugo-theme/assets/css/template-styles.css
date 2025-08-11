@@ -349,6 +349,7 @@ caption {
 .logo img {
   width: 100%;
   max-width: 12rem;
+  image-rendering: pixelated;
 }
 .library-desc {
   margin-top: 0.5rem;
