@@ -19,7 +19,7 @@ Start 2000
 
 **Héloïse** (CH)
 
-no-wave drums and lo-fi toy organs
+No-wave drums and lo-fi toy organs as played by Zürich-based _cantautrice_ Sabina Leone. @ all you Casio keyboard worshippers: don't miss this one.
 
 [Video](https://www.youtube.com/watch?v=Xnog_imbGnc) /  
 [Bandcamp](https://heloise.bandcamp.com/album/one-click-one-scroll) /  
@@ -29,7 +29,7 @@ no-wave drums and lo-fi toy organs
 
 **Abrichten** (Lpz)
 
-another rare chance to see your local retro noise rock heralds
+Another rare chance to see your local vintage noiserock heralds - with some new stompers _in petto_ from their upcoming album. Especially suitable for fans of Slayer and Irmtraud Morgner.
 
 [abrichten-main.pgs.sh](http://abrichten.glitch.me) /
 [Album 1](https://ubac.bandcamp.com/album/berichte) /
