@@ -38,4 +38,4 @@ Another rare chance to see your local vintage noiserock heralds - with some new 
 
 ![Héloïse + Abrichten](../../posters/2025-09-05.jpg)
 
-poster by [Staxl](https://and-kal.github.io/)
+poster by [Staxl](https://and-kal.github.io/) & [Käthe Kollwitz](https://www.kollwitz.de/zyklus-bauernkrieg-uebersicht)
