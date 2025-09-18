@@ -19,7 +19,7 @@ Rock 20h30
 
 ---
 
-**Flying Moon in Space** (genre/leipzig)
+**Flying Moon in Space** (technokraut/leipzig)
 
 FMIS music springs from hours-long live improvisations that fuse hypnotic krautrock, vivid psychedelic pop, and techno-tinged electronics. Incl. members from Dolphins, Lovely Heroin, Creams and Hologram Hug.
 
