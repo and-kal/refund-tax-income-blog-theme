@@ -20,9 +20,9 @@ ITR & Claws of Saurtopia present:
 
 [BC](https://zhed01.bandcamp.com/album/zhed)
 
-[SP](https://open.spotify.com/album/3EQ69SBYjoGAyvaZhNSqN7?si=x6J8uFhCSvyQuPLdR8rEKQ)
+[SP](https://open.spotify.com/album/3EQ69SBYjoGAyvaZhNSqN7)
 
-[YT](https://youtu.be/YE5SLrtzf_U?si=L5AMCY9chUM3ylwP)
+[YT](https://youtu.be/YE5SLrtzf_U)
 
 [IG](https://www.instagram.com/_zhed_?igsh=ODE1dDJxcnRkYXNk)
 

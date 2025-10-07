@@ -26,7 +26,7 @@ feat. Martin from Lumpy & the Dumpers 🗑️
 
 [Martin Meyer's YT channel](https://www.youtube.com/@mutantbbq/videos)
 
-[Chaos Girls (video)](https://youtu.be/5yMCN2gxy_E?si=L0ri0mDKBVYDMXAX)
+[Chaos Girls (video)](https://youtu.be/5yMCN2gxy_E)
 
 [And At Night (video)](https://www.youtube.com/watch?v=FDxwUhETxMU)
 
@@ -38,7 +38,7 @@ feat. members of Massicot & Orchestre Tout Puissant Marcel Duchamp
 
 [bandcamp](https://hyperculte.bandcamp.com)
 
-[live @ Paléo Festival (video)](https://youtu.be/YT4x8Bu8sXk?si=FwRkJpGLQ9TC_vX9)
+[live @ Paléo Festival (video)](https://youtu.be/YT4x8Bu8sXk)
 
 **Shafrah** (new outfit from Hell )
 

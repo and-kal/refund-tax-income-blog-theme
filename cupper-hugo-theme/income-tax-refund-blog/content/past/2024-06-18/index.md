@@ -50,7 +50,7 @@ Yo, it's our Croatian homeboy Neon Lies coming to town again and again to bring 
 
 [BC](https://neonlies.bandcamp.com/)
 
-[YT](https://youtu.be/J-GmnD0ntj4?si=ETHp5k8q4nCA7r4u)
+[YT](https://youtu.be/J-GmnD0ntj4)
 
 ![Lemongrab + Doc FLippers + Neon Lies](../../posters/2024-06-18.jpg)
 

@@ -17,7 +17,7 @@ Fr 14. Feb @ [Hitness](https://t.me/Hitness) [Club](https://hitness.club/)
 **SPLITTERZELLE** (brln/portugal) 🚀☄️
 
 Sidney Jaffe (Arcane Allies, Burnpilot, Parse) on drums&synths + Pedro Pestana (10 000 Russos, Tren Go! Sound System) on guitar+pedals will take us on an intergalactic sonic journey
-[vid1](https://www.youtube.com/watch?v=lWbq13LNenQ) / [vid2](https://youtu.be/18uWMT_97tE?si=dtxIPQcKc_TvyTqq) / [LT](https://splitterzelle.lnk.to/STLP) / [IG](https://www.instagram.com/splitterzelle/)
+[vid1](https://www.youtube.com/watch?v=lWbq13LNenQ) / [vid2](https://youtu.be/18uWMT_97tE) / [LT](https://splitterzelle.lnk.to/STLP) / [IG](https://www.instagram.com/splitterzelle/)
 
 ---
 
