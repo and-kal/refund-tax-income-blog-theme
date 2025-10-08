@@ -35,7 +35,7 @@ Trance-Noise duo comprised of Munich's noise envoy Anton aka. Rumpeln and drumme
 
 [HK#2](https://hobbykeller.bandcamp.com/album/carnation-dingthang-hk-2) (2022 album)
 / [SHING DING](https://butzenrecords.bandcamp.com/album/bu008-carnation-dingthang-shing-ding) (2020 album on Butzen)
-/ [>Hanover >Köln](https://hcbrecords.bandcamp.com/album/hanover-k-ln) (2019 live album)
+/ [\>Hanover \>Köln](https://hcbrecords.bandcamp.com/album/hanover-k-ln) (2019 live album)
 / [Köşk Basement](https://hcbrecords.bandcamp.com/album/ko-s-k-basement) (2019 live album)
 / [CARNATION DINGTHANG](https://hcbrecords.bandcamp.com/album/carnation-dingthang) (2018 album)
 / [live](https://youtu.be/wrHuyU4wvhc) (2019 video)
