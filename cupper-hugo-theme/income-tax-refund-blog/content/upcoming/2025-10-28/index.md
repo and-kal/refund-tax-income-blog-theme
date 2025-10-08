@@ -26,7 +26,7 @@ Pour some cups of your preferred milk into a saucepan. Once the milk is warm, ad
 
 ---
 
-**Able Noise** [post-folk, NL]
+**Able Noise** [post-irishfolk, NL]
 
 And for some further freak folk and free sonic explorations stay tuned for some weird sounds, uncanny baritone guitar vibrations paired with pummeling drumming brought to you by George Knegtel, Alex Andropoulos and the physics of sound.
 
