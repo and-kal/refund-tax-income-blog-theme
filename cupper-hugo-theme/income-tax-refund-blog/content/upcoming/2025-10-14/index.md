@@ -30,8 +30,8 @@ A soulful odyssey in which an array of wild audio crystalizes into pop songs onl
 Trance-Noise duo comprised of Munich's noise envoy Anton aka. Rumpeln and drummer David Oppenheim generating almost danceable tunes from junk, voice & drums
 
 [bandcamp](https://carnationdingthang.bandcamp.com/)
-/ [David's website](https://www.day-dream.com)
-/ [Anton's website](https://www.rumpeln.de)
+/ [David\'s website](https://www.day-dream.com)
+/ [Anton\'s website](https://www.rumpeln.de)
 
 [HK#2](https://hobbykeller.bandcamp.com/album/carnation-dingthang-hk-2) (2022 album)
 / [SHING DING](https://butzenrecords.bandcamp.com/album/bu008-carnation-dingthang-shing-ding) (2020 album on Butzen)
