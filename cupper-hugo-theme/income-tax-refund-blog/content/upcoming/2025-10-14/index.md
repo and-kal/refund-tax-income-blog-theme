@@ -19,7 +19,7 @@ Start 19:30
 
 **Asaf & Miho** [wonk ~ Jerusalem/Berlin]
 
-A soulful odyssey in which an array of wild audio crystalizes into pop songs only to be broken down again into chaos. Sampling producer Asaf Eden aka. **Ryskinder** and multi-instrumentalist **Mi Ho** met for the first time in 2018 while sharing the stage at an infamous place called "Hühnermanhatta"”. They discovered a shared passion for trance based improvisation and unfiltered expression. And now here's their return to HAL.
+A soulful odyssey in which an array of wild audio crystalizes into pop songs only to be broken down again into chaos. Sampling producer Asaf Eden aka. **Ryskinder** and multi-instrumentalist **Mi Ho** met for the first time in 2018 while sharing the stage at an infamous place called "Hühnermanhattan". They discovered a shared passion for trance based improvisation and unfiltered expression. And now here's their return to HAL.
 
 [Live at Ms Stubnitz (Hamburg)](https://youtu.be/e2SNBSSeQXo) (video)
 \ [Live at Fusion Festival](https://www.youtube.com/watch?v=jvgFTlNWaTc) (video)
