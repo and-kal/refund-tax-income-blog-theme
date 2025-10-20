@@ -5,14 +5,14 @@ draft: false
 
 date_show: "2025|10|28"
 time_show: "20:00"
-venue_show: "Room 114"
+venue_show: "Room 116"
 ---
 
 Illubar & income tax refund present:
 
 Tue, 28th Oct 2025
 
-@ Raum 114
+@ HGB Raum 1.16
 
 ---
 
@@ -34,4 +34,4 @@ And for some further freak folk and free sonic explorations stay tuned for some 
 
 [instagram](https://www.instagram.com/ablenoise/)
 
-<!-- ![milkweed + Able Noise](../../posters/2025-10-28.jpg) -->
+![milkweed + Able Noise](../../posters/2025-10-28.jpg)
