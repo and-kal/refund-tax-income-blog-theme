@@ -5,14 +5,14 @@ draft: false
 
 date_show: "2025|10|28"
 time_show: "20:00"
-venue_show: "Room 116"
+venue_show: "Room 141"
 ---
 
 Illubar & income tax refund present:
 
 Tue, 28th Oct 2025
 
-@ HGB Raum 1.16
+@ HGB Raum 1.41 fka. 1.16
 
 ---
 
