@@ -16,9 +16,9 @@ Tue, 28th Oct 2025
 
 ---
 
-**milkweed** [freak folk, UK]
+**milkweed** [post-irishfolk, UK]
 
-Pour some cups of your preferred milk into a saucepan. Once the milk is warm, add your decarboxylated weed to... Oh, that was weedmilk. For milkweed, we'll need a banjo, a guitar, some warbling tapes and some old Irish folklore and blend it with some trippy beats into something really nice. If you don't have these ingredients at hand, just come to the show.
+Pour some cups of your preferred milk into a saucepan. Once the milk is warm, add your decarboxylated weed to... Oh, that was weedmilk. For milkweed, we'll need a banjo, a guitar, some warbling tapes and some old Irish folklore and blend it with some trippy beats into something nice and strange. If you don't have these ingredients at hand, just come to the show.
 
 [»Remscéla«](https://milkweedfolk.bandcamp.com/album/remsc-la-2) (2025 album)
 
@@ -26,9 +26,9 @@ Pour some cups of your preferred milk into a saucepan. Once the milk is warm, ad
 
 ---
 
-**Able Noise** [post-irishfolk, NL]
+**Able Noise** [weird folk, NL]
 
-And for some further freak folk and free sonic explorations stay tuned for some weird sounds, uncanny baritone guitar vibrations paired with pummeling drumming brought to you by George Knegtel, Alex Andropoulos and the physics of sound.
+And for some further freak folk and free sonic explorations stay tuned! There will be unfamiliar sounds, uncanny baritone guitar vibrations paired with pummeling drumming brought to you by George Knegtel, Alex Andropoulos and the physics of sound.
 
 [»High Tide«](https://ablenoise.bandcamp.com/album/high-tide) (2024 album)
 
