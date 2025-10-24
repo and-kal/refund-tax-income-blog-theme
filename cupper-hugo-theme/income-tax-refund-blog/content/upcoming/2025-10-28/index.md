@@ -14,7 +14,7 @@ Tue, 28th Oct 2025
 
 @ HGB Raum 1.41 fka. 1.16
 
----
+![milkweed + Able Noise](../../posters/2025-10-28_2.jpg)
 
 **milkweed** [post-irishfolk, UK]
 
