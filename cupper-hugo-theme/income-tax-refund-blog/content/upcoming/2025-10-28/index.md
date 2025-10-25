@@ -18,6 +18,8 @@ Tue, 28th Oct 2025
 
 _[gig poster by Konstantina Stefou]_
 
+---
+
 **milkweed** [post-irishfolk, UK]
 
 Pour some cups of your preferred milk into a saucepan. Once the milk is warm, add your decarboxylated weed to... Oh, that was weedmilk. For milkweed, we'll need a banjo, a guitar, some warbling tapes and some old Irish folklore and blend it with some trippy beats into something nice and strange. If you don't have these ingredients at hand, just come to the show.
