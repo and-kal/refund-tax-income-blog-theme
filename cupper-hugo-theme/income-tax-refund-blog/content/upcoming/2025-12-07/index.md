@@ -8,7 +8,7 @@ time_show: "19:30"
 venue_show: "CxHxHx"
 ---
 
-_possibly the last income tax refund show for this year_
+_possibly the last income tax refund show of this year_
 
 Sunday
 Dec 7, 2025
@@ -38,7 +38,6 @@ Phat beats, sometimes evocative and celestial, sometimes fierce synths sounds, a
 
 [live at Hitness Club](https://archive.hitness.club/w/ibiE62mkMi313266by4BbM) (2025)
 
-<!--
-![Handle + Esil](../../posters/2025-12-07.jpg)
-{some fine poster art by [@rriete](https://www.instagram.com/rriete/)}
--->
+![Handle + Esil](../../posters/2025-12-07.min.jpg)
+
+{this fine poster art was done by [rriete](https://www.instagram.com/rriete/)}
