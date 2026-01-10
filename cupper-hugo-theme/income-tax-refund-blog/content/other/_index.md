@@ -2,9 +2,10 @@
 title: "Other people's shows"
 ---
 
-Here's a bunch of other shows we recommend checking out:
+Here's a bunch of other shows coming up thaty we recommend checking out:
 
 - everything at Hitness Club: [click](https://hitness.club/events)
-- 24.10.25: Kumpela Soli-Event @ SPLNK
-- 25.10.25: Fatal Friture @ Temporarium
-- 07.11.25: L, Torte la bûche, Ria Von Da, Schnecken im Hochbeet & DJ HÖÄH @ SPLNK
+- 15.01.26: Kumpela Soli-Tresen @ conserve
+- 14.01.26: Vojdi + Gottesantöter*in @ CXNHXNHP
+- 16.01.26: Save Bucks + Mr. Strong @ NBL / Eckladen
+- 18.01.26: DBR + Mr. Strong @ CXNHXNHP
