@@ -1,14 +1,9 @@
 {{ define "main" }}
 <main id="main">
   <h1>{{ .Title }}</h1>
-  {{ if site.Params.search }}
-  <input
-    id="search"
-    type="text"
-    placeholder="{{ T "search_placeholder" }}"
-    aria-label="{{ T "search_aria_label" }}"
-  />
-  {{ end }}
+  {{ if site.Params.search }} <input id="search" type="text" placeholder="{{ T
+  "search_placeholder" }}" aria-label="{{ T "search_aria_label" }}" /> {{ end }}
+  {{ if .Pages }}
   <ul class="patterns-list" id="list">
     {{ range .Pages.ByParam "date_show" }}
     <li>
@@ -29,5 +24,10 @@
     </li>
     {{ end }}
   </ul>
+  {{ else }}
+  <div>
+    No upcoming shows right now. But stay tuned! We'll be back soon.
+  </div>
+  {{ end }}
 </main>
 {{ end }}
