@@ -42,5 +42,6 @@ startttt 20h00
 
 [Inner Light](https://enmossed.bandcamp.com/album/inner-light) (2024 album on *enmossed*)
 
-<!-- ![sygh + Mark Templeton](../../posters/2026-03-28.jpg) -->
+![sygh + Mark Templeton](../../posters/2026-03-28.jpg)
 
+doodles by [Ch. Ruppert](https://charlotteruppert.com)
