@@ -20,27 +20,29 @@ startttt 20h00
 
 ---
 
-**sygh** (aka. *syw*) is the solo project of media artist Stephanie Gudra playing the electric guitar in unpredictable ways. Sometimes sweet , sometimes harsh, but it's all noise.
+**sygh** (aka. _syw_) is the solo project of media artist Stephanie Gudra, playing the electric guitar in unpredictable and extended ways. Sometimes sweet, sometimes harsh, and it's all noise.
 
 [website](http://stephaniegudra.de/)
 
-[bandcamp ](https://syghh.bandcamp.com/)
+[live @ Hitness Club](https://archive.hitness.club/w/7GWb3C5jhnPiu51BjcGLGg)
+
+[live @ Jazz Habitat](https://www.youtube.com/watch?v=i6mOPbX6AwQ)
+
+[bandcamp](https://syghh.bandcamp.com/)
 
 [soundcloud](https://soundcloud.com/user-505248306)
 
-[live video](https://www.youtube.com/watch?v=i6mOPbX6AwQ)
-
 ---
 
-**Mark Templeton** is a Canadian sound and media artist working with found media and archival materials creating hypnagogic states and realms of analog media nostalgia filtered through digital conduits. On this tour, Mark will bring some reel-to-reel equipment and create a magnetic tape tripwire situation at Aquarium accompanied by vaporwavey visuals. If you dig The Caretaker, Jan Jelinek and the likes, this show might be for you.
+**Mark Templeton** is a Canadian sound and media artist working with found media and archival materials, creating hypnagogic states and realms of analog media nostalgia filtered through digital conduits. On this tour, Mark will bring some reel-to-reel equipment and create a magnetic tape tripwire situation at Aquarium accompanied by vaporwave-y visuals. If you dig The Caretaker, Jan Jelinek and the likes, this one's your jam.
 
 [website](https://www.fieldsawake.com/)
 
 [tour trailer](https://www.youtube.com/watch?v=yNyFtrUdEL4)
 
-[Two Verses](https://marktempleton.bandcamp.com/album/two-verses/) (2024 album on *Faitiche*)
+[Two Verses](https://marktempleton.bandcamp.com/album/two-verses/) (2024 album on _Faitiche_)
 
-[Inner Light](https://enmossed.bandcamp.com/album/inner-light) (2024 album on *enmossed*)
+[Inner Light](https://enmossed.bandcamp.com/album/inner-light) (2024 album on _enmossed_)
 
 ![sygh + Mark Templeton](../../posters/2026-03-28.jpg)
 
