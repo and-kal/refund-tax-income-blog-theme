@@ -8,6 +8,8 @@ time_show: "20:00"
 venue_show: "Aquarium"
 ---
 
+![sygh + Mark Templeton](../../posters/2026-03-28.gif)
+
 ITR presents:
 
 28 March, 2026
