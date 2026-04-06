@@ -1,5 +1,5 @@
 ---
-title: "tsev x Strzał W Kolano + Doskocz + Janssen"
+title: "tsev x Strzał W Kolano + Doskocz x Janssen"
 date: 2026-02-29T11:12:35+01:00
 draft: false
 
