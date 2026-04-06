@@ -1,5 +1,5 @@
 ---
-title: "tsev + Strzał W Kolano"
+title: "tsev x Strzał W Kolano + Doskocz + Janssen"
 date: 2026-02-29T11:12:35+01:00
 draft: false
 
@@ -28,10 +28,26 @@ startttt 19h00
 
 [band](https://tsev.bandcamp.com/album/kosmikos-ektipotis) [camp](https://pointless-geometry.bandcamp.com/album/strza-w-kolano-s-t)
 
-[tubmlr](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano)
+[tumblr](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano)
 
 [Live in Plex, Athens, Greece, 2024](https://youtu.be/NQg6de9QX58) (video)
 
 [Live in Cooperativa Mula, Barreiro, Portugal, 2025](https://youtu.be/uDT5eWT8N6M) (video)
+
+**Doskocz // Janssen**
+
+> Paweł Doskocz is a guitarist specializing in prepared techniques that explore new sonic possibilities of the instrument. His work focuses on improvised music informed by a wide range of influences. Co-founder of the projects Bachorze, Strętwa, and Sumpf, Doskocz has performed with numerous musicians from Poland and internationally.
+> His festival appearances include Ad Libitum, Nowy Wiek Awangardy Festival, Art of Improvisation Creative Festival, Jazz Ring, Musica Privata, Katowice JazzArt Festival, FRIV Festival, Avant Art Festival, and the Spontaneous Music Festival. He has collaborated with artists including Marta Warelis, Alan Wilkinson, Emilio Gordoa, Matthias Müller, Jasper Stadhouders, Paweł Szpura, Hubert Zemler, Wojtek Kurek, Vasco Trilla, Yedo Gibson, Onno Govaert, Seppe Gebruers, Andrew Lisle, Vasco Furtado, Colin Webster, Dirk Serries, Benedict Taylor, Diego Caicedo, and El Pricto.
+> Doskocz is also co-organizer of the Spontaneous Music Festival in Poznań.
+
+> Sebastiaan Janssen is a self-taught drummer based in Wrocław whose approach combines compact structures with raw improvisation. Drawing from krautrock, Yugoslav and German post-punk, techno, and EBM, his playing moves freely across genres.
+> Between 2019 and 2025, Janssen was one half of the improvisational punk duo Zdrój alongside guitarist Jakub Zasada. The duo released two albums and did multiple European tours. Over two decades, Janssen has performed at venues including OCCII, Worm, Paradiso, and Punctum, and appeared at festivals such as Incubate, Murf/Murw, Spontaneous Music Festival, and Avant Art Festival. Between 2011 and 2017, he collaborated extensively with Damo Suzuki, legendary vocalist of Can.
+> At the end of 2023, he took part in an artistic residency in Wrocław with Hubert Kostkiewicz, Marta Warelis, and Ken Vandermark, which resulted in the album Koniec. In 2024, he began collaborating with saxophonist Mateusz Rybicki, and in spring 2025 he debuted a new band, Rykoszét, co-founded with Hubert Kostkiewicz and Jakub Majchrzak (both formerly of Kurws).
+
+[video 1](https://youtu.be/3zsjoe_i11s) // [video 2](https://youtube.com/shorts/7Be_9Jy0qGs)
+
+[paweldoskocz.bandcamp.com](https://paweldoskocz.bandcamp.com/)
+
+[zdroj.bandcamp.com](https://zdroj.bandcamp.com/)
 
 <!-- ![tsev + Strzał W Kolano ](../../posters/2026-05-14.jpg) -->
