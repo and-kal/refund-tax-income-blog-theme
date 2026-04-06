@@ -34,6 +34,8 @@ startttt 19h00
 
 [Live in Cooperativa Mula, Barreiro, Portugal, 2025](https://youtu.be/uDT5eWT8N6M) (video)
 
+---
+
 **Doskocz // Janssen**
 
 > Paweł Doskocz is a guitarist specializing in prepared techniques that explore new sonic possibilities of the instrument. His work focuses on improvised music informed by a wide range of influences. Co-founder of the projects Bachorze, Strętwa, and Sumpf, Doskocz has performed with numerous musicians from Poland and internationally.
