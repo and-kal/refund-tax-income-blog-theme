@@ -12,7 +12,7 @@ ITR presents:
 
 14 May, 2026
 
-@ Aquarium
+@ Schtreik
 
 doors 18h00
 
@@ -20,7 +20,7 @@ startttt 19h00
 
 ---
 
-**tsev + Strzał W Kolano**
+**tsev // Strzał W Kolano**
 
 > They talk differently, they tune differently, what they share is what is unpresent in their music. They both explore the vast space in between the equal temperament tuning system. Strzał w Kolano within the quarter-tones of prepared classical guitar while Tsev switches between own microtonal systems on his minilogue xd synthesizer. A shared deviation from the rigour is rather unsolid bond but it came out to be distinctive while arming their common musical methodology. The two met in October 2024 to compose, perform and record what will come out in 2025 as their debut album.
 > Strzał w Kolano (translated as Shot in the Knee) is a solo project of polish musician Jakub Majchrzak, a former member of bands Kurws, Przepych, Pustostany and Norymberga. Given 500 shows around the world and having 8 studio albums released he decided to try his hand as a solo artist. Although the prenatal stage of Strzał w Kolano marks the debut show in 2017, it woke up from coma after years to play some shows and release the debut cassette via Pointless Geometry in the end of 2024.  
