@@ -1,5 +1,5 @@
 ---
-title: "tsev x Strzał W Kolano + Doskocz x Janssen"
+title: "tsev x Strzał W Kolano + Doskocz x Janssen + T.u.B."
 date: 2026-02-29T11:12:35+01:00
 draft: false
 
@@ -51,5 +51,12 @@ startttt 19h00
 [paweldoskocz.bandcamp.com](https://paweldoskocz.bandcamp.com/)
 
 [zdroj.bandcamp.com](https://zdroj.bandcamp.com/)
+
+---
+
+**T.u.B.**
+
+"Traum und Bedeutung"? "Turnen und Bewegungsspiel"? "Tanz und Bildung"? No idea... But you're in for some meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com/album/yor-the-future)'s members.
+Come on, sit down tailor-fashion and get floored!
 
 <!-- ![tsev + Strzał W Kolano ](../../posters/2026-05-14.jpg) -->
