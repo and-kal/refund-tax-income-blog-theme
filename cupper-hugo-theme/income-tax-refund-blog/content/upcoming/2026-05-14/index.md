@@ -59,4 +59,6 @@ startttt 19h00
 "Traum und Bedeutung"? "Turnen und Bewegungsspiel"? "Tanz und Bildung"? No idea... But you're in for some meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com/album/yor-the-future)'s members.
 Come on, sit down tailor-fashion and get floored!
 
-<!-- ![tsev + Strzał W Kolano ](../../posters/2026-05-14.jpg) -->
+![tsev x Strzał W Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.jpg)
+
+posteretto by [Malwine](https://www.instagram.com/malwinestauss/)
