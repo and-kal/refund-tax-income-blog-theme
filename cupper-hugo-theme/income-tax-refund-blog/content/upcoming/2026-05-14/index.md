@@ -8,7 +8,7 @@ time_show: "19:00"
 venue_show: "Schtreik"
 ---
 
-ITR presents:
+[Claws of Saurtopia](https://clawsofsaurtopia.neocities.org/) & ITR present:
 
 14 May, 2026
 
