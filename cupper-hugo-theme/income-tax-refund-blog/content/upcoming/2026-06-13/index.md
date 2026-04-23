@@ -8,7 +8,7 @@ time_show: "19:00"
 venue_show: "Smartphonebar"
 ---
 
-ITR presents:
+ITR & [Tremmo](https://sphere-radio.net/sendungen/tremmo-fm-2/) present:
 
 13 June 2026
 
