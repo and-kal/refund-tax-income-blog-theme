@@ -1,18 +1,18 @@
 ---
-title: "tsev x Strzał W Kolano + Doskocz x Janssen + T.u.B."
+title: "tsev x Strzał w Kolano + Doskocz x Janssen + T.u.B."
 date: 2026-02-29T11:12:35+01:00
 draft: false
 
 date_show: "2026|05|14"
 time_show: "19:00"
-venue_show: "Schtreik"
+venue_show: "Schtreak"
 ---
 
 [Claws of Saurtopia](https://clawsofsaurtopia.neocities.org/) & ITR present:
 
 14 May, 2026
 
-@ Schtreik
+@ Schtreak
 
 doors 18h00
 
@@ -20,10 +20,12 @@ startttt 19h00
 
 ---
 
-**tsev // Strzał W Kolano**
+**tsev // Strzał w Kolano**
+
+an improvised symposium of ancient music held in an electronic agora brought to you by: **Strzał w Kolano** (of Kurws, Przepych, Pustostany and Norymberga) on detuned guitar and **tsev** on microtuned synthesizer
 
 > They talk differently, they tune differently, what they share is what is unpresent in their music. They both explore the vast space in between the equal temperament tuning system. Strzał w Kolano within the quarter-tones of prepared classical guitar while Tsev switches between own microtonal systems on his minilogue xd synthesizer. A shared deviation from the rigour is rather unsolid bond but it came out to be distinctive while arming their common musical methodology. The two met in October 2024 to compose, perform and record what will come out in 2025 as their debut album.
-> Strzał w Kolano (translated as Shot in the Knee) is a solo project of polish musician Jakub Majchrzak, a former member of bands Kurws, Przepych, Pustostany and Norymberga. Given 500 shows around the world and having 8 studio albums released he decided to try his hand as a solo artist. Although the prenatal stage of Strzał w Kolano marks the debut show in 2017, it woke up from coma after years to play some shows and release the debut cassette via Pointless Geometry in the end of 2024.  
+> Strzał w Kolano (translated as Shot in the Knee) is a solo project of polish musician Jakub Majchrzak. Given 500 shows around the world and having 8 studio albums released he decided to try his hand as a solo artist. Although the prenatal stage of Strzał w Kolano marks the debut show in 2017, it woke up from coma after years to play some shows and release the debut cassette via Pointless Geometry in the end of 2024.  
 > Tsev, on the other side, is a composer/multi-instrumentalist involved in various musical acts of the Athenian DIY scene, as well as releasing and performing music on his own. Since 2019 a conscious listener, researcher and performer of La Monte Young’s piece The Well-Tuned Piano (the piece “Tone Cloud” published as part of the dutch pandemic era project “No View, The Radio” run by West Den Haag was in fact dedicated to him).
 
 [band](https://tsev.bandcamp.com/album/kosmikos-ektipotis) [camp](https://pointless-geometry.bandcamp.com/album/strza-w-kolano-s-t)
@@ -37,6 +39,8 @@ startttt 19h00
 ---
 
 **Doskocz // Janssen**
+
+_some more guitaristic shenanigans as conjured by **Paweł Doskocz**, however this time dequantized by Zdrój's **Sebastiaan Janssen**'s drummeling_
 
 > Paweł Doskocz is a guitarist specializing in prepared techniques that explore new sonic possibilities of the instrument. His work focuses on improvised music informed by a wide range of influences. Co-founder of the projects Bachorze, Strętwa, and Sumpf, Doskocz has performed with numerous musicians from Poland and internationally.
 > His festival appearances include Ad Libitum, Nowy Wiek Awangardy Festival, Art of Improvisation Creative Festival, Jazz Ring, Musica Privata, Katowice JazzArt Festival, FRIV Festival, Avant Art Festival, and the Spontaneous Music Festival. He has collaborated with artists including Marta Warelis, Alan Wilkinson, Emilio Gordoa, Matthias Müller, Jasper Stadhouders, Paweł Szpura, Hubert Zemler, Wojtek Kurek, Vasco Trilla, Yedo Gibson, Onno Govaert, Seppe Gebruers, Andrew Lisle, Vasco Furtado, Colin Webster, Dirk Serries, Benedict Taylor, Diego Caicedo, and El Pricto.
@@ -56,9 +60,10 @@ startttt 19h00
 
 **T.u.B.**
 
-"Traum und Bedeutung"? "Turnen und Bewegungsspiel"? "Tanz und Bildung"? No idea... But you're in for some meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com/album/yor-the-future)'s members.
-Come on, sit down tailor-fashion and get floored!
+_meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com/album/yor-the-future)'s members, expanding the designated usages of stringstruments, watering cans and various devices_
 
-![tsev x Strzał W Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.jpg)
+[That's The Law In This Land After All](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) w/ Adriel David (KRUT, 2020)
+
+![tsev x Strzał w Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.jpg)
 
 posteretto by [Malwine](https://www.instagram.com/malwinestauss/)
