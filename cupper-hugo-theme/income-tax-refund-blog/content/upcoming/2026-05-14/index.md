@@ -62,7 +62,7 @@ _some more guitaristic shenanigans as conjured by **Paweł Doskocz**, however th
 
 _meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com/album/yor-the-future)'s members, expanding the designated usages of stringstruments, watering cans and various devices_
 
-[That's The Law In This Land After All](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) w/ Adriel David (KRUT, 2020)
+[That\'s The Law In This Land After All](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) w/ Adriel David (KRUT, 2020)
 
 ![tsev x Strzał w Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.jpg)
 
