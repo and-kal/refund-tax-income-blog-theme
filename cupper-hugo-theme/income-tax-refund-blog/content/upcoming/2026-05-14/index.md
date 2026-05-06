@@ -5,14 +5,14 @@ draft: false
 
 date_show: "2026|05|14"
 time_show: "19:00"
-venue_show: "Schtreak"
+venue_show: "Scxxxxik"
 ---
 
 [Claws of Saurtopia](https://clawsofsaurtopia.neocities.org/) & ITR present:
 
 14 May, 2026
 
-@ Schtreak
+@ Scxxxxik
 
 doors 18h00
 
