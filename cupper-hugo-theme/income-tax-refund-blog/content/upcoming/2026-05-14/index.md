@@ -64,6 +64,6 @@ _meditative noise weirdness as emitted by one of [YOR](https://ubac.bandcamp.com
 
 [That\'s The Law In This Land After All](https://krutrecords.bandcamp.com/album/thats-the-law-in-this-land-after-all) w/ Adriel David (KRUT, 2020)
 
-![tsev x Strzał w Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.jpg)
+![tsev x Strzał w Kolano + Doskocz x Janssen + T.u.B.](../../posters/2026-05-14.redacted.jpg)
 
 posteretto by [Malwine](https://www.instagram.com/malwinestauss/)
