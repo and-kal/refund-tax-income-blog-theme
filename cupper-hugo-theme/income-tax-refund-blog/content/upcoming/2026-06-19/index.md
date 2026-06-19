@@ -22,7 +22,7 @@ _@ Schiiiik_
 
 Renowned for his evocative musical explorations, Baptiste Martin, the French ambient artist behind Les Halles, has been weaving delicate tapestries of sound since 2012. Infusing (pan) flute melodies, ethereal field recordings, and celestial keys, Les Halles’ compositions transport listeners into a realm of contemplation and nostalgia - through hazed matrixes of fog, dust, and echo, scented with nameless dreams and past-life memories.
 
-[@les_halles\_](https://www.instagram.com/omshakali)
+[@les_halles\_](https://www.instagram.com/les_halles_)
 
 Shakali is a solo project of the Finnish musician Simo Hakalisto. Shakali works on the borderline of human expression and machine unpredictability, combining elements of fractal nature-inspired minimalism and playfully experimental ambient. He has been releasing albums on Good Morning Tapes, Not Not Fun, LOM and Ikuisuus, creating mosaic music of strings, bowls, reeds, wind, water and obscure electronics.
 
