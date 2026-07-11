@@ -12,7 +12,7 @@ venue_show: "TV Studio Ost"
 
 _@ Hitness Club_
 
-==Income u-Bac Refund presents==
+==Income U-Bac Refund presents==
 
 **KOTEKASK** (_upcycled gamelan-core_ / Strasbourg)
 
