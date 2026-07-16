@@ -29,3 +29,5 @@ out on [U-Bac](https://u-bac.net)
 more info soon
 
 ![Kotekask Tape-Release-Show](../../posters/2026-07-30.jpg)
+
+posturr by [Janne Savanne](https://www.instagram.com/janne.savanne/)
