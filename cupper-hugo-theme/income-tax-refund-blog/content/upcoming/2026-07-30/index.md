@@ -1,5 +1,5 @@
 ---
-title: "Kotekask Tape-Release-Show"
+title: "Kotekask (Tape-Release-Show) + Phoebe Apfel"
 date: 2026-03-25T10:12:35+01:00
 draft: false
 
@@ -20,6 +20,12 @@ celebrating the release of their first tape
 
 out on [U-Bac](https://u-bac.net)
 
+---
+
+**Phoebe Apfel** (_miku pop_ / London)
+
+[interview](https://prxludes.net/2024/02/19/misty-moscow/)
+
 more info soon
 
-<!-- ![Kotekask Tape-Release-Show](../../posters/2026-07-30.jpg) -->
+![Kotekask Tape-Release-Show](../../posters/2026-07-30.jpg)

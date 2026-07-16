@@ -21,5 +21,3 @@ _@ SPLØNK_
 [lt](https://linktr.ee/huge_luge)
 
 more info soon
-
-<!-- ![Kotekask Tape-Release-Show](../../posters/2026-07-30.jpg) -->
