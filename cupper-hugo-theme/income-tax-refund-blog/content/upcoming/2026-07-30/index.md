@@ -12,21 +12,25 @@ venue_show: "TV Studio Ost"
 
 _@ Hitness Club_
 
+Doors 19h00
+
+Start 20h00
+
 ==Income U-Bac Refund presents==
 
 **KOTEKASK** (_upcycled gamelan-core_ / Strasbourg)
 
-celebrating the release of their first tape
+celebrating the release of their first release out on [U-Bac](https://u-bac.net) on upcycled cassettes. Feat. Flo of PartoutPartout et Louise.
 
-out on [U-Bac](https://u-bac.net)
+[YT](https://www.youtube.com/watch?v=yRPYc6WcdR8) | [IG](https://www.instagram.com/kotekask/)
 
 ---
 
 **Phoebe Apfel** (_miku pop_ / London)
 
-[interview](https://prxludes.net/2024/02/19/misty-moscow/)
+Phoebe Apfel is a London-based composer, songwriter and performance artist. Across genres and mediums, their work typically contains gothic and eccentric themes, and explores their own life experiences and dark “taboo” subjects such as mental health, with references to pop culture scattered throughout. Phoebe will be accompanied by Janne TTTurbo on stage this time!
 
-more info soon
+[interview](https://prxludes.net/2024/02/19/misty-moscow/) | [YT](https://www.youtube.com/@mistykrakow/videos) | [BC](https://phoebeapfel.bandcamp.com/)
 
 ![Kotekask Tape-Release-Show](../../posters/2026-07-30.jpg)
 
