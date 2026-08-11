@@ -22,4 +22,8 @@ For France:
 
 - check [Concert ou Pizza](https://concertoupizza.blogspot.com/) (also the _Les bro' d'ailleurs_ section for other regions)
 
+For Te Whanganui-a-Tara, NZ:
+
+- [theimage](https://theimage04.com/)
+
 Keep old-school information channels alive!
