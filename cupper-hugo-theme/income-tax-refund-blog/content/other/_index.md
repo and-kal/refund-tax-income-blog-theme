@@ -13,14 +13,27 @@ For Berlin:
 
 - [🄵🄻🄴🄽🄽🄴🄽 ℐ𝓃𝒻ℴ𝓈](https://t.me/flennen)
 - [OGH news](https://t.me/musikstattautobahn)
+- [echtzeitmusik](https://www.echtzeitmusik.de/)
 
-For Belgium:
+For Belgium (mostly Bxl):
 
-- [https://feu.ultravnr.be/](feu.ultravnr.be)
+- [BRUXELLES BRÛLE T-IL?](https://feu.ultravnr.be/)
 
 For France:
 
 - check [Concert ou Pizza](https://concertoupizza.blogspot.com/) (also the _Les bro' d'ailleurs_ section for other regions)
+
+For NY(C):
+
+- [nyc-noise.com](https://nyc-noise.com/)
+
+For San Fran:
+
+- [The List](https://jon.luini.com/thelist/date.html)
+
+For Tokyo:
+
+- [Tokyo Gig Guide](https://www.tokyogigguide.com)
 
 For Te Whanganui-a-Tara, NZ:
 
