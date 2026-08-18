@@ -1,5 +1,5 @@
 ---
-title: "Luge"
+title: "Luge + Iz Kasper"
 date: 2026-06-25T10:12:35+01:00
 draft: false
 
@@ -19,5 +19,9 @@ _@ SPLØNK_
 [bc](https://hugeluge.bandcamp.com)
 
 [lt](https://linktr.ee/huge_luge)
+
+---
+
+**Iz Kasper** (_triphop_ / Lpz)
 
 more info soon
