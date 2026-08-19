@@ -25,3 +25,7 @@ _@ SPLØNK_
 **Iz Kasper** (_triphop_ / Lpz)
 
 more info soon
+
+![Luge + Iz Kasper](../../posters/2026-08-27.jpg)
+
+/thankzzz to Nagy di mezzo for the posterrr\
