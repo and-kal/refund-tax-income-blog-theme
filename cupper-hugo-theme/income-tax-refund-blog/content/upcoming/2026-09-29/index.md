@@ -1,16 +1,16 @@
 ---
 title: "GGHED + Horacio Pollard"
 date: 2026-08-25T10:12:35+01:00
-draft: true
+draft: false
 
 date_show: "2026|09|29"
 time_show: "20:00"
-venue_show: "???"
+venue_show: "Smartphonebar"
 ---
 
 **29 Sept 2026**
 
-_@ ???_
+_@ Smartphonebar_
 
 ==Income Tax Refund presents==
 
