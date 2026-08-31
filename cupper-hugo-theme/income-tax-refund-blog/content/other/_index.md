@@ -19,6 +19,10 @@ For Belgium (mostly Bxl):
 
 - [BRUXELLES BRÛLE T-IL?](https://feu.ultravnr.be/)
 
+For Praha [CZ]:
+
+- [Aww Man](https://awwman.net/)
+
 For France:
 
 - check [Concert ou Pizza](https://concertoupizza.blogspot.com/) (also the _Les bro' d'ailleurs_ section for other regions)
