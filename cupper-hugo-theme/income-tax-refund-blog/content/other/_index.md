@@ -19,9 +19,10 @@ For Belgium (mostly Bxl):
 
 - [BRUXELLES BRÛLE T-IL?](https://feu.ultravnr.be/)
 
-For Praha [CZ]:
+For CZ:
 
-- [Aww Man](https://awwman.net/)
+- [Silver Rocket](https://www.silver-rocket.org/koncerty)
+- [Aww Man](https://awwman.net/) (Praha)
 
 For France:
 
