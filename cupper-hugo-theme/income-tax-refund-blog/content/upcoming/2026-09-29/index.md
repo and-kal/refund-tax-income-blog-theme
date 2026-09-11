@@ -14,7 +14,9 @@ _@ Smartphonebar_
 
 ==Income Tax Refund presents==
 
-**GGHED (Gaute Granli & Gabriela Gonzalez)**
+**GGHED** (_AV dub flutters_ / Nashazphone||KRAAK)
+
+[Gaute Granli & Gabriela González]
 
 > Over the past four years, Gaute and Gabriela have worked on merging their respective artistic realms into a singular psychedelic audio-visual performance. Using an improvisational approach to live music and video, they strive to create an experience that eludes the senses, where image and sound coalesce, reacting to each other in an attempt to merge the two into a single multisensory output. Gaute's swerving, unpredictable use of guitar, electronics and vocals are visually transliterated by Gabriela's real-time video compositions, the one influencing the other in subtle, disquieting and ultimately inextricable ways.
 
@@ -24,9 +26,11 @@ _@ Smartphonebar_
 
 ---
 
-**HORACIO POLLARD**
+**HORACIO POLLARD** (_decaying electronic warps_ / KRAAK)
 
 > Berlin based "Half English, half Argentine "noise-eccentric" Leon "HORACIO POLLARD" Barnett, has been active in the field of experimental music since 2002 and has released a bunch of vinyl, tapes and cd's on various labels. Armed with a Korg DDD1 sampler / drum machine, he delivers an exhilarating avalanche of distorted jams filled with heavy analogue riffs, hypnotic jazzy grooves and fierce noise-drenched rhymes. DISSECTING TABLE meets THE RESIDENTS meets GODFLESH or tribal industrial funk at its most devastating.
+
+[blog](https://neighpercent.blogspot.com/)
 
 [bc](https://horaciopollard.bandcamp.com/)
 
