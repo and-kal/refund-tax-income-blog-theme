@@ -8,7 +8,7 @@ time_show: "20:00"
 venue_show: "Ha&Mo"
 ---
 
-**3 October 2026** 🚩
+**Sat, 3 October 2026** 🚩
 
 _@ HaMo_
 
@@ -24,4 +24,12 @@ members: Jakub Majchrzak ([Kurws](https://www.kurws.org/), [Przepych](https://pr
 
 support: **Pacific Interest** (_bubblebient_ / Essen)
 
-more info soon
+---
+
+the event is part of an exhibition that's part of [Lindenow](https://www.lindenow.org/) (Oct 2 - 4, 2026)!
+
+**Im Auftrag der Zukunft II**
+
+_Wie wurden Stoffe vor der Erfindung synthetischer Farben gefärbt? Eine künstlerische Intervention von Daniela Junghans über vergessenes Wissen und traditionelles Handwerk._
+
+ÖZ: Fr 17-22h / Sa 15-22h / So 15-20h
