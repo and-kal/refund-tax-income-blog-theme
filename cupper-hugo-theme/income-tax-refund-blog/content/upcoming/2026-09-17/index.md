@@ -34,4 +34,4 @@ Be there early! We need to start and finish on time.
 
 ![Geo + GRUMPER](../../posters/2026-09-17.jpg)
 
-Artwork by @coryrotter (https://www.instagram.com/coryrotter?stkn=ZmlqaTlwbWx4dWh4)
+Artwork by [coryrotter](https://www.instagram.com/coryrotter)
