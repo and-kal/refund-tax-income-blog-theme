@@ -1,5 +1,5 @@
 ---
-t7itle: "Geo + GRUMPER"
+title: "Geo + GRUMPER"
 date: 2026-08-25T10:12:35+01:00
 draft: false
 

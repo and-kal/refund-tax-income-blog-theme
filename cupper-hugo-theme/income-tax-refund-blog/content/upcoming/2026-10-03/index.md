@@ -14,6 +14,10 @@ _@ HaMo_
 
 ==Income U-Bac Refund presents==
 
+![Kaskader + Pacific Interest](../../posters/2026-10-03.jpg)
+
+_P-p-poster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instagram.com/aranzazumoena)_
+
 **Kaskader** (_jagpunk_, FR/GR/PL)
 
 ... was hired by an international association to test the resistance of rock in opposition and post punk structures to compositional mania.
