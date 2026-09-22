@@ -42,4 +42,6 @@ _@ Smartphonebar_
 
 [livevid](https://www.youtube.com/watch?v=YeiviHLCEXA)
 
-<!-- ![GGHED + Horacio Pollard](../../posters/2026-09-29.jpg) -->
+![GGHED + Horacio Pollard](../../posters/2026-09-29.jpg)
+
+posterized incantation by [G. 30acker](https://www.instagram.com/giordi_30/)

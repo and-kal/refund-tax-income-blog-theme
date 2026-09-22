@@ -15,6 +15,10 @@ For Berlin:
 - [OGH news](https://t.me/musikstattautobahn)
 - [echtzeitmusik](https://www.echtzeitmusik.de/)
 
+For Hannover:
+
+- [rAuszeit](https://rauszeit-termine.org)
+
 For Belgium (mostly Bxl):
 
 - [BRUXELLES BRÛLE T-IL?](https://feu.ultravnr.be/)
