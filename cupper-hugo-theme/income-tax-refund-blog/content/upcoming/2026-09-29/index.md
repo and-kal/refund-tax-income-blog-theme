@@ -44,4 +44,4 @@ _@ Smartphonebar_
 
 ![GGHED + Horacio Pollard](../../posters/2026-09-29.jpg)
 
-posterized incantation by [G. 30acker](https://www.instagram.com/giordi_30/)
+posterized incantation by [Giordano Dreißigacker](https://www.instagram.com/giordi_30/)
