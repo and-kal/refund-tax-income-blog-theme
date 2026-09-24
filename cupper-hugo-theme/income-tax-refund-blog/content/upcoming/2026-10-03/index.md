@@ -20,15 +20,15 @@ _P-p-poster by [Aranzazu](https://aranzazumoena.com/) [Moena](https://www.instag
 
 ---
 
-**Kaskader** (_jagpunk_, FR/GR/PL)
+**Kaskader** (_jagged punk_, FR/GR/PL)
 
 ... was hired by an international association to test the resistance of rock in opposition and post punk structures to compositional mania.
 
 members: Jakub Majchrzak ([Kurws](https://www.kurws.org/), [Przepych](https://przepych.jimdofree.com/), [Strzał w Kolano](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano)) + [Sheik Anorak](https://sheikanorak.bandcamp.com/) ([Håla Duett](https://gafferrecords.bandcamp.com/album/rana-ep), [Neige Morte](https://neigemorte.bandcamp.com/)) + the Fish ([Bamya](https://glarc.bandcamp.com/album/jolly-little-rococo-death-march), [The Fish Vs. Plastic Cowboy Builder](https://paragka.bandcamp.com/album/brains-guy), Το Τέρας) + [Tsev](https://tsev.bandcamp.com/) (Το Τέρας)
 
-[vid](https://www.youtube.com/watch?v=-X0vx59-RUM)
+⸚ [live snippet vid](https://www.youtube.com/watch?v=-X0vx59-RUM) ⸚
 
-support: **Pacific Interest** (_bubblebient_ / Essen)
+support: **Pacific Interest** (_bubble ambient_ / Essen)
 
 ---
 
