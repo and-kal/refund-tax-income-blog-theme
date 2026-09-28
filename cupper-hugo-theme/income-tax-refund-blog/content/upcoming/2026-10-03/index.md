@@ -44,7 +44,7 @@ _members_
 
 ...is the new solo project of Janik from Portugal's chillpsychslackers [Just Fish](https://justfish.bandcamp.com/) by means of which he will draw the listeners into some eerie aquatic sound scenarios and make one move like seaweeds or plankton.
 
-BREAKING NEWZ! The album just dropped on Nonlocal Reseach:
+BREAKING NEWZ! The album just dropped on Nonlocal Research:
 [click](https://nonlocalresearch.bandcamp.com/album/rasch-rasch)
 
 ---
