@@ -28,10 +28,10 @@ Following the marvelous microtonal jams of Strzał w Kolano and Tsev on their [t
 
 _members_
 
-- Jakub Majchrzak ([Kurws](https://www.kurws.org/), [Przepych](https://przepych.jimdofree.com/), [Strzał w Kolano](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano))
-- [Sheik Anorak](https://sheikanorak.bandcamp.com/) ([Håla Duett](https://gafferrecords.bandcamp.com/album/rana-ep), [Neige Morte](https://neigemorte.bandcamp.com/))
-- the Fish ([Bamya](https://glarc.bandcamp.com/album/jolly-little-rococo-death-march), [The Fish Vs. Plastic Cowboy Builder](https://paragka.bandcamp.com/album/brains-guy), Το Τέρας)
-- [Tsev](https://tsev.bandcamp.com/) (Το Τέρας)
+⁙ Jakub Majchrzak ([Kurws](https://www.kurws.org/), [Przepych](https://przepych.jimdofree.com/), [Strzał w Kolano](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano))
+⁙ [Sheik Anorak](https://sheikanorak.bandcamp.com/) ([Håla Duett](https://gafferrecords.bandcamp.com/album/rana-ep), [Neige Morte](https://neigemorte.bandcamp.com/))
+⁙ the Fish ([Bamya](https://glarc.bandcamp.com/album/jolly-little-rococo-death-march), [The Fish Vs. Plastic Cowboy Builder](https://paragka.bandcamp.com/album/brains-guy), Το Τέρας)
+⁙ [Tsev](https://tsev.bandcamp.com/) (Το Τέρας)
 
 ⸚ [live snippet vid](https://www.youtube.com/watch?v=-X0vx59-RUM) ⸚
 
@@ -50,6 +50,6 @@ This event is part of an exhibition that's part of [Lindenow](https://www.linden
 
 **Im Auftrag der Zukunft II**
 
-_Wie wurden Stoffe vor der Erfindung synthetischer Farben gefärbt? Eine künstlerische Intervention von Daniela Junghans über vergessenes Wissen und traditionelles Handwerk._
+> Wie wurden Stoffe vor der Erfindung synthetischer Farben gefärbt? Eine künstlerische Intervention von Daniela Junghans über vergessenes Wissen und traditionelles Handwerk.
 
 _Opening hours_: Fri 17-22h / Sat 15-22h / Sun 15-20h
