@@ -29,8 +29,11 @@ Following the marvelous microtonal jams of Strzał w Kolano and Tsev on their [t
 _members_
 
 ⁙ Jakub Majchrzak ([Kurws](https://www.kurws.org/), [Przepych](https://przepych.jimdofree.com/), [Strzał w Kolano](https://jakubmajchrzakmusic.tumblr.com/strzalwkolano))
+
 ⁙ [Sheik Anorak](https://sheikanorak.bandcamp.com/) ([Håla Duett](https://gafferrecords.bandcamp.com/album/rana-ep), [Neige Morte](https://neigemorte.bandcamp.com/))
+
 ⁙ the Fish ([Bamya](https://glarc.bandcamp.com/album/jolly-little-rococo-death-march), [The Fish Vs. Plastic Cowboy Builder](https://paragka.bandcamp.com/album/brains-guy), Το Τέρας)
+
 ⁙ [Tsev](https://tsev.bandcamp.com/) (Το Τέρας)
 
 ⸚ [live snippet vid](https://www.youtube.com/watch?v=-X0vx59-RUM) ⸚
