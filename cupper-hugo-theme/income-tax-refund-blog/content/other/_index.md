@@ -25,6 +25,7 @@ For Belgium (mostly Bxl):
 
 For CZ:
 
+- [jlbjlt.net](https://jlbjlt.net/)
 - [Silver Rocket](https://www.silver-rocket.org/koncerty)
 - [Aww Man](https://awwman.net/) (Praha)
 
